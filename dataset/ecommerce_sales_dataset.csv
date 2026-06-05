@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Customer Name,Order Date,Region,State,City,Product Category,Product Name,Quantity Sold,Unit Price,Discount %,Sales Amount,Cost Amount,Profit Amount,Profit Margin %,Payment Method,Shipping Mode,Delivery Status,Customer Segment
+ORD00001,CUST0058,Customer_13,2024-10-08,South,Karnataka,Bengaluru,Fashion,T-Shirt,2,800,20,1280.0,800,480.0,37.5,Net Banking,Standard,Delivered,Consumer
+ORD00002,CUST0120,Customer_259,2025-09-08,North,Rajasthan,Jaipur,Fashion,Sneakers,4,2800,15,9520.0,7200,2320.0,24.37,Cash on Delivery,Express,In Transit,Consumer
+ORD00003,CUST0082,Customer_217,2024-12-14,West,Maharashtra,Mumbai,Fashion,Jacket,2,3500,0,7000.0,4400,2600.0,37.14,Net Banking,Standard,Delivered,Corporate
+ORD00004,CUST0136,Customer_23,2025-04-15,North,Chandigarh,Chandigarh,Electronics,Tablet,6,18000,20,86400.0,78000,8400.0,9.72,Credit Card,Same Day,Delivered,Home Office
+ORD00005,CUST0117,Customer_149,2024-03-22,South,Karnataka,Bengaluru,Beauty,Shampoo,8,450,25,2700.0,1600,1100.0,40.74,Debit Card,Standard,Delivered,Consumer
+ORD00006,CUST0137,Customer_37,2025-09-15,South,Telangana,Hyderabad,Fashion,Jeans,8,1800,15,12240.0,8000,4240.0,34.64,Debit Card,Same Day,Delivered,Consumer
+ORD00007,CUST0167,Customer_29,2024-08-22,North,Chandigarh,Chandigarh,Beauty,Shampoo,2,450,5,855.0,400,455.0,53.22,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00008,CUST0256,Customer_203,2025-10-20,East,West Bengal,Kolkata,Home & Kitchen,Cookware Set,4,4500,25,13500.0,12000,1500.0,11.11,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00009,CUST0220,Customer_299,2025-02-12,West,Maharashtra,Mumbai,Fashion,Sneakers,2,2800,0,5600.0,3600,2000.0,35.71,UPI,Standard,Delivered,Home Office
+ORD00010,CUST0217,Customer_33,2025-01-29,East,Bihar,Patna,Beauty,Shampoo,1,450,25,337.5,200,137.5,40.74,UPI,Same Day,In Transit,Corporate
+ORD00011,CUST0175,Customer_58,2024-10-27,East,West Bengal,Kolkata,Beauty,Face Wash,5,300,20,1200.0,600,600.0,50.0,Credit Card,Same Day,Returned,Home Office
+ORD00012,CUST0153,Customer_260,2025-09-15,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,1,4500,20,3600.0,3000,600.0,16.67,Debit Card,Express,Delivered,Corporate
+ORD00013,CUST0158,Customer_123,2024-02-29,South,Telangana,Hyderabad,Electronics,Laptop,8,60000,0,480000.0,360000,120000.0,25.0,Cash on Delivery,Standard,Delivered,Corporate
+ORD00014,CUST0282,Customer_85,2024-09-28,East,West Bengal,Kolkata,Fashion,Jacket,7,3500,25,18375.0,15400,2975.0,16.19,Debit Card,Express,In Transit,Corporate
+ORD00015,CUST0062,Customer_127,2024-08-18,North,Chandigarh,Chandigarh,Electronics,Smartphone,4,25000,0,100000.0,72000,28000.0,28.0,UPI,Same Day,Delivered,Consumer
+ORD00016,CUST0035,Customer_17,2024-12-04,North,Rajasthan,Jaipur,Fashion,Jacket,8,3500,5,26600.0,17600,9000.0,33.83,Cash on Delivery,Standard,Delivered,Home Office
+ORD00017,CUST0296,Customer_243,2024-09-05,East,Odisha,Bhubaneswar,Fashion,T-Shirt,2,800,25,1200.0,800,400.0,33.33,Net Banking,Express,Delivered,Corporate
+ORD00018,CUST0028,Customer_51,2024-03-03,East,Bihar,Patna,Home & Kitchen,Mixer,4,3500,5,13300.0,9600,3700.0,27.82,Credit Card,Same Day,Delivered,Corporate
+ORD00019,CUST0094,Customer_143,2025-04-18,South,Karnataka,Bengaluru,Beauty,Face Wash,1,300,25,225.0,120,105.0,46.67,Cash on Delivery,Standard,Returned,Consumer
+ORD00020,CUST0086,Customer_209,2025-05-12,East,West Bengal,Kolkata,Beauty,Face Wash,3,300,15,765.0,360,405.0,52.94,UPI,Express,Delivered,Corporate
+ORD00021,CUST0147,Customer_217,2025-12-14,East,West Bengal,Kolkata,Fashion,Jacket,4,3500,0,14000.0,8800,5200.0,37.14,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00022,CUST0161,Customer_30,2024-02-21,East,Bihar,Patna,Fashion,T-Shirt,2,800,5,1520.0,800,720.0,47.37,UPI,Same Day,Delivered,Consumer
+ORD00023,CUST0207,Customer_62,2025-08-06,South,Telangana,Hyderabad,Electronics,Laptop,7,60000,25,315000.0,315000,0.0,0.0,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00024,CUST0105,Customer_161,2024-09-01,West,Gujarat,Ahmedabad,Fashion,Jacket,8,3500,10,25200.0,17600,7600.0,30.16,UPI,Standard,Delivered,Home Office
+ORD00025,CUST0052,Customer_38,2025-07-04,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,6,4500,0,27000.0,18000,9000.0,33.33,Credit Card,Express,Delivered,Corporate
+ORD00026,CUST0279,Customer_155,2025-09-18,North,Rajasthan,Jaipur,Home & Kitchen,Mixer,3,3500,10,9450.0,7200,2250.0,23.81,UPI,Standard,Delivered,Consumer
+ORD00027,CUST0140,Customer_145,2025-09-11,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,5,4500,20,18000.0,15000,3000.0,16.67,Net Banking,Express,Returned,Consumer
+ORD00028,CUST0048,Customer_217,2024-10-10,North,Delhi,Delhi,Home & Kitchen,Cookware Set,5,4500,5,21375.0,15000,6375.0,29.82,Net Banking,Same Day,Delivered,Home Office
+ORD00029,CUST0005,Customer_58,2024-03-18,South,Telangana,Hyderabad,Electronics,Tablet,3,18000,15,45900.0,39000,6900.0,15.03,Credit Card,Standard,Delivered,Consumer
+ORD00030,CUST0184,Customer_108,2025-11-29,South,Telangana,Hyderabad,Electronics,Tablet,7,18000,20,100800.0,91000,9800.0,9.72,Credit Card,Standard,In Transit,Consumer
+ORD00031,CUST0212,Customer_13,2024-07-02,West,Gujarat,Ahmedabad,Fashion,Jacket,3,3500,25,7875.0,6600,1275.0,16.19,UPI,Express,In Transit,Corporate
+ORD00032,CUST0114,Customer_103,2025-04-16,West,Gujarat,Ahmedabad,Fashion,Jeans,1,1800,25,1350.0,1000,350.0,25.93,Credit Card,Express,Delivered,Consumer
+ORD00033,CUST0143,Customer_180,2025-10-18,East,Bihar,Patna,Home & Kitchen,Mixer,2,3500,10,6300.0,4800,1500.0,23.81,Credit Card,Same Day,Returned,Corporate
+ORD00034,CUST0020,Customer_56,2025-09-02,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,2,7000,15,11900.0,10000,1900.0,15.97,Cash on Delivery,Standard,Delivered,Home Office
+ORD00035,CUST0224,Customer_1,2025-06-16,South,Tamil Nadu,Chennai,Beauty,Face Wash,6,300,20,1440.0,720,720.0,50.0,Debit Card,Same Day,In Transit,Home Office
+ORD00036,CUST0154,Customer_260,2024-11-12,East,Odisha,Bhubaneswar,Beauty,Shampoo,3,450,5,1282.5,600,682.5,53.22,Net Banking,Same Day,Returned,Home Office
+ORD00037,CUST0090,Customer_292,2024-11-04,East,Bihar,Patna,Electronics,Tablet,5,18000,5,85500.0,65000,20500.0,23.98,Net Banking,Same Day,Delivered,Corporate
+ORD00038,CUST0239,Customer_227,2025-03-28,South,Telangana,Hyderabad,Beauty,Perfume,2,1800,10,3240.0,1800,1440.0,44.44,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00039,CUST0048,Customer_121,2025-11-19,West,Maharashtra,Mumbai,Fashion,Jeans,1,1800,0,1800.0,1000,800.0,44.44,Credit Card,Express,Delivered,Consumer
+ORD00040,CUST0234,Customer_213,2025-10-06,South,Telangana,Hyderabad,Beauty,Moisturizer,7,600,5,3990.0,1750,2240.0,56.14,Credit Card,Same Day,Delivered,Consumer
+ORD00041,CUST0218,Customer_113,2024-06-29,East,West Bengal,Kolkata,Fashion,T-Shirt,8,800,5,6080.0,3200,2880.0,47.37,Net Banking,Same Day,Delivered,Home Office
+ORD00042,CUST0163,Customer_227,2025-09-19,East,Bihar,Patna,Beauty,Perfume,8,1800,15,12240.0,7200,5040.0,41.18,Debit Card,Standard,In Transit,Corporate
+ORD00043,CUST0267,Customer_249,2025-10-03,South,Tamil Nadu,Chennai,Beauty,Face Wash,5,300,5,1425.0,600,825.0,57.89,Debit Card,Express,Delivered,Home Office
+ORD00044,CUST0042,Customer_71,2024-06-03,South,Tamil Nadu,Chennai,Fashion,Jeans,2,1800,15,3060.0,2000,1060.0,34.64,Net Banking,Express,Delivered,Corporate
+ORD00045,CUST0032,Customer_106,2025-03-06,East,Bihar,Patna,Electronics,Headphones,8,3000,0,24000.0,14400,9600.0,40.0,Debit Card,Express,Delivered,Corporate
+ORD00046,CUST0276,Customer_280,2025-09-09,South,Tamil Nadu,Chennai,Fashion,Jacket,7,3500,15,20825.0,15400,5425.0,26.05,UPI,Express,Delivered,Home Office
+ORD00047,CUST0208,Customer_85,2025-04-23,South,Telangana,Hyderabad,Electronics,Headphones,1,3000,0,3000.0,1800,1200.0,40.0,Net Banking,Standard,In Transit,Consumer
+ORD00048,CUST0026,Customer_134,2025-01-23,West,Maharashtra,Mumbai,Beauty,Shampoo,6,450,15,2295.0,1200,1095.0,47.71,Debit Card,Express,Delivered,Consumer
+ORD00049,CUST0241,Customer_10,2025-07-06,North,Chandigarh,Chandigarh,Fashion,T-Shirt,1,800,0,800.0,400,400.0,50.0,Credit Card,Standard,In Transit,Home Office
+ORD00050,CUST0079,Customer_123,2024-05-09,East,Bihar,Patna,Electronics,Smartphone,8,25000,25,150000.0,144000,6000.0,4.0,Debit Card,Express,Delivered,Home Office
+ORD00051,CUST0059,Customer_84,2024-11-14,North,Rajasthan,Jaipur,Electronics,Tablet,7,18000,15,107100.0,91000,16100.0,15.03,Credit Card,Standard,Delivered,Home Office
+ORD00052,CUST0125,Customer_53,2025-12-14,West,Maharashtra,Pune,Electronics,Laptop,6,60000,20,288000.0,270000,18000.0,6.25,Net Banking,Same Day,Delivered,Home Office
+ORD00053,CUST0175,Customer_7,2025-03-06,East,West Bengal,Kolkata,Beauty,Shampoo,8,450,25,2700.0,1600,1100.0,40.74,Credit Card,Express,Delivered,Home Office
+ORD00054,CUST0139,Customer_276,2025-05-10,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,4,500,0,2000.0,1000,1000.0,50.0,Debit Card,Express,Delivered,Corporate
+ORD00055,CUST0292,Customer_195,2024-12-10,North,Chandigarh,Chandigarh,Home & Kitchen,Cookware Set,8,4500,5,34200.0,24000,10200.0,29.82,Debit Card,Express,Delivered,Home Office
+ORD00056,CUST0142,Customer_285,2024-01-11,South,Karnataka,Bengaluru,Fashion,Sneakers,8,2800,20,17920.0,14400,3520.0,19.64,Credit Card,Same Day,Delivered,Home Office
+ORD00057,CUST0252,Customer_230,2024-01-18,North,Chandigarh,Chandigarh,Fashion,Sneakers,4,2800,10,10080.0,7200,2880.0,28.57,Cash on Delivery,Express,Delivered,Home Office
+ORD00058,CUST0177,Customer_218,2025-07-17,West,Gujarat,Ahmedabad,Beauty,Shampoo,5,450,10,2025.0,1000,1025.0,50.62,Credit Card,Standard,Delivered,Corporate
+ORD00059,CUST0062,Customer_275,2025-12-07,South,Karnataka,Bengaluru,Fashion,Sneakers,5,2800,25,10500.0,9000,1500.0,14.29,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00060,CUST0100,Customer_152,2024-08-20,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,3,3500,10,9450.0,7200,2250.0,23.81,UPI,Standard,Delivered,Home Office
+ORD00061,CUST0065,Customer_252,2024-04-15,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,8,7000,15,47600.0,40000,7600.0,15.97,Debit Card,Standard,Returned,Corporate
+ORD00062,CUST0245,Customer_59,2024-03-07,East,Odisha,Bhubaneswar,Electronics,Laptop,3,60000,5,171000.0,135000,36000.0,21.05,Cash on Delivery,Express,Delivered,Consumer
+ORD00063,CUST0061,Customer_286,2025-03-02,South,Telangana,Hyderabad,Beauty,Moisturizer,8,600,10,4320.0,2000,2320.0,53.7,Cash on Delivery,Express,Delivered,Home Office
+ORD00064,CUST0031,Customer_51,2024-07-31,South,Tamil Nadu,Chennai,Electronics,Smartphone,4,25000,5,95000.0,72000,23000.0,24.21,Cash on Delivery,Standard,Delivered,Corporate
+ORD00065,CUST0231,Customer_241,2024-10-25,North,Delhi,Delhi,Home & Kitchen,Water Bottle,8,500,0,4000.0,2000,2000.0,50.0,Credit Card,Express,Delivered,Home Office
+ORD00066,CUST0102,Customer_218,2024-04-27,South,Telangana,Hyderabad,Fashion,Jacket,3,3500,0,10500.0,6600,3900.0,37.14,UPI,Standard,Delivered,Home Office
+ORD00067,CUST0292,Customer_148,2025-03-25,North,Chandigarh,Chandigarh,Home & Kitchen,Vacuum Cleaner,5,7000,20,28000.0,25000,3000.0,10.71,Cash on Delivery,Express,Delivered,Home Office
+ORD00068,CUST0021,Customer_222,2024-11-26,West,Maharashtra,Mumbai,Electronics,Smartphone,1,25000,25,18750.0,18000,750.0,4.0,Debit Card,Same Day,Delivered,Consumer
+ORD00069,CUST0241,Customer_266,2025-10-29,East,Odisha,Bhubaneswar,Fashion,Sneakers,8,2800,0,22400.0,14400,8000.0,35.71,Net Banking,Express,Delivered,Corporate
+ORD00070,CUST0054,Customer_83,2024-12-03,East,Bihar,Patna,Beauty,Shampoo,7,450,20,2520.0,1400,1120.0,44.44,UPI,Express,Delivered,Corporate
+ORD00071,CUST0166,Customer_60,2025-02-17,North,Rajasthan,Jaipur,Beauty,Moisturizer,1,600,5,570.0,250,320.0,56.14,Cash on Delivery,Express,Delivered,Corporate
+ORD00072,CUST0227,Customer_27,2024-07-27,West,Maharashtra,Pune,Fashion,Jacket,8,3500,25,21000.0,17600,3400.0,16.19,Net Banking,Standard,Delivered,Home Office
+ORD00073,CUST0123,Customer_82,2024-11-14,North,Rajasthan,Jaipur,Beauty,Face Wash,4,300,0,1200.0,480,720.0,60.0,Net Banking,Standard,Delivered,Consumer
+ORD00074,CUST0256,Customer_150,2025-06-05,West,Gujarat,Ahmedabad,Beauty,Moisturizer,4,600,15,2040.0,1000,1040.0,50.98,Cash on Delivery,Standard,Delivered,Home Office
+ORD00075,CUST0261,Customer_70,2024-03-12,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,1,500,10,450.0,250,200.0,44.44,Debit Card,Same Day,Delivered,Home Office
+ORD00076,CUST0251,Customer_77,2025-04-02,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,8,7000,10,50400.0,40000,10400.0,20.63,Credit Card,Same Day,Delivered,Corporate
+ORD00077,CUST0120,Customer_211,2024-02-14,West,Maharashtra,Pune,Beauty,Moisturizer,7,600,25,3150.0,1750,1400.0,44.44,Credit Card,Express,Returned,Consumer
+ORD00078,CUST0258,Customer_170,2024-04-12,East,West Bengal,Kolkata,Beauty,Face Wash,3,300,15,765.0,360,405.0,52.94,Credit Card,Standard,Delivered,Corporate
+ORD00079,CUST0174,Customer_204,2025-10-27,North,Chandigarh,Chandigarh,Beauty,Shampoo,8,450,20,2880.0,1600,1280.0,44.44,UPI,Same Day,Delivered,Home Office
+ORD00080,CUST0148,Customer_117,2024-04-02,East,West Bengal,Kolkata,Electronics,Headphones,3,3000,25,6750.0,5400,1350.0,20.0,Debit Card,Standard,Delivered,Consumer
+ORD00081,CUST0151,Customer_184,2025-01-18,East,West Bengal,Kolkata,Fashion,Sneakers,3,2800,5,7980.0,5400,2580.0,32.33,Credit Card,Standard,Delivered,Corporate
+ORD00082,CUST0124,Customer_255,2025-08-20,South,Karnataka,Bengaluru,Beauty,Shampoo,8,450,10,3240.0,1600,1640.0,50.62,UPI,Express,Returned,Home Office
+ORD00083,CUST0280,Customer_81,2024-03-16,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,5,7000,15,29750.0,25000,4750.0,15.97,Debit Card,Standard,Cancelled,Corporate
+ORD00084,CUST0055,Customer_122,2025-01-25,West,Maharashtra,Pune,Home & Kitchen,Water Bottle,1,500,25,375.0,250,125.0,33.33,Net Banking,Express,Delivered,Home Office
+ORD00085,CUST0026,Customer_255,2024-10-20,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,4,4500,20,14400.0,12000,2400.0,16.67,Debit Card,Same Day,Delivered,Home Office
+ORD00086,CUST0071,Customer_50,2025-10-04,North,Chandigarh,Chandigarh,Beauty,Face Wash,6,300,25,1350.0,720,630.0,46.67,Credit Card,Standard,Returned,Corporate
+ORD00087,CUST0213,Customer_90,2024-07-24,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,3,500,10,1350.0,750,600.0,44.44,Net Banking,Express,Delivered,Corporate
+ORD00088,CUST0059,Customer_240,2024-03-18,South,Karnataka,Bengaluru,Beauty,Shampoo,2,450,15,765.0,400,365.0,47.71,UPI,Express,Delivered,Corporate
+ORD00089,CUST0189,Customer_135,2025-08-21,East,Bihar,Patna,Home & Kitchen,Mixer,4,3500,15,11900.0,9600,2300.0,19.33,UPI,Same Day,In Transit,Home Office
+ORD00090,CUST0168,Customer_114,2025-10-25,North,Rajasthan,Jaipur,Beauty,Shampoo,7,450,0,3150.0,1400,1750.0,55.56,Credit Card,Standard,Returned,Corporate
+ORD00091,CUST0253,Customer_60,2024-04-09,South,Telangana,Hyderabad,Fashion,Sneakers,8,2800,10,20160.0,14400,5760.0,28.57,Cash on Delivery,Express,Delivered,Home Office
+ORD00092,CUST0080,Customer_213,2025-11-01,North,Chandigarh,Chandigarh,Beauty,Shampoo,1,450,25,337.5,200,137.5,40.74,Debit Card,Standard,Delivered,Consumer
+ORD00093,CUST0186,Customer_51,2025-12-03,West,Maharashtra,Pune,Home & Kitchen,Mixer,7,3500,10,22050.0,16800,5250.0,23.81,Credit Card,Standard,Returned,Corporate
+ORD00094,CUST0047,Customer_109,2025-10-19,North,Delhi,Delhi,Home & Kitchen,Cookware Set,3,4500,20,10800.0,9000,1800.0,16.67,Credit Card,Standard,In Transit,Home Office
+ORD00095,CUST0107,Customer_111,2024-08-26,West,Maharashtra,Mumbai,Electronics,Tablet,3,18000,5,51300.0,39000,12300.0,23.98,Cash on Delivery,Express,Delivered,Consumer
+ORD00096,CUST0014,Customer_68,2024-01-16,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,3,3500,10,9450.0,7200,2250.0,23.81,UPI,Standard,Delivered,Home Office
+ORD00097,CUST0059,Customer_33,2025-05-02,East,Odisha,Bhubaneswar,Electronics,Headphones,4,3000,20,9600.0,7200,2400.0,25.0,UPI,Same Day,Delivered,Home Office
+ORD00098,CUST0267,Customer_155,2025-04-14,North,Delhi,Delhi,Beauty,Moisturizer,7,600,25,3150.0,1750,1400.0,44.44,UPI,Express,Delivered,Corporate
+ORD00099,CUST0038,Customer_42,2024-11-25,South,Karnataka,Bengaluru,Fashion,Jacket,6,3500,15,17850.0,13200,4650.0,26.05,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00100,CUST0221,Customer_51,2025-12-19,North,Rajasthan,Jaipur,Fashion,Sneakers,8,2800,5,21280.0,14400,6880.0,32.33,Net Banking,Express,In Transit,Corporate
+ORD00101,CUST0213,Customer_49,2024-11-16,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,3,500,25,1125.0,750,375.0,33.33,Net Banking,Standard,Delivered,Consumer
+ORD00102,CUST0048,Customer_222,2024-04-08,West,Maharashtra,Mumbai,Electronics,Tablet,2,18000,15,30600.0,26000,4600.0,15.03,Debit Card,Same Day,Returned,Corporate
+ORD00103,CUST0027,Customer_148,2025-09-06,West,Gujarat,Ahmedabad,Electronics,Smartphone,3,25000,25,56250.0,54000,2250.0,4.0,Net Banking,Standard,In Transit,Corporate
+ORD00104,CUST0285,Customer_189,2024-04-27,West,Maharashtra,Pune,Fashion,Sneakers,1,2800,20,2240.0,1800,440.0,19.64,Debit Card,Standard,Delivered,Home Office
+ORD00105,CUST0159,Customer_174,2024-12-25,North,Delhi,Delhi,Fashion,Sneakers,2,2800,5,5320.0,3600,1720.0,32.33,UPI,Standard,Delivered,Consumer
+ORD00106,CUST0193,Customer_215,2025-04-09,West,Maharashtra,Mumbai,Home & Kitchen,Water Bottle,6,500,20,2400.0,1500,900.0,37.5,Cash on Delivery,Standard,In Transit,Consumer
+ORD00107,CUST0081,Customer_26,2025-11-21,North,Chandigarh,Chandigarh,Beauty,Moisturizer,8,600,20,3840.0,2000,1840.0,47.92,Net Banking,Express,Delivered,Home Office
+ORD00108,CUST0059,Customer_177,2025-03-16,North,Chandigarh,Chandigarh,Beauty,Shampoo,1,450,5,427.5,200,227.5,53.22,Net Banking,Same Day,Delivered,Consumer
+ORD00109,CUST0155,Customer_109,2024-05-20,West,Gujarat,Ahmedabad,Home & Kitchen,Mixer,1,3500,15,2975.0,2400,575.0,19.33,Net Banking,Standard,Delivered,Home Office
+ORD00110,CUST0118,Customer_257,2025-07-26,West,Maharashtra,Mumbai,Beauty,Face Wash,7,300,0,2100.0,840,1260.0,60.0,Net Banking,Standard,In Transit,Home Office
+ORD00111,CUST0220,Customer_294,2025-02-18,East,Odisha,Bhubaneswar,Electronics,Headphones,1,3000,10,2700.0,1800,900.0,33.33,Credit Card,Same Day,Delivered,Home Office
+ORD00112,CUST0186,Customer_46,2025-03-23,North,Delhi,Delhi,Beauty,Moisturizer,2,600,15,1020.0,500,520.0,50.98,Debit Card,Same Day,Delivered,Corporate
+ORD00113,CUST0087,Customer_40,2025-06-06,North,Rajasthan,Jaipur,Fashion,Jacket,6,3500,25,15750.0,13200,2550.0,16.19,Credit Card,Standard,Delivered,Corporate
+ORD00114,CUST0102,Customer_89,2025-09-08,South,Telangana,Hyderabad,Electronics,Smartphone,8,25000,15,170000.0,144000,26000.0,15.29,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00115,CUST0166,Customer_162,2024-06-03,East,West Bengal,Kolkata,Beauty,Moisturizer,5,600,10,2700.0,1250,1450.0,53.7,Cash on Delivery,Standard,Delivered,Consumer
+ORD00116,CUST0159,Customer_237,2025-04-07,North,Delhi,Delhi,Home & Kitchen,Water Bottle,2,500,25,750.0,500,250.0,33.33,UPI,Same Day,Delivered,Corporate
+ORD00117,CUST0237,Customer_298,2025-07-21,North,Chandigarh,Chandigarh,Fashion,Jacket,8,3500,20,22400.0,17600,4800.0,21.43,Credit Card,Standard,Delivered,Corporate
+ORD00118,CUST0044,Customer_259,2025-10-23,South,Karnataka,Bengaluru,Fashion,Sneakers,8,2800,20,17920.0,14400,3520.0,19.64,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00119,CUST0145,Customer_199,2025-02-22,West,Maharashtra,Pune,Electronics,Tablet,2,18000,10,32400.0,26000,6400.0,19.75,UPI,Same Day,Delivered,Corporate
+ORD00120,CUST0130,Customer_77,2024-12-07,North,Rajasthan,Jaipur,Fashion,Jacket,5,3500,25,13125.0,11000,2125.0,16.19,Net Banking,Standard,Delivered,Consumer
+ORD00121,CUST0159,Customer_287,2025-01-20,West,Maharashtra,Mumbai,Electronics,Headphones,6,3000,0,18000.0,10800,7200.0,40.0,Debit Card,Express,Delivered,Consumer
+ORD00122,CUST0175,Customer_249,2024-07-15,South,Karnataka,Bengaluru,Fashion,T-Shirt,5,800,0,4000.0,2000,2000.0,50.0,Cash on Delivery,Same Day,In Transit,Home Office
+ORD00123,CUST0020,Customer_173,2025-09-24,South,Telangana,Hyderabad,Beauty,Perfume,3,1800,5,5130.0,2700,2430.0,47.37,Cash on Delivery,Standard,Delivered,Consumer
+ORD00124,CUST0211,Customer_187,2025-11-23,South,Tamil Nadu,Chennai,Home & Kitchen,Vacuum Cleaner,4,7000,20,22400.0,20000,2400.0,10.71,Credit Card,Express,Returned,Corporate
+ORD00125,CUST0100,Customer_189,2025-11-25,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,7,7000,5,46550.0,35000,11550.0,24.81,Credit Card,Same Day,Delivered,Corporate
+ORD00126,CUST0027,Customer_247,2025-01-15,North,Rajasthan,Jaipur,Electronics,Tablet,2,18000,5,34200.0,26000,8200.0,23.98,Debit Card,Express,Returned,Consumer
+ORD00127,CUST0224,Customer_47,2024-08-15,East,Odisha,Bhubaneswar,Electronics,Headphones,1,3000,15,2550.0,1800,750.0,29.41,Cash on Delivery,Express,Delivered,Consumer
+ORD00128,CUST0192,Customer_115,2024-01-29,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,3,4500,0,13500.0,9000,4500.0,33.33,Debit Card,Express,Delivered,Consumer
+ORD00129,CUST0241,Customer_230,2025-09-22,North,Delhi,Delhi,Electronics,Tablet,4,18000,5,68400.0,52000,16400.0,23.98,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00130,CUST0057,Customer_148,2024-08-31,West,Maharashtra,Mumbai,Electronics,Smartphone,7,25000,25,131250.0,126000,5250.0,4.0,Cash on Delivery,Express,Delivered,Corporate
+ORD00131,CUST0275,Customer_9,2025-10-09,South,Telangana,Hyderabad,Fashion,Jacket,7,3500,0,24500.0,15400,9100.0,37.14,Cash on Delivery,Express,Delivered,Corporate
+ORD00132,CUST0096,Customer_44,2025-06-20,West,Maharashtra,Mumbai,Electronics,Headphones,8,3000,0,24000.0,14400,9600.0,40.0,Net Banking,Express,Delivered,Consumer
+ORD00133,CUST0183,Customer_35,2024-12-19,South,Telangana,Hyderabad,Electronics,Tablet,3,18000,0,54000.0,39000,15000.0,27.78,Debit Card,Same Day,Delivered,Home Office
+ORD00134,CUST0090,Customer_238,2025-12-13,East,Bihar,Patna,Fashion,Jeans,2,1800,25,2700.0,2000,700.0,25.93,Net Banking,Standard,Delivered,Consumer
+ORD00135,CUST0103,Customer_22,2024-11-19,West,Maharashtra,Pune,Beauty,Moisturizer,5,600,0,3000.0,1250,1750.0,58.33,Credit Card,Express,Delivered,Consumer
+ORD00136,CUST0170,Customer_140,2024-05-07,West,Gujarat,Ahmedabad,Beauty,Moisturizer,7,600,10,3780.0,1750,2030.0,53.7,Credit Card,Express,Delivered,Corporate
+ORD00137,CUST0266,Customer_137,2024-03-25,East,West Bengal,Kolkata,Beauty,Perfume,5,1800,10,8100.0,4500,3600.0,44.44,UPI,Standard,Delivered,Corporate
+ORD00138,CUST0157,Customer_229,2025-09-09,East,West Bengal,Kolkata,Beauty,Shampoo,8,450,0,3600.0,1600,2000.0,55.56,Debit Card,Same Day,Cancelled,Corporate
+ORD00139,CUST0030,Customer_39,2025-11-18,East,Odisha,Bhubaneswar,Fashion,T-Shirt,3,800,20,1920.0,1200,720.0,37.5,Net Banking,Standard,Delivered,Consumer
+ORD00140,CUST0188,Customer_186,2025-01-27,North,Rajasthan,Jaipur,Fashion,Sneakers,6,2800,10,15120.0,10800,4320.0,28.57,Net Banking,Standard,Delivered,Home Office
+ORD00141,CUST0188,Customer_204,2024-11-17,West,Maharashtra,Mumbai,Electronics,Laptop,3,60000,15,153000.0,135000,18000.0,11.76,Cash on Delivery,Express,Returned,Consumer
+ORD00142,CUST0135,Customer_134,2025-12-21,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,4,7000,0,28000.0,20000,8000.0,28.57,Credit Card,Standard,Delivered,Home Office
+ORD00143,CUST0228,Customer_45,2025-11-29,West,Maharashtra,Pune,Home & Kitchen,Mixer,5,3500,10,15750.0,12000,3750.0,23.81,Credit Card,Same Day,Delivered,Home Office
+ORD00144,CUST0090,Customer_186,2025-06-04,South,Karnataka,Bengaluru,Fashion,Jeans,4,1800,15,6120.0,4000,2120.0,34.64,UPI,Express,Delivered,Corporate
+ORD00145,CUST0240,Customer_283,2024-05-12,North,Delhi,Delhi,Home & Kitchen,Vacuum Cleaner,8,7000,20,44800.0,40000,4800.0,10.71,Net Banking,Express,In Transit,Consumer
+ORD00146,CUST0065,Customer_163,2025-10-19,North,Chandigarh,Chandigarh,Beauty,Shampoo,3,450,20,1080.0,600,480.0,44.44,Cash on Delivery,Standard,Delivered,Consumer
+ORD00147,CUST0222,Customer_258,2024-02-26,North,Rajasthan,Jaipur,Fashion,Jacket,3,3500,5,9975.0,6600,3375.0,33.83,Debit Card,Same Day,Delivered,Home Office
+ORD00148,CUST0146,Customer_41,2024-09-13,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,5,4500,20,18000.0,15000,3000.0,16.67,Cash on Delivery,Standard,Delivered,Consumer
+ORD00149,CUST0298,Customer_79,2024-06-24,West,Maharashtra,Pune,Electronics,Laptop,2,60000,0,120000.0,90000,30000.0,25.0,Cash on Delivery,Express,Delivered,Home Office
+ORD00150,CUST0214,Customer_16,2025-05-24,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,4,7000,25,21000.0,20000,1000.0,4.76,Net Banking,Express,Delivered,Home Office
+ORD00151,CUST0031,Customer_81,2025-03-26,East,Odisha,Bhubaneswar,Beauty,Perfume,6,1800,20,8640.0,5400,3240.0,37.5,Credit Card,Express,In Transit,Corporate
+ORD00152,CUST0177,Customer_205,2024-05-13,West,Maharashtra,Pune,Electronics,Tablet,4,18000,15,61200.0,52000,9200.0,15.03,UPI,Express,Delivered,Consumer
+ORD00153,CUST0050,Customer_26,2024-10-24,East,Bihar,Patna,Beauty,Perfume,3,1800,10,4860.0,2700,2160.0,44.44,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00154,CUST0256,Customer_264,2025-04-23,East,Odisha,Bhubaneswar,Beauty,Face Wash,2,300,15,510.0,240,270.0,52.94,Cash on Delivery,Express,Returned,Consumer
+ORD00155,CUST0299,Customer_181,2024-02-19,North,Chandigarh,Chandigarh,Beauty,Moisturizer,5,600,20,2400.0,1250,1150.0,47.92,UPI,Standard,Delivered,Corporate
+ORD00156,CUST0188,Customer_207,2025-01-09,North,Chandigarh,Chandigarh,Electronics,Smartphone,6,25000,20,120000.0,108000,12000.0,10.0,Debit Card,Standard,Delivered,Corporate
+ORD00157,CUST0282,Customer_144,2025-09-30,North,Delhi,Delhi,Electronics,Headphones,6,3000,10,16200.0,10800,5400.0,33.33,Cash on Delivery,Express,Delivered,Consumer
+ORD00158,CUST0261,Customer_206,2025-05-27,North,Delhi,Delhi,Electronics,Smartphone,6,25000,15,127500.0,108000,19500.0,15.29,Cash on Delivery,Express,Delivered,Home Office
+ORD00159,CUST0072,Customer_168,2025-09-19,West,Maharashtra,Mumbai,Beauty,Shampoo,6,450,20,2160.0,1200,960.0,44.44,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00160,CUST0154,Customer_244,2024-01-18,West,Gujarat,Ahmedabad,Electronics,Headphones,5,3000,25,11250.0,9000,2250.0,20.0,UPI,Same Day,Delivered,Home Office
+ORD00161,CUST0297,Customer_296,2024-08-21,North,Rajasthan,Jaipur,Beauty,Perfume,7,1800,5,11970.0,6300,5670.0,47.37,Credit Card,Standard,Delivered,Home Office
+ORD00162,CUST0057,Customer_98,2024-01-20,East,Odisha,Bhubaneswar,Beauty,Perfume,7,1800,25,9450.0,6300,3150.0,33.33,Credit Card,Express,Delivered,Home Office
+ORD00163,CUST0242,Customer_32,2025-12-23,South,Telangana,Hyderabad,Fashion,Jacket,8,3500,20,22400.0,17600,4800.0,21.43,Net Banking,Express,Returned,Corporate
+ORD00164,CUST0273,Customer_176,2025-07-13,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,4,7000,5,26600.0,20000,6600.0,24.81,Debit Card,Same Day,Delivered,Corporate
+ORD00165,CUST0148,Customer_107,2025-12-07,East,Odisha,Bhubaneswar,Beauty,Shampoo,5,450,10,2025.0,1000,1025.0,50.62,UPI,Same Day,Delivered,Corporate
+ORD00166,CUST0203,Customer_177,2024-05-29,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,6,3500,15,17850.0,14400,3450.0,19.33,Debit Card,Same Day,Delivered,Consumer
+ORD00167,CUST0276,Customer_139,2025-07-29,West,Maharashtra,Mumbai,Electronics,Smartphone,4,25000,0,100000.0,72000,28000.0,28.0,Cash on Delivery,Standard,Delivered,Consumer
+ORD00168,CUST0052,Customer_212,2024-12-04,East,West Bengal,Kolkata,Fashion,T-Shirt,3,800,15,2040.0,1200,840.0,41.18,Net Banking,Express,Delivered,Corporate
+ORD00169,CUST0165,Customer_147,2025-10-23,North,Delhi,Delhi,Fashion,T-Shirt,3,800,15,2040.0,1200,840.0,41.18,Credit Card,Standard,Cancelled,Corporate
+ORD00170,CUST0254,Customer_96,2024-10-23,North,Delhi,Delhi,Home & Kitchen,Mixer,6,3500,10,18900.0,14400,4500.0,23.81,Net Banking,Same Day,Delivered,Corporate
+ORD00171,CUST0069,Customer_259,2025-04-24,West,Maharashtra,Mumbai,Electronics,Tablet,3,18000,25,40500.0,39000,1500.0,3.7,Net Banking,Same Day,Delivered,Consumer
+ORD00172,CUST0008,Customer_173,2024-10-29,South,Karnataka,Bengaluru,Beauty,Moisturizer,6,600,0,3600.0,1500,2100.0,58.33,Net Banking,Same Day,Delivered,Consumer
+ORD00173,CUST0245,Customer_166,2024-09-11,North,Chandigarh,Chandigarh,Beauty,Perfume,8,1800,10,12960.0,7200,5760.0,44.44,Debit Card,Express,Delivered,Home Office
+ORD00174,CUST0006,Customer_134,2025-10-31,West,Maharashtra,Pune,Fashion,T-Shirt,2,800,15,1360.0,800,560.0,41.18,Debit Card,Standard,Delivered,Home Office
+ORD00175,CUST0160,Customer_61,2025-10-16,West,Gujarat,Ahmedabad,Fashion,Jeans,3,1800,15,4590.0,3000,1590.0,34.64,Credit Card,Express,Delivered,Home Office
+ORD00176,CUST0192,Customer_213,2025-12-19,East,Bihar,Patna,Fashion,Jeans,2,1800,20,2880.0,2000,880.0,30.56,Net Banking,Same Day,Delivered,Consumer
+ORD00177,CUST0289,Customer_58,2024-03-04,South,Telangana,Hyderabad,Fashion,Jeans,6,1800,20,8640.0,6000,2640.0,30.56,Net Banking,Standard,Delivered,Home Office
+ORD00178,CUST0299,Customer_251,2024-04-03,East,West Bengal,Kolkata,Beauty,Perfume,7,1800,15,10710.0,6300,4410.0,41.18,Cash on Delivery,Standard,Delivered,Home Office
+ORD00179,CUST0158,Customer_12,2025-02-09,West,Maharashtra,Mumbai,Fashion,T-Shirt,1,800,15,680.0,400,280.0,41.18,Debit Card,Same Day,Delivered,Consumer
+ORD00180,CUST0036,Customer_242,2024-02-02,West,Gujarat,Ahmedabad,Fashion,Jeans,7,1800,10,11340.0,7000,4340.0,38.27,Net Banking,Express,In Transit,Corporate
+ORD00181,CUST0193,Customer_42,2025-11-30,South,Telangana,Hyderabad,Home & Kitchen,Mixer,3,3500,20,8400.0,7200,1200.0,14.29,Net Banking,Same Day,Delivered,Consumer
+ORD00182,CUST0002,Customer_12,2024-11-01,East,Bihar,Patna,Beauty,Moisturizer,4,600,5,2280.0,1000,1280.0,56.14,Net Banking,Express,Delivered,Consumer
+ORD00183,CUST0058,Customer_17,2025-11-07,East,Bihar,Patna,Electronics,Smartphone,4,25000,0,100000.0,72000,28000.0,28.0,UPI,Same Day,Delivered,Home Office
+ORD00184,CUST0025,Customer_126,2024-02-15,East,Odisha,Bhubaneswar,Fashion,Jeans,1,1800,5,1710.0,1000,710.0,41.52,Cash on Delivery,Express,Delivered,Home Office
+ORD00185,CUST0295,Customer_164,2025-08-14,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,4,4500,15,15300.0,12000,3300.0,21.57,Debit Card,Express,Delivered,Home Office
+ORD00186,CUST0090,Customer_219,2025-07-23,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,6,7000,25,31500.0,30000,1500.0,4.76,Net Banking,Express,Delivered,Corporate
+ORD00187,CUST0095,Customer_276,2025-04-29,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,8,4500,0,36000.0,24000,12000.0,33.33,Cash on Delivery,Express,Returned,Home Office
+ORD00188,CUST0272,Customer_69,2025-02-01,South,Tamil Nadu,Chennai,Fashion,Jacket,2,3500,15,5950.0,4400,1550.0,26.05,Debit Card,Standard,Delivered,Consumer
+ORD00189,CUST0027,Customer_138,2025-01-21,North,Delhi,Delhi,Fashion,Jeans,8,1800,5,13680.0,8000,5680.0,41.52,Debit Card,Express,Returned,Consumer
+ORD00190,CUST0109,Customer_98,2024-04-30,East,West Bengal,Kolkata,Fashion,Sneakers,4,2800,20,8960.0,7200,1760.0,19.64,Debit Card,Express,Delivered,Home Office
+ORD00191,CUST0184,Customer_158,2024-09-24,West,Maharashtra,Pune,Beauty,Moisturizer,2,600,25,900.0,500,400.0,44.44,Net Banking,Express,Returned,Corporate
+ORD00192,CUST0161,Customer_212,2024-02-16,South,Telangana,Hyderabad,Fashion,T-Shirt,5,800,20,3200.0,2000,1200.0,37.5,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00193,CUST0079,Customer_101,2024-12-03,South,Tamil Nadu,Chennai,Fashion,Sneakers,6,2800,10,15120.0,10800,4320.0,28.57,Net Banking,Same Day,Delivered,Corporate
+ORD00194,CUST0236,Customer_87,2024-12-26,South,Karnataka,Bengaluru,Beauty,Perfume,1,1800,20,1440.0,900,540.0,37.5,UPI,Standard,Returned,Home Office
+ORD00195,CUST0025,Customer_4,2025-02-26,South,Telangana,Hyderabad,Fashion,T-Shirt,3,800,0,2400.0,1200,1200.0,50.0,Credit Card,Same Day,Delivered,Consumer
+ORD00196,CUST0248,Customer_250,2024-01-17,North,Rajasthan,Jaipur,Beauty,Face Wash,1,300,20,240.0,120,120.0,50.0,Debit Card,Same Day,Cancelled,Consumer
+ORD00197,CUST0258,Customer_221,2024-07-02,North,Delhi,Delhi,Fashion,Jeans,4,1800,20,5760.0,4000,1760.0,30.56,Cash on Delivery,Express,In Transit,Corporate
+ORD00198,CUST0204,Customer_41,2025-01-17,East,Odisha,Bhubaneswar,Fashion,Jeans,5,1800,25,6750.0,5000,1750.0,25.93,UPI,Same Day,Cancelled,Home Office
+ORD00199,CUST0017,Customer_48,2025-02-19,East,Odisha,Bhubaneswar,Beauty,Face Wash,1,300,25,225.0,120,105.0,46.67,Credit Card,Standard,Delivered,Corporate
+ORD00200,CUST0170,Customer_290,2024-04-07,North,Delhi,Delhi,Fashion,Sneakers,5,2800,0,14000.0,9000,5000.0,35.71,UPI,Same Day,Returned,Home Office
+ORD00201,CUST0289,Customer_17,2024-07-02,West,Maharashtra,Mumbai,Fashion,Jeans,7,1800,0,12600.0,7000,5600.0,44.44,Debit Card,Standard,Delivered,Home Office
+ORD00202,CUST0200,Customer_277,2024-12-05,East,Bihar,Patna,Fashion,T-Shirt,6,800,0,4800.0,2400,2400.0,50.0,UPI,Express,Delivered,Consumer
+ORD00203,CUST0175,Customer_204,2024-11-30,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,8,7000,5,53200.0,40000,13200.0,24.81,Debit Card,Same Day,Returned,Corporate
+ORD00204,CUST0096,Customer_300,2025-11-07,East,West Bengal,Kolkata,Home & Kitchen,Cookware Set,2,4500,0,9000.0,6000,3000.0,33.33,Debit Card,Standard,Delivered,Home Office
+ORD00205,CUST0079,Customer_200,2024-11-20,West,Maharashtra,Mumbai,Electronics,Laptop,5,60000,15,255000.0,225000,30000.0,11.76,Debit Card,Express,Delivered,Consumer
+ORD00206,CUST0096,Customer_221,2025-04-04,East,West Bengal,Kolkata,Electronics,Laptop,6,60000,20,288000.0,270000,18000.0,6.25,UPI,Same Day,Delivered,Corporate
+ORD00207,CUST0198,Customer_7,2024-10-25,East,Odisha,Bhubaneswar,Electronics,Smartphone,3,25000,25,56250.0,54000,2250.0,4.0,Net Banking,Standard,Delivered,Corporate
+ORD00208,CUST0138,Customer_253,2024-05-29,North,Delhi,Delhi,Beauty,Shampoo,7,450,10,2835.0,1400,1435.0,50.62,Net Banking,Standard,Delivered,Consumer
+ORD00209,CUST0254,Customer_101,2025-04-13,North,Delhi,Delhi,Home & Kitchen,Mixer,7,3500,10,22050.0,16800,5250.0,23.81,Cash on Delivery,Express,In Transit,Corporate
+ORD00210,CUST0226,Customer_172,2025-03-16,South,Tamil Nadu,Chennai,Home & Kitchen,Cookware Set,8,4500,10,32400.0,24000,8400.0,25.93,Credit Card,Express,Returned,Corporate
+ORD00211,CUST0252,Customer_295,2024-09-05,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,6,7000,0,42000.0,30000,12000.0,28.57,Cash on Delivery,Standard,Delivered,Home Office
+ORD00212,CUST0093,Customer_282,2024-01-28,East,Bihar,Patna,Fashion,Sneakers,5,2800,25,10500.0,9000,1500.0,14.29,UPI,Express,Delivered,Consumer
+ORD00213,CUST0156,Customer_124,2024-09-15,South,Telangana,Hyderabad,Beauty,Moisturizer,2,600,15,1020.0,500,520.0,50.98,Cash on Delivery,Express,Delivered,Home Office
+ORD00214,CUST0260,Customer_215,2025-07-10,North,Chandigarh,Chandigarh,Electronics,Laptop,4,60000,25,180000.0,180000,0.0,0.0,Debit Card,Standard,Delivered,Consumer
+ORD00215,CUST0289,Customer_205,2024-12-05,East,West Bengal,Kolkata,Electronics,Laptop,5,60000,5,285000.0,225000,60000.0,21.05,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00216,CUST0295,Customer_114,2025-04-01,West,Gujarat,Ahmedabad,Beauty,Perfume,6,1800,0,10800.0,5400,5400.0,50.0,Net Banking,Standard,Delivered,Consumer
+ORD00217,CUST0060,Customer_73,2024-12-22,West,Gujarat,Ahmedabad,Beauty,Perfume,8,1800,10,12960.0,7200,5760.0,44.44,Net Banking,Standard,Delivered,Home Office
+ORD00218,CUST0232,Customer_164,2024-03-09,West,Maharashtra,Mumbai,Electronics,Laptop,6,60000,25,270000.0,270000,0.0,0.0,UPI,Same Day,In Transit,Home Office
+ORD00219,CUST0125,Customer_265,2024-06-27,South,Tamil Nadu,Chennai,Beauty,Moisturizer,4,600,15,2040.0,1000,1040.0,50.98,Credit Card,Standard,Delivered,Corporate
+ORD00220,CUST0203,Customer_15,2025-09-20,South,Tamil Nadu,Chennai,Beauty,Moisturizer,1,600,25,450.0,250,200.0,44.44,Credit Card,Standard,Delivered,Home Office
+ORD00221,CUST0033,Customer_296,2024-04-14,South,Tamil Nadu,Chennai,Home & Kitchen,Cookware Set,8,4500,0,36000.0,24000,12000.0,33.33,Debit Card,Same Day,In Transit,Home Office
+ORD00222,CUST0161,Customer_199,2025-09-17,East,Bihar,Patna,Electronics,Tablet,6,18000,15,91800.0,78000,13800.0,15.03,Cash on Delivery,Standard,In Transit,Home Office
+ORD00223,CUST0153,Customer_44,2025-11-19,South,Tamil Nadu,Chennai,Electronics,Smartphone,5,25000,0,125000.0,90000,35000.0,28.0,Credit Card,Express,Delivered,Home Office
+ORD00224,CUST0199,Customer_215,2025-09-02,South,Telangana,Hyderabad,Beauty,Moisturizer,3,600,15,1530.0,750,780.0,50.98,Cash on Delivery,Same Day,Returned,Consumer
+ORD00225,CUST0285,Customer_86,2025-05-16,West,Maharashtra,Mumbai,Fashion,Jacket,8,3500,20,22400.0,17600,4800.0,21.43,UPI,Express,Returned,Corporate
+ORD00226,CUST0070,Customer_100,2025-01-28,East,Odisha,Bhubaneswar,Beauty,Moisturizer,8,600,15,4080.0,2000,2080.0,50.98,Credit Card,Standard,Delivered,Consumer
+ORD00227,CUST0150,Customer_17,2024-10-08,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,8,4500,20,28800.0,24000,4800.0,16.67,Net Banking,Same Day,Delivered,Home Office
+ORD00228,CUST0059,Customer_138,2025-07-10,West,Maharashtra,Pune,Electronics,Headphones,4,3000,15,10200.0,7200,3000.0,29.41,UPI,Same Day,In Transit,Consumer
+ORD00229,CUST0153,Customer_17,2025-04-05,West,Gujarat,Ahmedabad,Electronics,Headphones,2,3000,5,5700.0,3600,2100.0,36.84,Credit Card,Same Day,Delivered,Corporate
+ORD00230,CUST0220,Customer_85,2025-09-22,South,Karnataka,Bengaluru,Fashion,T-Shirt,6,800,20,3840.0,2400,1440.0,37.5,Debit Card,Same Day,Delivered,Corporate
+ORD00231,CUST0150,Customer_149,2025-08-09,West,Maharashtra,Pune,Electronics,Smartphone,7,25000,0,175000.0,126000,49000.0,28.0,Debit Card,Same Day,Delivered,Consumer
+ORD00232,CUST0128,Customer_75,2025-12-29,West,Maharashtra,Mumbai,Beauty,Moisturizer,3,600,20,1440.0,750,690.0,47.92,Debit Card,Same Day,Delivered,Corporate
+ORD00233,CUST0039,Customer_48,2025-02-16,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,8,7000,10,50400.0,40000,10400.0,20.63,Cash on Delivery,Standard,In Transit,Home Office
+ORD00234,CUST0048,Customer_235,2025-10-12,West,Maharashtra,Mumbai,Beauty,Perfume,7,1800,5,11970.0,6300,5670.0,47.37,Net Banking,Express,Delivered,Corporate
+ORD00235,CUST0173,Customer_281,2025-08-14,South,Telangana,Hyderabad,Beauty,Shampoo,1,450,0,450.0,200,250.0,55.56,UPI,Same Day,Delivered,Corporate
+ORD00236,CUST0009,Customer_64,2024-06-10,East,Odisha,Bhubaneswar,Electronics,Headphones,4,3000,25,9000.0,7200,1800.0,20.0,Credit Card,Same Day,Delivered,Corporate
+ORD00237,CUST0048,Customer_185,2024-09-13,North,Chandigarh,Chandigarh,Fashion,T-Shirt,7,800,25,4200.0,2800,1400.0,33.33,Debit Card,Same Day,Delivered,Consumer
+ORD00238,CUST0220,Customer_47,2025-12-21,North,Delhi,Delhi,Fashion,Sneakers,2,2800,5,5320.0,3600,1720.0,32.33,Cash on Delivery,Standard,Delivered,Corporate
+ORD00239,CUST0005,Customer_5,2025-12-13,West,Maharashtra,Mumbai,Beauty,Perfume,8,1800,0,14400.0,7200,7200.0,50.0,Credit Card,Express,Delivered,Consumer
+ORD00240,CUST0053,Customer_161,2025-01-11,West,Maharashtra,Mumbai,Beauty,Perfume,3,1800,0,5400.0,2700,2700.0,50.0,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00241,CUST0085,Customer_226,2024-12-25,South,Telangana,Hyderabad,Fashion,Sneakers,8,2800,5,21280.0,14400,6880.0,32.33,UPI,Standard,Delivered,Consumer
+ORD00242,CUST0197,Customer_180,2025-03-15,West,Maharashtra,Mumbai,Fashion,Jacket,2,3500,5,6650.0,4400,2250.0,33.83,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00243,CUST0146,Customer_14,2025-11-05,West,Maharashtra,Mumbai,Fashion,Sneakers,5,2800,25,10500.0,9000,1500.0,14.29,UPI,Standard,Delivered,Consumer
+ORD00244,CUST0124,Customer_256,2025-10-15,North,Rajasthan,Jaipur,Electronics,Tablet,6,18000,5,102600.0,78000,24600.0,23.98,Net Banking,Same Day,Delivered,Home Office
+ORD00245,CUST0089,Customer_242,2024-03-15,North,Rajasthan,Jaipur,Electronics,Laptop,5,60000,5,285000.0,225000,60000.0,21.05,UPI,Standard,Returned,Corporate
+ORD00246,CUST0260,Customer_147,2025-10-05,East,Odisha,Bhubaneswar,Beauty,Face Wash,3,300,10,810.0,360,450.0,55.56,UPI,Express,Delivered,Consumer
+ORD00247,CUST0080,Customer_275,2024-11-30,East,Bihar,Patna,Electronics,Tablet,7,18000,25,94500.0,91000,3500.0,3.7,Credit Card,Standard,Delivered,Corporate
+ORD00248,CUST0060,Customer_233,2025-09-18,North,Chandigarh,Chandigarh,Fashion,T-Shirt,1,800,25,600.0,400,200.0,33.33,Credit Card,Same Day,Delivered,Corporate
+ORD00249,CUST0178,Customer_268,2025-06-13,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,5,4500,25,16875.0,15000,1875.0,11.11,UPI,Standard,Delivered,Corporate
+ORD00250,CUST0140,Customer_269,2024-03-06,West,Maharashtra,Pune,Electronics,Headphones,8,3000,20,19200.0,14400,4800.0,25.0,Debit Card,Standard,Delivered,Home Office
+ORD00251,CUST0086,Customer_189,2024-06-10,West,Maharashtra,Mumbai,Electronics,Smartphone,1,25000,0,25000.0,18000,7000.0,28.0,UPI,Standard,Delivered,Corporate
+ORD00252,CUST0197,Customer_77,2024-07-02,North,Rajasthan,Jaipur,Beauty,Perfume,6,1800,5,10260.0,5400,4860.0,47.37,Net Banking,Same Day,Delivered,Consumer
+ORD00253,CUST0293,Customer_191,2024-05-02,North,Delhi,Delhi,Fashion,T-Shirt,7,800,0,5600.0,2800,2800.0,50.0,Net Banking,Express,Delivered,Corporate
+ORD00254,CUST0168,Customer_45,2025-07-20,East,West Bengal,Kolkata,Home & Kitchen,Cookware Set,5,4500,20,18000.0,15000,3000.0,16.67,Debit Card,Same Day,Delivered,Corporate
+ORD00255,CUST0189,Customer_253,2024-07-19,South,Karnataka,Bengaluru,Electronics,Headphones,1,3000,5,2850.0,1800,1050.0,36.84,Cash on Delivery,Express,Delivered,Home Office
+ORD00256,CUST0005,Customer_172,2024-01-02,East,Bihar,Patna,Home & Kitchen,Mixer,4,3500,20,11200.0,9600,1600.0,14.29,Credit Card,Express,Delivered,Consumer
+ORD00257,CUST0073,Customer_144,2024-04-05,North,Delhi,Delhi,Beauty,Shampoo,8,450,25,2700.0,1600,1100.0,40.74,UPI,Same Day,Delivered,Consumer
+ORD00258,CUST0202,Customer_39,2025-08-29,North,Chandigarh,Chandigarh,Fashion,Jeans,5,1800,10,8100.0,5000,3100.0,38.27,Debit Card,Express,Delivered,Home Office
+ORD00259,CUST0168,Customer_163,2025-04-08,West,Maharashtra,Mumbai,Electronics,Smartphone,3,25000,20,60000.0,54000,6000.0,10.0,UPI,Standard,Delivered,Corporate
+ORD00260,CUST0239,Customer_161,2025-02-20,North,Rajasthan,Jaipur,Home & Kitchen,Cookware Set,8,4500,10,32400.0,24000,8400.0,25.93,Net Banking,Express,In Transit,Consumer
+ORD00261,CUST0081,Customer_156,2025-12-22,North,Delhi,Delhi,Home & Kitchen,Cookware Set,2,4500,25,6750.0,6000,750.0,11.11,Credit Card,Express,Delivered,Consumer
+ORD00262,CUST0154,Customer_134,2024-06-27,North,Chandigarh,Chandigarh,Beauty,Perfume,2,1800,15,3060.0,1800,1260.0,41.18,UPI,Standard,Delivered,Consumer
+ORD00263,CUST0114,Customer_67,2024-07-21,East,Odisha,Bhubaneswar,Electronics,Tablet,2,18000,0,36000.0,26000,10000.0,27.78,UPI,Standard,Returned,Corporate
+ORD00264,CUST0066,Customer_48,2024-12-05,North,Delhi,Delhi,Beauty,Face Wash,3,300,20,720.0,360,360.0,50.0,Net Banking,Same Day,Delivered,Consumer
+ORD00265,CUST0196,Customer_219,2024-06-25,West,Maharashtra,Mumbai,Fashion,Jacket,5,3500,15,14875.0,11000,3875.0,26.05,Credit Card,Standard,Delivered,Home Office
+ORD00266,CUST0126,Customer_152,2025-05-25,East,Bihar,Patna,Beauty,Face Wash,2,300,10,540.0,240,300.0,55.56,Net Banking,Standard,Delivered,Home Office
+ORD00267,CUST0270,Customer_128,2025-10-07,North,Chandigarh,Chandigarh,Home & Kitchen,Vacuum Cleaner,8,7000,10,50400.0,40000,10400.0,20.63,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00268,CUST0093,Customer_14,2024-11-22,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,8,3500,20,22400.0,19200,3200.0,14.29,Debit Card,Same Day,Cancelled,Consumer
+ORD00269,CUST0052,Customer_127,2025-11-03,South,Tamil Nadu,Chennai,Electronics,Smartphone,7,25000,10,157500.0,126000,31500.0,20.0,Credit Card,Standard,Delivered,Corporate
+ORD00270,CUST0184,Customer_15,2025-12-21,West,Maharashtra,Pune,Fashion,Jeans,8,1800,20,11520.0,8000,3520.0,30.56,Debit Card,Standard,Delivered,Consumer
+ORD00271,CUST0029,Customer_120,2025-09-08,South,Karnataka,Bengaluru,Beauty,Face Wash,6,300,20,1440.0,720,720.0,50.0,Credit Card,Standard,Delivered,Consumer
+ORD00272,CUST0166,Customer_31,2024-01-23,South,Telangana,Hyderabad,Fashion,T-Shirt,6,800,0,4800.0,2400,2400.0,50.0,Debit Card,Same Day,Returned,Corporate
+ORD00273,CUST0052,Customer_173,2024-11-05,West,Maharashtra,Mumbai,Fashion,Sneakers,8,2800,25,16800.0,14400,2400.0,14.29,Debit Card,Standard,Delivered,Home Office
+ORD00274,CUST0183,Customer_115,2025-11-12,South,Tamil Nadu,Chennai,Home & Kitchen,Water Bottle,3,500,5,1425.0,750,675.0,47.37,UPI,Same Day,Returned,Corporate
+ORD00275,CUST0291,Customer_17,2024-07-05,West,Maharashtra,Pune,Fashion,T-Shirt,8,800,5,6080.0,3200,2880.0,47.37,Debit Card,Same Day,Delivered,Corporate
+ORD00276,CUST0164,Customer_86,2025-10-13,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,1,7000,10,6300.0,5000,1300.0,20.63,Credit Card,Standard,Delivered,Corporate
+ORD00277,CUST0132,Customer_56,2024-01-02,North,Chandigarh,Chandigarh,Beauty,Moisturizer,3,600,15,1530.0,750,780.0,50.98,Net Banking,Express,Delivered,Corporate
+ORD00278,CUST0052,Customer_246,2025-08-14,South,Karnataka,Bengaluru,Beauty,Face Wash,1,300,10,270.0,120,150.0,55.56,UPI,Express,Delivered,Consumer
+ORD00279,CUST0038,Customer_176,2024-06-23,East,West Bengal,Kolkata,Electronics,Laptop,6,60000,20,288000.0,270000,18000.0,6.25,Cash on Delivery,Express,Delivered,Corporate
+ORD00280,CUST0085,Customer_223,2024-06-09,North,Delhi,Delhi,Home & Kitchen,Cookware Set,4,4500,15,15300.0,12000,3300.0,21.57,Cash on Delivery,Same Day,Returned,Home Office
+ORD00281,CUST0136,Customer_145,2024-10-31,South,Karnataka,Bengaluru,Electronics,Headphones,8,3000,5,22800.0,14400,8400.0,36.84,UPI,Express,Delivered,Consumer
+ORD00282,CUST0151,Customer_246,2024-07-23,North,Delhi,Delhi,Fashion,Jeans,5,1800,0,9000.0,5000,4000.0,44.44,Net Banking,Standard,Delivered,Corporate
+ORD00283,CUST0242,Customer_251,2025-11-07,West,Maharashtra,Mumbai,Beauty,Perfume,6,1800,15,9180.0,5400,3780.0,41.18,Debit Card,Standard,Delivered,Corporate
+ORD00284,CUST0226,Customer_239,2024-09-26,South,Tamil Nadu,Chennai,Electronics,Smartphone,2,25000,0,50000.0,36000,14000.0,28.0,Debit Card,Same Day,Delivered,Home Office
+ORD00285,CUST0117,Customer_284,2024-03-03,East,Bihar,Patna,Beauty,Moisturizer,4,600,15,2040.0,1000,1040.0,50.98,Debit Card,Standard,Delivered,Home Office
+ORD00286,CUST0018,Customer_258,2025-08-07,South,Karnataka,Bengaluru,Beauty,Perfume,3,1800,5,5130.0,2700,2430.0,47.37,Credit Card,Standard,Delivered,Consumer
+ORD00287,CUST0223,Customer_104,2025-10-04,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,2,500,0,1000.0,500,500.0,50.0,Net Banking,Same Day,Delivered,Corporate
+ORD00288,CUST0142,Customer_267,2025-04-14,North,Rajasthan,Jaipur,Beauty,Face Wash,7,300,5,1995.0,840,1155.0,57.89,Credit Card,Same Day,Delivered,Consumer
+ORD00289,CUST0055,Customer_289,2024-04-13,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,5,7000,15,29750.0,25000,4750.0,15.97,Net Banking,Same Day,Delivered,Consumer
+ORD00290,CUST0089,Customer_142,2025-02-16,South,Telangana,Hyderabad,Beauty,Face Wash,7,300,10,1890.0,840,1050.0,55.56,Credit Card,Standard,Delivered,Corporate
+ORD00291,CUST0191,Customer_11,2024-12-11,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,2,7000,5,13300.0,10000,3300.0,24.81,Credit Card,Express,Cancelled,Corporate
+ORD00292,CUST0165,Customer_138,2025-03-02,North,Delhi,Delhi,Beauty,Perfume,7,1800,25,9450.0,6300,3150.0,33.33,Net Banking,Same Day,In Transit,Consumer
+ORD00293,CUST0264,Customer_82,2024-03-08,West,Maharashtra,Pune,Beauty,Perfume,1,1800,5,1710.0,900,810.0,47.37,Credit Card,Standard,In Transit,Consumer
+ORD00294,CUST0017,Customer_234,2024-02-21,West,Maharashtra,Pune,Fashion,Jacket,6,3500,15,17850.0,13200,4650.0,26.05,Cash on Delivery,Express,Delivered,Consumer
+ORD00295,CUST0016,Customer_124,2025-01-16,East,Bihar,Patna,Beauty,Perfume,8,1800,20,11520.0,7200,4320.0,37.5,Cash on Delivery,Express,Delivered,Corporate
+ORD00296,CUST0047,Customer_146,2024-01-29,East,West Bengal,Kolkata,Fashion,Jeans,4,1800,25,5400.0,4000,1400.0,25.93,Credit Card,Same Day,Delivered,Home Office
+ORD00297,CUST0210,Customer_263,2024-01-21,North,Chandigarh,Chandigarh,Fashion,Jeans,1,1800,5,1710.0,1000,710.0,41.52,Debit Card,Same Day,In Transit,Corporate
+ORD00298,CUST0141,Customer_217,2025-01-20,West,Gujarat,Ahmedabad,Home & Kitchen,Cookware Set,8,4500,10,32400.0,24000,8400.0,25.93,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00299,CUST0004,Customer_262,2025-11-09,West,Maharashtra,Pune,Home & Kitchen,Water Bottle,2,500,15,850.0,500,350.0,41.18,UPI,Express,Cancelled,Home Office
+ORD00300,CUST0167,Customer_142,2024-09-24,West,Maharashtra,Mumbai,Fashion,Jeans,1,1800,20,1440.0,1000,440.0,30.56,Net Banking,Same Day,Delivered,Consumer
+ORD00301,CUST0014,Customer_255,2024-10-29,West,Gujarat,Ahmedabad,Beauty,Moisturizer,1,600,20,480.0,250,230.0,47.92,Cash on Delivery,Standard,Delivered,Home Office
+ORD00302,CUST0114,Customer_274,2025-10-15,East,Bihar,Patna,Home & Kitchen,Water Bottle,3,500,25,1125.0,750,375.0,33.33,Cash on Delivery,Standard,Delivered,Corporate
+ORD00303,CUST0066,Customer_133,2025-07-26,South,Telangana,Hyderabad,Home & Kitchen,Mixer,4,3500,10,12600.0,9600,3000.0,23.81,Credit Card,Same Day,In Transit,Corporate
+ORD00304,CUST0170,Customer_191,2024-09-23,West,Gujarat,Ahmedabad,Electronics,Headphones,1,3000,25,2250.0,1800,450.0,20.0,Cash on Delivery,Same Day,Returned,Consumer
+ORD00305,CUST0242,Customer_100,2025-05-27,North,Rajasthan,Jaipur,Beauty,Shampoo,7,450,0,3150.0,1400,1750.0,55.56,Credit Card,Standard,Cancelled,Corporate
+ORD00306,CUST0210,Customer_292,2025-04-13,South,Tamil Nadu,Chennai,Fashion,T-Shirt,8,800,10,5760.0,3200,2560.0,44.44,Credit Card,Express,Delivered,Consumer
+ORD00307,CUST0232,Customer_141,2024-08-02,South,Telangana,Hyderabad,Fashion,Sneakers,2,2800,5,5320.0,3600,1720.0,32.33,Cash on Delivery,Express,Delivered,Corporate
+ORD00308,CUST0220,Customer_245,2025-01-27,North,Delhi,Delhi,Fashion,Jacket,1,3500,10,3150.0,2200,950.0,30.16,Cash on Delivery,Standard,Delivered,Consumer
+ORD00309,CUST0128,Customer_116,2025-12-11,West,Gujarat,Ahmedabad,Fashion,T-Shirt,7,800,20,4480.0,2800,1680.0,37.5,Cash on Delivery,Express,Delivered,Consumer
+ORD00310,CUST0153,Customer_149,2025-04-11,West,Gujarat,Ahmedabad,Fashion,Jacket,8,3500,10,25200.0,17600,7600.0,30.16,Credit Card,Standard,Returned,Corporate
+ORD00311,CUST0010,Customer_117,2024-08-17,South,Karnataka,Bengaluru,Electronics,Smartphone,2,25000,10,45000.0,36000,9000.0,20.0,UPI,Express,In Transit,Corporate
+ORD00312,CUST0274,Customer_25,2025-08-31,North,Rajasthan,Jaipur,Electronics,Laptop,1,60000,25,45000.0,45000,0.0,0.0,UPI,Express,Delivered,Consumer
+ORD00313,CUST0281,Customer_130,2025-04-30,South,Karnataka,Bengaluru,Electronics,Tablet,7,18000,25,94500.0,91000,3500.0,3.7,UPI,Same Day,Delivered,Home Office
+ORD00314,CUST0071,Customer_215,2024-04-17,North,Chandigarh,Chandigarh,Electronics,Laptop,8,60000,5,456000.0,360000,96000.0,21.05,Cash on Delivery,Standard,Delivered,Home Office
+ORD00315,CUST0104,Customer_184,2025-12-21,East,Odisha,Bhubaneswar,Fashion,T-Shirt,8,800,5,6080.0,3200,2880.0,47.37,Net Banking,Express,Delivered,Consumer
+ORD00316,CUST0046,Customer_57,2025-08-10,East,West Bengal,Kolkata,Electronics,Laptop,2,60000,10,108000.0,90000,18000.0,16.67,Credit Card,Express,Cancelled,Corporate
+ORD00317,CUST0136,Customer_238,2024-02-21,North,Delhi,Delhi,Electronics,Tablet,6,18000,25,81000.0,78000,3000.0,3.7,Debit Card,Express,Delivered,Consumer
+ORD00318,CUST0024,Customer_5,2024-05-21,South,Tamil Nadu,Chennai,Home & Kitchen,Vacuum Cleaner,5,7000,25,26250.0,25000,1250.0,4.76,UPI,Express,In Transit,Consumer
+ORD00319,CUST0059,Customer_206,2025-02-13,East,Odisha,Bhubaneswar,Beauty,Moisturizer,7,600,25,3150.0,1750,1400.0,44.44,Credit Card,Standard,Delivered,Home Office
+ORD00320,CUST0031,Customer_82,2024-04-16,East,Bihar,Patna,Beauty,Moisturizer,3,600,20,1440.0,750,690.0,47.92,Net Banking,Express,Delivered,Home Office
+ORD00321,CUST0067,Customer_248,2025-05-14,North,Chandigarh,Chandigarh,Beauty,Face Wash,2,300,10,540.0,240,300.0,55.56,Debit Card,Standard,Delivered,Home Office
+ORD00322,CUST0269,Customer_296,2025-08-01,South,Telangana,Hyderabad,Home & Kitchen,Mixer,7,3500,25,18375.0,16800,1575.0,8.57,Credit Card,Express,Delivered,Home Office
+ORD00323,CUST0198,Customer_77,2025-07-25,North,Delhi,Delhi,Fashion,Sneakers,8,2800,5,21280.0,14400,6880.0,32.33,UPI,Express,Delivered,Corporate
+ORD00324,CUST0143,Customer_26,2025-06-03,South,Telangana,Hyderabad,Beauty,Moisturizer,4,600,0,2400.0,1000,1400.0,58.33,Net Banking,Express,In Transit,Corporate
+ORD00325,CUST0046,Customer_256,2025-04-02,West,Maharashtra,Mumbai,Beauty,Face Wash,2,300,15,510.0,240,270.0,52.94,Net Banking,Standard,Delivered,Consumer
+ORD00326,CUST0047,Customer_156,2025-06-04,South,Telangana,Hyderabad,Beauty,Shampoo,6,450,0,2700.0,1200,1500.0,55.56,Credit Card,Express,Delivered,Home Office
+ORD00327,CUST0243,Customer_187,2025-04-08,North,Delhi,Delhi,Fashion,T-Shirt,6,800,10,4320.0,2400,1920.0,44.44,Debit Card,Same Day,Delivered,Home Office
+ORD00328,CUST0055,Customer_24,2024-06-17,East,West Bengal,Kolkata,Beauty,Face Wash,5,300,20,1200.0,600,600.0,50.0,Credit Card,Standard,Delivered,Corporate
+ORD00329,CUST0111,Customer_235,2024-07-14,West,Maharashtra,Mumbai,Beauty,Face Wash,2,300,15,510.0,240,270.0,52.94,Net Banking,Same Day,Delivered,Home Office
+ORD00330,CUST0069,Customer_256,2024-01-05,North,Rajasthan,Jaipur,Beauty,Moisturizer,3,600,25,1350.0,750,600.0,44.44,Cash on Delivery,Standard,Delivered,Consumer
+ORD00331,CUST0054,Customer_199,2025-11-04,West,Maharashtra,Pune,Beauty,Moisturizer,4,600,10,2160.0,1000,1160.0,53.7,Net Banking,Express,Cancelled,Corporate
+ORD00332,CUST0069,Customer_71,2025-02-26,West,Maharashtra,Pune,Home & Kitchen,Cookware Set,4,4500,5,17100.0,12000,5100.0,29.82,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00333,CUST0068,Customer_92,2025-05-30,West,Maharashtra,Pune,Electronics,Tablet,8,18000,20,115200.0,104000,11200.0,9.72,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00334,CUST0274,Customer_147,2025-03-08,North,Rajasthan,Jaipur,Electronics,Laptop,7,60000,5,399000.0,315000,84000.0,21.05,UPI,Same Day,Delivered,Corporate
+ORD00335,CUST0083,Customer_147,2025-11-30,West,Maharashtra,Mumbai,Electronics,Tablet,4,18000,20,57600.0,52000,5600.0,9.72,UPI,Express,In Transit,Consumer
+ORD00336,CUST0288,Customer_115,2025-10-24,East,West Bengal,Kolkata,Home & Kitchen,Mixer,7,3500,15,20825.0,16800,4025.0,19.33,Net Banking,Same Day,Delivered,Home Office
+ORD00337,CUST0028,Customer_7,2024-09-14,South,Telangana,Hyderabad,Beauty,Perfume,6,1800,20,8640.0,5400,3240.0,37.5,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00338,CUST0100,Customer_151,2025-04-04,South,Telangana,Hyderabad,Electronics,Smartphone,3,25000,25,56250.0,54000,2250.0,4.0,Cash on Delivery,Standard,Delivered,Corporate
+ORD00339,CUST0143,Customer_285,2024-09-27,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,6,3500,15,17850.0,14400,3450.0,19.33,Credit Card,Standard,Delivered,Corporate
+ORD00340,CUST0027,Customer_155,2025-05-17,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,3,4500,20,10800.0,9000,1800.0,16.67,UPI,Same Day,Delivered,Home Office
+ORD00341,CUST0275,Customer_207,2024-04-04,West,Maharashtra,Mumbai,Fashion,Jacket,6,3500,10,18900.0,13200,5700.0,30.16,Debit Card,Standard,Returned,Home Office
+ORD00342,CUST0272,Customer_244,2025-07-28,North,Delhi,Delhi,Home & Kitchen,Vacuum Cleaner,4,7000,25,21000.0,20000,1000.0,4.76,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00343,CUST0165,Customer_196,2024-04-26,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer,6,3500,20,16800.0,14400,2400.0,14.29,Cash on Delivery,Express,Delivered,Corporate
+ORD00344,CUST0099,Customer_165,2025-06-10,North,Delhi,Delhi,Fashion,T-Shirt,2,800,5,1520.0,800,720.0,47.37,Credit Card,Same Day,Delivered,Consumer
+ORD00345,CUST0106,Customer_276,2025-12-20,East,Bihar,Patna,Electronics,Smartphone,1,25000,15,21250.0,18000,3250.0,15.29,Debit Card,Standard,Delivered,Consumer
+ORD00346,CUST0092,Customer_129,2025-07-25,North,Rajasthan,Jaipur,Fashion,Jacket,7,3500,15,20825.0,15400,5425.0,26.05,Net Banking,Same Day,Delivered,Corporate
+ORD00347,CUST0009,Customer_200,2025-11-20,North,Rajasthan,Jaipur,Electronics,Laptop,1,60000,25,45000.0,45000,0.0,0.0,UPI,Express,Returned,Consumer
+ORD00348,CUST0149,Customer_155,2025-09-13,North,Chandigarh,Chandigarh,Beauty,Moisturizer,7,600,25,3150.0,1750,1400.0,44.44,UPI,Express,Delivered,Consumer
+ORD00349,CUST0070,Customer_201,2025-07-12,West,Maharashtra,Pune,Fashion,Jacket,6,3500,0,21000.0,13200,7800.0,37.14,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00350,CUST0003,Customer_294,2025-09-02,East,Bihar,Patna,Electronics,Tablet,4,18000,25,54000.0,52000,2000.0,3.7,Debit Card,Standard,Delivered,Home Office
+ORD00351,CUST0263,Customer_73,2024-06-13,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,2,4500,5,8550.0,6000,2550.0,29.82,Cash on Delivery,Standard,In Transit,Home Office
+ORD00352,CUST0237,Customer_282,2024-03-15,West,Maharashtra,Pune,Electronics,Tablet,2,18000,5,34200.0,26000,8200.0,23.98,Cash on Delivery,Express,Returned,Corporate
+ORD00353,CUST0066,Customer_121,2024-04-12,West,Maharashtra,Pune,Electronics,Smartphone,6,25000,15,127500.0,108000,19500.0,15.29,Net Banking,Express,Delivered,Corporate
+ORD00354,CUST0300,Customer_79,2025-08-02,West,Gujarat,Ahmedabad,Beauty,Perfume,1,1800,10,1620.0,900,720.0,44.44,Credit Card,Standard,Delivered,Home Office
+ORD00355,CUST0224,Customer_142,2025-01-03,South,Telangana,Hyderabad,Home & Kitchen,Vacuum Cleaner,8,7000,15,47600.0,40000,7600.0,15.97,Debit Card,Express,Delivered,Consumer
+ORD00356,CUST0090,Customer_42,2024-10-14,South,Telangana,Hyderabad,Fashion,Jacket,2,3500,25,5250.0,4400,850.0,16.19,UPI,Standard,In Transit,Home Office
+ORD00357,CUST0016,Customer_298,2025-08-15,East,Bihar,Patna,Fashion,T-Shirt,5,800,20,3200.0,2000,1200.0,37.5,Cash on Delivery,Express,Delivered,Consumer
+ORD00358,CUST0188,Customer_201,2024-08-16,West,Maharashtra,Mumbai,Beauty,Face Wash,7,300,10,1890.0,840,1050.0,55.56,Cash on Delivery,Standard,Delivered,Home Office
+ORD00359,CUST0085,Customer_264,2024-05-23,East,West Bengal,Kolkata,Fashion,Jeans,8,1800,10,12960.0,8000,4960.0,38.27,UPI,Standard,Delivered,Consumer
+ORD00360,CUST0033,Customer_136,2025-01-13,South,Karnataka,Bengaluru,Fashion,Jacket,7,3500,15,20825.0,15400,5425.0,26.05,Net Banking,Standard,Delivered,Home Office
+ORD00361,CUST0166,Customer_53,2025-12-21,West,Maharashtra,Pune,Home & Kitchen,Cookware Set,7,4500,25,23625.0,21000,2625.0,11.11,Net Banking,Express,Delivered,Consumer
+ORD00362,CUST0265,Customer_129,2025-01-20,South,Telangana,Hyderabad,Beauty,Shampoo,6,450,15,2295.0,1200,1095.0,47.71,Net Banking,Same Day,Delivered,Consumer
+ORD00363,CUST0226,Customer_85,2024-08-23,North,Rajasthan,Jaipur,Home & Kitchen,Cookware Set,3,4500,5,12825.0,9000,3825.0,29.82,Credit Card,Express,Delivered,Consumer
+ORD00364,CUST0118,Customer_213,2024-12-04,North,Chandigarh,Chandigarh,Beauty,Moisturizer,4,600,20,1920.0,1000,920.0,47.92,Credit Card,Same Day,In Transit,Consumer
+ORD00365,CUST0125,Customer_23,2024-05-10,South,Karnataka,Bengaluru,Electronics,Smartphone,1,25000,5,23750.0,18000,5750.0,24.21,Debit Card,Standard,Delivered,Corporate
+ORD00366,CUST0289,Customer_10,2025-11-08,West,Maharashtra,Mumbai,Fashion,Sneakers,8,2800,15,19040.0,14400,4640.0,24.37,Credit Card,Standard,In Transit,Home Office
+ORD00367,CUST0074,Customer_299,2024-07-05,West,Maharashtra,Mumbai,Home & Kitchen,Vacuum Cleaner,2,7000,5,13300.0,10000,3300.0,24.81,Net Banking,Express,Delivered,Consumer
+ORD00368,CUST0104,Customer_268,2025-05-31,East,West Bengal,Kolkata,Electronics,Smartphone,8,25000,20,160000.0,144000,16000.0,10.0,Cash on Delivery,Standard,In Transit,Home Office
+ORD00369,CUST0258,Customer_61,2024-04-05,East,Bihar,Patna,Fashion,T-Shirt,7,800,20,4480.0,2800,1680.0,37.5,Net Banking,Express,In Transit,Home Office
+ORD00370,CUST0272,Customer_220,2024-08-22,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer,7,3500,5,23275.0,16800,6475.0,27.82,Debit Card,Express,Delivered,Consumer
+ORD00371,CUST0146,Customer_279,2025-02-22,West,Maharashtra,Mumbai,Electronics,Laptop,2,60000,20,96000.0,90000,6000.0,6.25,UPI,Express,Delivered,Home Office
+ORD00372,CUST0162,Customer_210,2025-01-05,North,Delhi,Delhi,Beauty,Shampoo,5,450,20,1800.0,1000,800.0,44.44,Net Banking,Same Day,Delivered,Corporate
+ORD00373,CUST0204,Customer_105,2025-02-27,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,5,7000,10,31500.0,25000,6500.0,20.63,Cash on Delivery,Express,Delivered,Corporate
+ORD00374,CUST0071,Customer_61,2024-08-23,East,Bihar,Patna,Fashion,T-Shirt,4,800,20,2560.0,1600,960.0,37.5,Net Banking,Express,In Transit,Home Office
+ORD00375,CUST0027,Customer_83,2025-02-02,North,Delhi,Delhi,Fashion,Sneakers,7,2800,0,19600.0,12600,7000.0,35.71,UPI,Express,Delivered,Consumer
+ORD00376,CUST0020,Customer_197,2025-02-14,West,Maharashtra,Pune,Electronics,Smartphone,8,25000,15,170000.0,144000,26000.0,15.29,UPI,Standard,In Transit,Home Office
+ORD00377,CUST0147,Customer_100,2024-02-04,South,Telangana,Hyderabad,Fashion,T-Shirt,6,800,5,4560.0,2400,2160.0,47.37,UPI,Standard,Delivered,Corporate
+ORD00378,CUST0205,Customer_181,2025-11-16,East,Odisha,Bhubaneswar,Fashion,T-Shirt,2,800,0,1600.0,800,800.0,50.0,Cash on Delivery,Express,Delivered,Home Office
+ORD00379,CUST0299,Customer_179,2024-12-21,West,Maharashtra,Mumbai,Fashion,Sneakers,7,2800,20,15680.0,12600,3080.0,19.64,UPI,Express,Delivered,Home Office
+ORD00380,CUST0055,Customer_287,2024-03-15,West,Gujarat,Ahmedabad,Electronics,Tablet,5,18000,25,67500.0,65000,2500.0,3.7,Net Banking,Express,Delivered,Consumer
+ORD00381,CUST0174,Customer_235,2025-11-28,East,Bihar,Patna,Electronics,Headphones,2,3000,10,5400.0,3600,1800.0,33.33,UPI,Express,Delivered,Consumer
+ORD00382,CUST0118,Customer_162,2025-02-26,West,Maharashtra,Pune,Electronics,Tablet,4,18000,10,64800.0,52000,12800.0,19.75,UPI,Express,Delivered,Corporate
+ORD00383,CUST0039,Customer_284,2024-07-01,East,Odisha,Bhubaneswar,Home & Kitchen,Cookware Set,5,4500,5,21375.0,15000,6375.0,29.82,Credit Card,Express,Delivered,Consumer
+ORD00384,CUST0124,Customer_136,2024-07-30,South,Karnataka,Bengaluru,Fashion,Jacket,3,3500,0,10500.0,6600,3900.0,37.14,UPI,Standard,Delivered,Home Office
+ORD00385,CUST0253,Customer_4,2025-07-08,North,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,8,500,20,3200.0,2000,1200.0,37.5,Debit Card,Express,Delivered,Home Office
+ORD00386,CUST0144,Customer_204,2024-08-15,South,Karnataka,Bengaluru,Beauty,Moisturizer,1,600,20,480.0,250,230.0,47.92,Debit Card,Express,In Transit,Consumer
+ORD00387,CUST0235,Customer_62,2025-12-16,East,Odisha,Bhubaneswar,Electronics,Laptop,4,60000,15,204000.0,180000,24000.0,11.76,Cash on Delivery,Standard,Delivered,Home Office
+ORD00388,CUST0133,Customer_96,2025-07-15,West,Maharashtra,Mumbai,Home & Kitchen,Vacuum Cleaner,6,7000,10,37800.0,30000,7800.0,20.63,Credit Card,Express,Delivered,Corporate
+ORD00389,CUST0191,Customer_187,2025-02-14,West,Gujarat,Ahmedabad,Fashion,Jeans,4,1800,0,7200.0,4000,3200.0,44.44,Debit Card,Standard,Delivered,Corporate
+ORD00390,CUST0101,Customer_75,2024-06-02,East,West Bengal,Kolkata,Fashion,Sneakers,8,2800,5,21280.0,14400,6880.0,32.33,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00391,CUST0154,Customer_129,2025-07-29,North,Chandigarh,Chandigarh,Electronics,Smartphone,1,25000,5,23750.0,18000,5750.0,24.21,Debit Card,Express,In Transit,Consumer
+ORD00392,CUST0231,Customer_172,2024-09-23,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,1,500,15,425.0,250,175.0,41.18,UPI,Express,In Transit,Home Office
+ORD00393,CUST0102,Customer_296,2025-08-12,South,Tamil Nadu,Chennai,Home & Kitchen,Water Bottle,8,500,25,3000.0,2000,1000.0,33.33,Net Banking,Standard,Delivered,Corporate
+ORD00394,CUST0238,Customer_75,2024-06-20,West,Gujarat,Ahmedabad,Beauty,Face Wash,2,300,5,570.0,240,330.0,57.89,Debit Card,Standard,Delivered,Home Office
+ORD00395,CUST0150,Customer_137,2025-09-11,East,Odisha,Bhubaneswar,Beauty,Shampoo,8,450,15,3060.0,1600,1460.0,47.71,Credit Card,Standard,In Transit,Consumer
+ORD00396,CUST0121,Customer_129,2025-12-18,North,Delhi,Delhi,Fashion,Sneakers,2,2800,0,5600.0,3600,2000.0,35.71,UPI,Express,Delivered,Consumer
+ORD00397,CUST0204,Customer_269,2024-03-26,North,Chandigarh,Chandigarh,Fashion,T-Shirt,7,800,10,5040.0,2800,2240.0,44.44,Credit Card,Standard,Delivered,Corporate
+ORD00398,CUST0065,Customer_68,2025-06-23,South,Karnataka,Bengaluru,Electronics,Tablet,6,18000,15,91800.0,78000,13800.0,15.03,Net Banking,Same Day,Returned,Home Office
+ORD00399,CUST0228,Customer_70,2025-12-15,South,Telangana,Hyderabad,Beauty,Moisturizer,5,600,10,2700.0,1250,1450.0,53.7,Net Banking,Same Day,Delivered,Consumer
+ORD00400,CUST0227,Customer_158,2025-01-09,East,Odisha,Bhubaneswar,Fashion,Jacket,1,3500,0,3500.0,2200,1300.0,37.14,Cash on Delivery,Standard,Delivered,Corporate
+ORD00401,CUST0274,Customer_5,2025-12-05,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer,7,3500,10,22050.0,16800,5250.0,23.81,Cash on Delivery,Standard,Delivered,Home Office
+ORD00402,CUST0192,Customer_97,2025-02-25,East,Odisha,Bhubaneswar,Fashion,Jeans,7,1800,15,10710.0,7000,3710.0,34.64,Credit Card,Express,Delivered,Home Office
+ORD00403,CUST0123,Customer_265,2025-09-19,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,4,7000,0,28000.0,20000,8000.0,28.57,Credit Card,Standard,Delivered,Home Office
+ORD00404,CUST0234,Customer_232,2024-10-05,East,West Bengal,Kolkata,Home & Kitchen,Mixer,3,3500,0,10500.0,7200,3300.0,31.43,Cash on Delivery,Standard,Delivered,Consumer
+ORD00405,CUST0145,Customer_138,2024-05-08,East,Bihar,Patna,Electronics,Smartphone,2,25000,5,47500.0,36000,11500.0,24.21,UPI,Express,Delivered,Corporate
+ORD00406,CUST0160,Customer_256,2025-01-15,East,Bihar,Patna,Electronics,Tablet,2,18000,5,34200.0,26000,8200.0,23.98,UPI,Express,Delivered,Consumer
+ORD00407,CUST0279,Customer_241,2024-07-04,South,Tamil Nadu,Chennai,Beauty,Face Wash,2,300,25,450.0,240,210.0,46.67,Credit Card,Express,Delivered,Corporate
+ORD00408,CUST0127,Customer_18,2024-07-22,East,Bihar,Patna,Electronics,Smartphone,8,25000,15,170000.0,144000,26000.0,15.29,Debit Card,Express,Delivered,Home Office
+ORD00409,CUST0022,Customer_282,2025-06-17,North,Chandigarh,Chandigarh,Beauty,Shampoo,4,450,10,1620.0,800,820.0,50.62,UPI,Same Day,Delivered,Consumer
+ORD00410,CUST0121,Customer_223,2024-11-28,North,Delhi,Delhi,Home & Kitchen,Mixer,7,3500,5,23275.0,16800,6475.0,27.82,UPI,Standard,Delivered,Home Office
+ORD00411,CUST0244,Customer_80,2025-01-15,North,Delhi,Delhi,Fashion,Sneakers,2,2800,25,4200.0,3600,600.0,14.29,Cash on Delivery,Express,Returned,Home Office
+ORD00412,CUST0031,Customer_31,2024-12-30,South,Telangana,Hyderabad,Electronics,Smartphone,8,25000,5,190000.0,144000,46000.0,24.21,Debit Card,Same Day,Delivered,Corporate
+ORD00413,CUST0225,Customer_99,2024-01-22,East,Odisha,Bhubaneswar,Fashion,Jacket,1,3500,15,2975.0,2200,775.0,26.05,Net Banking,Same Day,Delivered,Home Office
+ORD00414,CUST0251,Customer_98,2025-08-03,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,8,500,10,3600.0,2000,1600.0,44.44,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00415,CUST0080,Customer_231,2024-10-29,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,1,7000,25,5250.0,5000,250.0,4.76,Cash on Delivery,Express,Delivered,Consumer
+ORD00416,CUST0187,Customer_123,2024-11-24,North,Rajasthan,Jaipur,Beauty,Perfume,8,1800,20,11520.0,7200,4320.0,37.5,Credit Card,Same Day,Delivered,Corporate
+ORD00417,CUST0165,Customer_57,2024-04-08,North,Delhi,Delhi,Fashion,Jeans,1,1800,5,1710.0,1000,710.0,41.52,UPI,Express,Delivered,Consumer
+ORD00418,CUST0293,Customer_199,2025-11-04,East,Bihar,Patna,Home & Kitchen,Mixer,6,3500,5,19950.0,14400,5550.0,27.82,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00419,CUST0252,Customer_41,2025-04-24,North,Chandigarh,Chandigarh,Beauty,Shampoo,1,450,20,360.0,200,160.0,44.44,Debit Card,Same Day,Delivered,Consumer
+ORD00420,CUST0156,Customer_40,2024-08-09,North,Delhi,Delhi,Fashion,Sneakers,4,2800,5,10640.0,7200,3440.0,32.33,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00421,CUST0092,Customer_286,2025-07-25,East,Bihar,Patna,Electronics,Tablet,8,18000,25,108000.0,104000,4000.0,3.7,Net Banking,Standard,Delivered,Consumer
+ORD00422,CUST0282,Customer_206,2025-05-31,West,Maharashtra,Pune,Fashion,Sneakers,6,2800,10,15120.0,10800,4320.0,28.57,Cash on Delivery,Express,In Transit,Corporate
+ORD00423,CUST0221,Customer_166,2025-09-15,South,Telangana,Hyderabad,Fashion,Sneakers,5,2800,10,12600.0,9000,3600.0,28.57,Net Banking,Express,Returned,Consumer
+ORD00424,CUST0018,Customer_146,2025-09-02,North,Rajasthan,Jaipur,Fashion,Jacket,1,3500,10,3150.0,2200,950.0,30.16,Credit Card,Standard,In Transit,Consumer
+ORD00425,CUST0142,Customer_284,2025-06-07,South,Karnataka,Bengaluru,Electronics,Headphones,6,3000,5,17100.0,10800,6300.0,36.84,Credit Card,Express,Delivered,Home Office
+ORD00426,CUST0128,Customer_120,2024-09-19,West,Maharashtra,Mumbai,Beauty,Perfume,2,1800,25,2700.0,1800,900.0,33.33,Debit Card,Express,Delivered,Home Office
+ORD00427,CUST0296,Customer_49,2025-09-01,West,Maharashtra,Mumbai,Beauty,Face Wash,1,300,10,270.0,120,150.0,55.56,Debit Card,Express,Delivered,Consumer
+ORD00428,CUST0117,Customer_6,2025-10-11,East,West Bengal,Kolkata,Home & Kitchen,Mixer,6,3500,20,16800.0,14400,2400.0,14.29,Cash on Delivery,Standard,Delivered,Home Office
+ORD00429,CUST0114,Customer_79,2024-02-21,East,Odisha,Bhubaneswar,Electronics,Smartphone,7,25000,10,157500.0,126000,31500.0,20.0,Net Banking,Standard,Delivered,Consumer
+ORD00430,CUST0244,Customer_293,2024-02-20,East,Odisha,Bhubaneswar,Electronics,Headphones,7,3000,25,15750.0,12600,3150.0,20.0,Credit Card,Standard,Delivered,Consumer
+ORD00431,CUST0250,Customer_203,2025-10-29,South,Telangana,Hyderabad,Fashion,Jeans,2,1800,10,3240.0,2000,1240.0,38.27,Net Banking,Express,Delivered,Home Office
+ORD00432,CUST0046,Customer_58,2025-11-18,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,4,500,10,1800.0,1000,800.0,44.44,Debit Card,Same Day,Delivered,Corporate
+ORD00433,CUST0087,Customer_180,2025-09-23,East,Bihar,Patna,Fashion,Sneakers,1,2800,5,2660.0,1800,860.0,32.33,Credit Card,Same Day,Delivered,Home Office
+ORD00434,CUST0044,Customer_58,2024-02-25,South,Telangana,Hyderabad,Fashion,Jacket,1,3500,10,3150.0,2200,950.0,30.16,UPI,Express,Delivered,Consumer
+ORD00435,CUST0170,Customer_108,2025-07-04,South,Karnataka,Bengaluru,Home & Kitchen,Vacuum Cleaner,3,7000,25,15750.0,15000,750.0,4.76,UPI,Express,Delivered,Home Office
+ORD00436,CUST0270,Customer_23,2024-09-18,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,5,4500,0,22500.0,15000,7500.0,33.33,Net Banking,Same Day,Returned,Consumer
+ORD00437,CUST0199,Customer_139,2025-11-09,West,Maharashtra,Mumbai,Electronics,Tablet,7,18000,5,119700.0,91000,28700.0,23.98,Net Banking,Same Day,Cancelled,Consumer
+ORD00438,CUST0162,Customer_249,2025-09-03,North,Delhi,Delhi,Fashion,Sneakers,1,2800,0,2800.0,1800,1000.0,35.71,Credit Card,Same Day,Delivered,Corporate
+ORD00439,CUST0202,Customer_81,2024-01-19,West,Maharashtra,Pune,Home & Kitchen,Water Bottle,5,500,5,2375.0,1250,1125.0,47.37,Cash on Delivery,Express,In Transit,Home Office
+ORD00440,CUST0132,Customer_199,2024-01-31,West,Maharashtra,Mumbai,Fashion,Jacket,7,3500,25,18375.0,15400,2975.0,16.19,Credit Card,Standard,Delivered,Home Office
+ORD00441,CUST0117,Customer_214,2024-09-03,South,Tamil Nadu,Chennai,Home & Kitchen,Water Bottle,8,500,20,3200.0,2000,1200.0,37.5,Credit Card,Standard,Delivered,Home Office
+ORD00442,CUST0278,Customer_104,2024-05-21,West,Maharashtra,Pune,Fashion,Sneakers,3,2800,25,6300.0,5400,900.0,14.29,Cash on Delivery,Standard,Delivered,Home Office
+ORD00443,CUST0273,Customer_61,2024-07-07,West,Maharashtra,Mumbai,Electronics,Tablet,7,18000,15,107100.0,91000,16100.0,15.03,Debit Card,Express,Delivered,Home Office
+ORD00444,CUST0141,Customer_78,2024-07-11,North,Delhi,Delhi,Fashion,T-Shirt,5,800,20,3200.0,2000,1200.0,37.5,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00445,CUST0119,Customer_14,2025-01-02,North,Rajasthan,Jaipur,Beauty,Perfume,8,1800,25,10800.0,7200,3600.0,33.33,Debit Card,Standard,In Transit,Corporate
+ORD00446,CUST0243,Customer_71,2024-06-16,South,Karnataka,Bengaluru,Electronics,Headphones,1,3000,10,2700.0,1800,900.0,33.33,Net Banking,Standard,Delivered,Consumer
+ORD00447,CUST0105,Customer_34,2024-06-30,East,Bihar,Patna,Beauty,Shampoo,8,450,5,3420.0,1600,1820.0,53.22,Net Banking,Express,Delivered,Home Office
+ORD00448,CUST0195,Customer_161,2025-02-07,North,Rajasthan,Jaipur,Electronics,Headphones,8,3000,0,24000.0,14400,9600.0,40.0,Credit Card,Same Day,Delivered,Home Office
+ORD00449,CUST0021,Customer_286,2025-01-31,North,Delhi,Delhi,Home & Kitchen,Vacuum Cleaner,7,7000,10,44100.0,35000,9100.0,20.63,Debit Card,Express,Delivered,Corporate
+ORD00450,CUST0028,Customer_265,2024-05-25,East,Bihar,Patna,Beauty,Face Wash,2,300,5,570.0,240,330.0,57.89,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00451,CUST0212,Customer_166,2025-04-06,North,Delhi,Delhi,Beauty,Perfume,8,1800,0,14400.0,7200,7200.0,50.0,Debit Card,Express,Delivered,Home Office
+ORD00452,CUST0084,Customer_64,2024-04-03,North,Rajasthan,Jaipur,Beauty,Shampoo,2,450,20,720.0,400,320.0,44.44,Net Banking,Same Day,Delivered,Home Office
+ORD00453,CUST0082,Customer_194,2025-07-17,East,West Bengal,Kolkata,Fashion,Jacket,3,3500,5,9975.0,6600,3375.0,33.83,Credit Card,Standard,Delivered,Consumer
+ORD00454,CUST0215,Customer_158,2024-11-12,East,Odisha,Bhubaneswar,Fashion,T-Shirt,3,800,5,2280.0,1200,1080.0,47.37,UPI,Same Day,Delivered,Consumer
+ORD00455,CUST0235,Customer_255,2025-05-25,North,Rajasthan,Jaipur,Beauty,Perfume,4,1800,20,5760.0,3600,2160.0,37.5,Net Banking,Express,Delivered,Consumer
+ORD00456,CUST0004,Customer_126,2025-07-14,West,Maharashtra,Pune,Fashion,T-Shirt,3,800,5,2280.0,1200,1080.0,47.37,UPI,Same Day,Delivered,Consumer
+ORD00457,CUST0017,Customer_296,2025-09-09,West,Gujarat,Ahmedabad,Electronics,Laptop,2,60000,15,102000.0,90000,12000.0,11.76,Credit Card,Standard,Delivered,Home Office
+ORD00458,CUST0294,Customer_288,2024-06-30,East,Bihar,Patna,Home & Kitchen,Mixer,2,3500,10,6300.0,4800,1500.0,23.81,Debit Card,Express,In Transit,Consumer
+ORD00459,CUST0219,Customer_282,2024-03-07,West,Gujarat,Ahmedabad,Fashion,T-Shirt,5,800,10,3600.0,2000,1600.0,44.44,Cash on Delivery,Express,Delivered,Home Office
+ORD00460,CUST0108,Customer_30,2024-04-21,North,Chandigarh,Chandigarh,Home & Kitchen,Vacuum Cleaner,6,7000,10,37800.0,30000,7800.0,20.63,Cash on Delivery,Same Day,Cancelled,Corporate
+ORD00461,CUST0067,Customer_289,2025-05-23,East,Odisha,Bhubaneswar,Fashion,Jeans,5,1800,5,8550.0,5000,3550.0,41.52,UPI,Standard,Delivered,Home Office
+ORD00462,CUST0061,Customer_107,2025-09-22,East,Odisha,Bhubaneswar,Electronics,Tablet,6,18000,20,86400.0,78000,8400.0,9.72,Credit Card,Standard,Delivered,Home Office
+ORD00463,CUST0145,Customer_131,2024-03-10,West,Gujarat,Ahmedabad,Home & Kitchen,Mixer,2,3500,25,5250.0,4800,450.0,8.57,Debit Card,Express,Delivered,Home Office
+ORD00464,CUST0015,Customer_90,2024-07-17,West,Gujarat,Ahmedabad,Beauty,Moisturizer,1,600,25,450.0,250,200.0,44.44,Credit Card,Express,Delivered,Corporate
+ORD00465,CUST0275,Customer_172,2025-04-18,East,Bihar,Patna,Electronics,Tablet,6,18000,20,86400.0,78000,8400.0,9.72,Cash on Delivery,Standard,Delivered,Home Office
+ORD00466,CUST0170,Customer_182,2024-03-08,South,Tamil Nadu,Chennai,Electronics,Tablet,7,18000,25,94500.0,91000,3500.0,3.7,Cash on Delivery,Standard,Delivered,Corporate
+ORD00467,CUST0096,Customer_60,2024-11-11,West,Maharashtra,Pune,Electronics,Tablet,7,18000,0,126000.0,91000,35000.0,27.78,Net Banking,Standard,Delivered,Corporate
+ORD00468,CUST0111,Customer_269,2024-11-05,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,4,3500,0,14000.0,9600,4400.0,31.43,Net Banking,Same Day,Delivered,Corporate
+ORD00469,CUST0257,Customer_79,2024-07-13,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,3,500,0,1500.0,750,750.0,50.0,Cash on Delivery,Same Day,Cancelled,Consumer
+ORD00470,CUST0019,Customer_236,2025-01-31,North,Delhi,Delhi,Home & Kitchen,Mixer,2,3500,10,6300.0,4800,1500.0,23.81,Net Banking,Standard,Delivered,Home Office
+ORD00471,CUST0160,Customer_12,2025-08-14,West,Maharashtra,Pune,Fashion,Jacket,4,3500,5,13300.0,8800,4500.0,33.83,Debit Card,Express,Delivered,Corporate
+ORD00472,CUST0061,Customer_140,2024-06-01,South,Tamil Nadu,Chennai,Electronics,Laptop,2,60000,5,114000.0,90000,24000.0,21.05,Cash on Delivery,Express,Delivered,Corporate
+ORD00473,CUST0073,Customer_146,2025-08-10,South,Karnataka,Bengaluru,Electronics,Tablet,6,18000,20,86400.0,78000,8400.0,9.72,Net Banking,Standard,Delivered,Corporate
+ORD00474,CUST0026,Customer_55,2025-01-27,North,Delhi,Delhi,Beauty,Moisturizer,3,600,25,1350.0,750,600.0,44.44,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00475,CUST0229,Customer_183,2024-11-15,West,Maharashtra,Mumbai,Electronics,Headphones,3,3000,0,9000.0,5400,3600.0,40.0,Net Banking,Standard,Delivered,Home Office
+ORD00476,CUST0239,Customer_241,2024-08-25,South,Karnataka,Bengaluru,Home & Kitchen,Water Bottle,7,500,5,3325.0,1750,1575.0,47.37,Debit Card,Express,Delivered,Consumer
+ORD00477,CUST0034,Customer_244,2024-04-25,West,Gujarat,Ahmedabad,Beauty,Perfume,5,1800,10,8100.0,4500,3600.0,44.44,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00478,CUST0208,Customer_55,2024-11-29,North,Chandigarh,Chandigarh,Beauty,Moisturizer,7,600,5,3990.0,1750,2240.0,56.14,Cash on Delivery,Standard,Delivered,Corporate
+ORD00479,CUST0197,Customer_34,2024-12-14,South,Telangana,Hyderabad,Beauty,Moisturizer,6,600,20,2880.0,1500,1380.0,47.92,Credit Card,Standard,Delivered,Consumer
+ORD00480,CUST0294,Customer_250,2024-04-27,East,Odisha,Bhubaneswar,Electronics,Headphones,3,3000,10,8100.0,5400,2700.0,33.33,Net Banking,Standard,Delivered,Home Office
+ORD00481,CUST0195,Customer_168,2025-05-21,North,Delhi,Delhi,Fashion,Jeans,1,1800,5,1710.0,1000,710.0,41.52,Credit Card,Express,Delivered,Corporate
+ORD00482,CUST0296,Customer_229,2024-07-19,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,5,500,15,2125.0,1250,875.0,41.18,Debit Card,Standard,Delivered,Home Office
+ORD00483,CUST0262,Customer_207,2024-05-10,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,1,3500,25,2625.0,2400,225.0,8.57,Cash on Delivery,Express,Delivered,Corporate
+ORD00484,CUST0016,Customer_121,2025-03-18,East,Bihar,Patna,Home & Kitchen,Vacuum Cleaner,7,7000,15,41650.0,35000,6650.0,15.97,Net Banking,Same Day,Delivered,Consumer
+ORD00485,CUST0244,Customer_72,2024-07-11,East,Odisha,Bhubaneswar,Beauty,Perfume,5,1800,25,6750.0,4500,2250.0,33.33,Credit Card,Standard,Delivered,Home Office
+ORD00486,CUST0009,Customer_74,2025-05-13,East,West Bengal,Kolkata,Electronics,Smartphone,7,25000,15,148750.0,126000,22750.0,15.29,Cash on Delivery,Express,Delivered,Corporate
+ORD00487,CUST0261,Customer_218,2025-07-19,East,Odisha,Bhubaneswar,Home & Kitchen,Cookware Set,3,4500,15,11475.0,9000,2475.0,21.57,Cash on Delivery,Standard,Delivered,Home Office
+ORD00488,CUST0122,Customer_257,2024-10-02,East,Bihar,Patna,Home & Kitchen,Mixer,1,3500,20,2800.0,2400,400.0,14.29,Net Banking,Same Day,Delivered,Home Office
+ORD00489,CUST0247,Customer_41,2024-05-25,West,Gujarat,Ahmedabad,Electronics,Laptop,4,60000,15,204000.0,180000,24000.0,11.76,UPI,Same Day,Delivered,Home Office
+ORD00490,CUST0160,Customer_28,2024-12-17,North,Chandigarh,Chandigarh,Beauty,Moisturizer,6,600,15,3060.0,1500,1560.0,50.98,Debit Card,Express,Delivered,Consumer
+ORD00491,CUST0156,Customer_289,2024-09-23,North,Rajasthan,Jaipur,Beauty,Perfume,1,1800,25,1350.0,900,450.0,33.33,Debit Card,Same Day,Delivered,Corporate
+ORD00492,CUST0249,Customer_43,2024-05-09,North,Chandigarh,Chandigarh,Home & Kitchen,Cookware Set,5,4500,10,20250.0,15000,5250.0,25.93,Debit Card,Standard,Delivered,Home Office
+ORD00493,CUST0090,Customer_78,2025-11-05,East,Odisha,Bhubaneswar,Fashion,Jacket,4,3500,15,11900.0,8800,3100.0,26.05,Credit Card,Same Day,In Transit,Corporate
+ORD00494,CUST0044,Customer_75,2025-09-01,South,Tamil Nadu,Chennai,Beauty,Moisturizer,4,600,25,1800.0,1000,800.0,44.44,Net Banking,Same Day,Delivered,Consumer
+ORD00495,CUST0296,Customer_177,2024-02-25,West,Maharashtra,Mumbai,Electronics,Smartphone,8,25000,15,170000.0,144000,26000.0,15.29,Net Banking,Express,Delivered,Home Office
+ORD00496,CUST0120,Customer_195,2025-11-30,East,Odisha,Bhubaneswar,Home & Kitchen,Cookware Set,7,4500,0,31500.0,21000,10500.0,33.33,Debit Card,Express,Delivered,Corporate
+ORD00497,CUST0272,Customer_22,2024-04-09,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,5,500,10,2250.0,1250,1000.0,44.44,UPI,Express,Delivered,Corporate
+ORD00498,CUST0237,Customer_124,2025-11-19,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,6,4500,20,21600.0,18000,3600.0,16.67,UPI,Same Day,Delivered,Consumer
+ORD00499,CUST0007,Customer_211,2024-04-10,North,Rajasthan,Jaipur,Beauty,Shampoo,4,450,25,1350.0,800,550.0,40.74,Debit Card,Express,Delivered,Consumer
+ORD00500,CUST0048,Customer_30,2025-08-31,South,Telangana,Hyderabad,Electronics,Laptop,2,60000,20,96000.0,90000,6000.0,6.25,Credit Card,Express,Delivered,Home Office
+ORD00501,CUST0290,Customer_95,2024-04-23,South,Tamil Nadu,Chennai,Home & Kitchen,Vacuum Cleaner,2,7000,25,10500.0,10000,500.0,4.76,Net Banking,Express,Delivered,Home Office
+ORD00502,CUST0166,Customer_132,2024-06-14,North,Chandigarh,Chandigarh,Electronics,Headphones,7,3000,10,18900.0,12600,6300.0,33.33,UPI,Express,Returned,Corporate
+ORD00503,CUST0092,Customer_226,2024-03-12,East,West Bengal,Kolkata,Beauty,Perfume,8,1800,0,14400.0,7200,7200.0,50.0,Credit Card,Same Day,Delivered,Consumer
+ORD00504,CUST0055,Customer_227,2024-09-22,North,Delhi,Delhi,Electronics,Laptop,5,60000,15,255000.0,225000,30000.0,11.76,UPI,Express,Delivered,Home Office
+ORD00505,CUST0001,Customer_20,2025-11-11,East,Odisha,Bhubaneswar,Fashion,Jacket,7,3500,20,19600.0,15400,4200.0,21.43,UPI,Same Day,Delivered,Corporate
+ORD00506,CUST0245,Customer_224,2025-02-17,North,Rajasthan,Jaipur,Fashion,T-Shirt,7,800,25,4200.0,2800,1400.0,33.33,Net Banking,Standard,Delivered,Corporate
+ORD00507,CUST0171,Customer_156,2025-02-14,North,Rajasthan,Jaipur,Electronics,Tablet,6,18000,0,108000.0,78000,30000.0,27.78,Net Banking,Express,Delivered,Consumer
+ORD00508,CUST0284,Customer_21,2025-01-28,South,Tamil Nadu,Chennai,Beauty,Face Wash,6,300,15,1530.0,720,810.0,52.94,UPI,Same Day,Delivered,Consumer
+ORD00509,CUST0072,Customer_19,2024-07-16,North,Rajasthan,Jaipur,Fashion,Sneakers,7,2800,0,19600.0,12600,7000.0,35.71,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00510,CUST0231,Customer_9,2024-02-07,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,7,3500,0,24500.0,16800,7700.0,31.43,Credit Card,Same Day,Delivered,Corporate
+ORD00511,CUST0275,Customer_77,2025-08-16,South,Karnataka,Bengaluru,Electronics,Smartphone,8,25000,25,150000.0,144000,6000.0,4.0,UPI,Express,Returned,Home Office
+ORD00512,CUST0024,Customer_125,2025-12-19,South,Karnataka,Bengaluru,Fashion,T-Shirt,5,800,0,4000.0,2000,2000.0,50.0,Net Banking,Same Day,Delivered,Home Office
+ORD00513,CUST0033,Customer_55,2024-04-26,East,Bihar,Patna,Fashion,T-Shirt,4,800,15,2720.0,1600,1120.0,41.18,Debit Card,Same Day,Delivered,Corporate
+ORD00514,CUST0062,Customer_295,2025-07-12,South,Tamil Nadu,Chennai,Fashion,T-Shirt,3,800,10,2160.0,1200,960.0,44.44,UPI,Standard,Delivered,Corporate
+ORD00515,CUST0087,Customer_190,2025-07-20,South,Tamil Nadu,Chennai,Fashion,T-Shirt,3,800,0,2400.0,1200,1200.0,50.0,Cash on Delivery,Express,Delivered,Consumer
+ORD00516,CUST0250,Customer_42,2024-01-07,North,Delhi,Delhi,Electronics,Tablet,7,18000,25,94500.0,91000,3500.0,3.7,Net Banking,Same Day,Delivered,Consumer
+ORD00517,CUST0139,Customer_268,2025-04-06,East,West Bengal,Kolkata,Fashion,T-Shirt,3,800,25,1800.0,1200,600.0,33.33,Net Banking,Same Day,Returned,Home Office
+ORD00518,CUST0155,Customer_179,2025-03-04,North,Rajasthan,Jaipur,Fashion,Jeans,2,1800,20,2880.0,2000,880.0,30.56,UPI,Same Day,Delivered,Home Office
+ORD00519,CUST0260,Customer_113,2025-04-20,South,Tamil Nadu,Chennai,Electronics,Smartphone,2,25000,5,47500.0,36000,11500.0,24.21,Net Banking,Express,Delivered,Home Office
+ORD00520,CUST0023,Customer_28,2025-10-22,West,Gujarat,Ahmedabad,Fashion,Sneakers,5,2800,10,12600.0,9000,3600.0,28.57,Cash on Delivery,Express,Delivered,Home Office
+ORD00521,CUST0027,Customer_276,2024-06-29,South,Karnataka,Bengaluru,Beauty,Face Wash,2,300,5,570.0,240,330.0,57.89,Net Banking,Same Day,Delivered,Corporate
+ORD00522,CUST0102,Customer_167,2024-08-23,North,Chandigarh,Chandigarh,Fashion,T-Shirt,4,800,25,2400.0,1600,800.0,33.33,Net Banking,Standard,Delivered,Consumer
+ORD00523,CUST0038,Customer_242,2025-08-22,East,West Bengal,Kolkata,Beauty,Perfume,4,1800,20,5760.0,3600,2160.0,37.5,Net Banking,Standard,Delivered,Consumer
+ORD00524,CUST0235,Customer_100,2025-10-09,West,Gujarat,Ahmedabad,Fashion,Jacket,3,3500,0,10500.0,6600,3900.0,37.14,Cash on Delivery,Standard,Delivered,Consumer
+ORD00525,CUST0239,Customer_235,2025-03-04,South,Tamil Nadu,Chennai,Fashion,Jacket,3,3500,25,7875.0,6600,1275.0,16.19,Cash on Delivery,Standard,Delivered,Home Office
+ORD00526,CUST0118,Customer_45,2025-02-25,East,West Bengal,Kolkata,Beauty,Moisturizer,5,600,0,3000.0,1250,1750.0,58.33,Net Banking,Same Day,In Transit,Consumer
+ORD00527,CUST0168,Customer_223,2025-08-16,South,Telangana,Hyderabad,Fashion,T-Shirt,7,800,0,5600.0,2800,2800.0,50.0,UPI,Express,Delivered,Home Office
+ORD00528,CUST0018,Customer_218,2025-06-27,East,Odisha,Bhubaneswar,Electronics,Headphones,8,3000,5,22800.0,14400,8400.0,36.84,UPI,Same Day,Delivered,Home Office
+ORD00529,CUST0209,Customer_112,2024-05-15,West,Gujarat,Ahmedabad,Fashion,T-Shirt,1,800,15,680.0,400,280.0,41.18,Debit Card,Standard,Delivered,Home Office
+ORD00530,CUST0299,Customer_13,2025-04-10,East,West Bengal,Kolkata,Beauty,Perfume,6,1800,25,8100.0,5400,2700.0,33.33,Net Banking,Same Day,Delivered,Home Office
+ORD00531,CUST0037,Customer_198,2025-12-08,West,Maharashtra,Pune,Electronics,Tablet,7,18000,10,113400.0,91000,22400.0,19.75,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00532,CUST0042,Customer_172,2024-02-26,West,Maharashtra,Mumbai,Electronics,Headphones,6,3000,15,15300.0,10800,4500.0,29.41,Cash on Delivery,Standard,Delivered,Consumer
+ORD00533,CUST0287,Customer_35,2025-07-28,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,2,4500,25,6750.0,6000,750.0,11.11,Net Banking,Same Day,Returned,Home Office
+ORD00534,CUST0108,Customer_116,2024-11-24,West,Gujarat,Ahmedabad,Beauty,Shampoo,1,450,0,450.0,200,250.0,55.56,Debit Card,Express,Delivered,Home Office
+ORD00535,CUST0270,Customer_63,2025-04-26,West,Gujarat,Ahmedabad,Home & Kitchen,Mixer,4,3500,15,11900.0,9600,2300.0,19.33,UPI,Standard,Delivered,Consumer
+ORD00536,CUST0148,Customer_40,2024-04-21,South,Tamil Nadu,Chennai,Electronics,Smartphone,8,25000,5,190000.0,144000,46000.0,24.21,Credit Card,Same Day,Returned,Consumer
+ORD00537,CUST0151,Customer_214,2025-11-29,South,Tamil Nadu,Chennai,Home & Kitchen,Vacuum Cleaner,8,7000,25,42000.0,40000,2000.0,4.76,UPI,Express,Delivered,Consumer
+ORD00538,CUST0119,Customer_267,2025-10-22,West,Gujarat,Ahmedabad,Home & Kitchen,Water Bottle,8,500,20,3200.0,2000,1200.0,37.5,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00539,CUST0291,Customer_68,2024-11-09,South,Tamil Nadu,Chennai,Fashion,Sneakers,6,2800,10,15120.0,10800,4320.0,28.57,UPI,Standard,Delivered,Corporate
+ORD00540,CUST0086,Customer_83,2025-12-29,West,Maharashtra,Mumbai,Fashion,Jeans,3,1800,5,5130.0,3000,2130.0,41.52,UPI,Standard,Cancelled,Home Office
+ORD00541,CUST0065,Customer_226,2024-09-23,West,Maharashtra,Mumbai,Fashion,T-Shirt,6,800,10,4320.0,2400,1920.0,44.44,Credit Card,Express,Delivered,Consumer
+ORD00542,CUST0274,Customer_155,2024-05-04,North,Chandigarh,Chandigarh,Beauty,Perfume,8,1800,10,12960.0,7200,5760.0,44.44,Credit Card,Standard,Cancelled,Home Office
+ORD00543,CUST0260,Customer_170,2025-10-24,West,Gujarat,Ahmedabad,Home & Kitchen,Cookware Set,8,4500,10,32400.0,24000,8400.0,25.93,UPI,Same Day,Delivered,Consumer
+ORD00544,CUST0072,Customer_283,2024-04-29,West,Maharashtra,Mumbai,Beauty,Perfume,8,1800,10,12960.0,7200,5760.0,44.44,UPI,Express,Delivered,Home Office
+ORD00545,CUST0100,Customer_299,2025-06-23,South,Tamil Nadu,Chennai,Fashion,T-Shirt,2,800,20,1280.0,800,480.0,37.5,Net Banking,Same Day,Delivered,Consumer
+ORD00546,CUST0263,Customer_202,2024-07-18,East,Odisha,Bhubaneswar,Electronics,Tablet,7,18000,5,119700.0,91000,28700.0,23.98,Net Banking,Express,Delivered,Consumer
+ORD00547,CUST0146,Customer_177,2024-12-25,West,Gujarat,Ahmedabad,Electronics,Smartphone,8,25000,25,150000.0,144000,6000.0,4.0,Net Banking,Express,Delivered,Home Office
+ORD00548,CUST0218,Customer_213,2024-05-22,North,Delhi,Delhi,Fashion,Jacket,8,3500,20,22400.0,17600,4800.0,21.43,Debit Card,Standard,Returned,Home Office
+ORD00549,CUST0193,Customer_46,2024-01-07,East,Bihar,Patna,Home & Kitchen,Vacuum Cleaner,3,7000,20,16800.0,15000,1800.0,10.71,Net Banking,Same Day,Delivered,Consumer
+ORD00550,CUST0103,Customer_96,2025-01-25,West,Maharashtra,Pune,Beauty,Face Wash,5,300,20,1200.0,600,600.0,50.0,Debit Card,Express,Delivered,Corporate
+ORD00551,CUST0115,Customer_14,2024-01-03,South,Tamil Nadu,Chennai,Home & Kitchen,Vacuum Cleaner,2,7000,25,10500.0,10000,500.0,4.76,Debit Card,Express,Delivered,Home Office
+ORD00552,CUST0126,Customer_15,2024-05-02,West,Gujarat,Ahmedabad,Electronics,Tablet,8,18000,20,115200.0,104000,11200.0,9.72,Net Banking,Express,Delivered,Corporate
+ORD00553,CUST0062,Customer_192,2025-06-08,North,Chandigarh,Chandigarh,Fashion,T-Shirt,3,800,10,2160.0,1200,960.0,44.44,Net Banking,Same Day,Delivered,Consumer
+ORD00554,CUST0028,Customer_140,2025-01-04,East,Bihar,Patna,Home & Kitchen,Mixer,5,3500,10,15750.0,12000,3750.0,23.81,Cash on Delivery,Same Day,Returned,Home Office
+ORD00555,CUST0100,Customer_94,2024-04-06,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,5,500,10,2250.0,1250,1000.0,44.44,Debit Card,Standard,Delivered,Corporate
+ORD00556,CUST0074,Customer_7,2024-05-20,West,Gujarat,Ahmedabad,Beauty,Moisturizer,6,600,5,3420.0,1500,1920.0,56.14,UPI,Standard,Delivered,Consumer
+ORD00557,CUST0097,Customer_287,2025-09-20,North,Chandigarh,Chandigarh,Beauty,Face Wash,2,300,5,570.0,240,330.0,57.89,UPI,Express,Delivered,Home Office
+ORD00558,CUST0186,Customer_72,2025-03-28,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,2,3500,5,6650.0,4800,1850.0,27.82,Credit Card,Same Day,Delivered,Consumer
+ORD00559,CUST0158,Customer_65,2024-08-02,South,Karnataka,Bengaluru,Beauty,Face Wash,2,300,0,600.0,240,360.0,60.0,Net Banking,Express,Delivered,Consumer
+ORD00560,CUST0017,Customer_263,2025-08-30,North,Chandigarh,Chandigarh,Electronics,Tablet,1,18000,0,18000.0,13000,5000.0,27.78,Debit Card,Same Day,Delivered,Consumer
+ORD00561,CUST0064,Customer_106,2025-08-24,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,2,3500,5,6650.0,4800,1850.0,27.82,Debit Card,Same Day,Delivered,Consumer
+ORD00562,CUST0257,Customer_124,2025-06-01,North,Delhi,Delhi,Electronics,Smartphone,4,25000,10,90000.0,72000,18000.0,20.0,Credit Card,Same Day,Delivered,Home Office
+ORD00563,CUST0051,Customer_110,2025-05-31,East,Odisha,Bhubaneswar,Fashion,Sneakers,2,2800,5,5320.0,3600,1720.0,32.33,Debit Card,Express,Delivered,Home Office
+ORD00564,CUST0117,Customer_209,2024-04-25,West,Maharashtra,Mumbai,Beauty,Face Wash,3,300,15,765.0,360,405.0,52.94,Debit Card,Same Day,Delivered,Home Office
+ORD00565,CUST0021,Customer_43,2024-12-01,East,West Bengal,Kolkata,Beauty,Shampoo,8,450,20,2880.0,1600,1280.0,44.44,Debit Card,Same Day,Cancelled,Corporate
+ORD00566,CUST0116,Customer_284,2025-02-21,West,Gujarat,Ahmedabad,Fashion,T-Shirt,8,800,25,4800.0,3200,1600.0,33.33,Debit Card,Standard,Delivered,Home Office
+ORD00567,CUST0252,Customer_54,2025-02-09,East,Bihar,Patna,Electronics,Laptop,3,60000,15,153000.0,135000,18000.0,11.76,Net Banking,Same Day,Delivered,Consumer
+ORD00568,CUST0087,Customer_34,2025-01-07,South,Tamil Nadu,Chennai,Fashion,Sneakers,2,2800,5,5320.0,3600,1720.0,32.33,Net Banking,Same Day,Delivered,Home Office
+ORD00569,CUST0298,Customer_140,2025-10-21,East,Odisha,Bhubaneswar,Beauty,Moisturizer,8,600,20,3840.0,2000,1840.0,47.92,Debit Card,Standard,Delivered,Consumer
+ORD00570,CUST0063,Customer_129,2025-05-16,East,West Bengal,Kolkata,Fashion,T-Shirt,2,800,25,1200.0,800,400.0,33.33,UPI,Standard,Delivered,Consumer
+ORD00571,CUST0092,Customer_196,2025-09-11,West,Maharashtra,Mumbai,Home & Kitchen,Mixer,2,3500,25,5250.0,4800,450.0,8.57,Cash on Delivery,Express,Delivered,Consumer
+ORD00572,CUST0151,Customer_255,2025-05-17,West,Maharashtra,Pune,Home & Kitchen,Mixer,1,3500,15,2975.0,2400,575.0,19.33,UPI,Express,Delivered,Corporate
+ORD00573,CUST0227,Customer_236,2024-02-06,North,Delhi,Delhi,Home & Kitchen,Cookware Set,8,4500,15,30600.0,24000,6600.0,21.57,Credit Card,Express,Delivered,Corporate
+ORD00574,CUST0057,Customer_292,2025-11-22,East,Bihar,Patna,Beauty,Moisturizer,3,600,20,1440.0,750,690.0,47.92,UPI,Express,Delivered,Home Office
+ORD00575,CUST0194,Customer_181,2024-10-18,West,Maharashtra,Mumbai,Electronics,Laptop,3,60000,10,162000.0,135000,27000.0,16.67,Debit Card,Same Day,Delivered,Home Office
+ORD00576,CUST0175,Customer_195,2024-04-09,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,6,7000,0,42000.0,30000,12000.0,28.57,Credit Card,Standard,Delivered,Corporate
+ORD00577,CUST0044,Customer_34,2024-11-08,North,Chandigarh,Chandigarh,Fashion,T-Shirt,6,800,0,4800.0,2400,2400.0,50.0,Net Banking,Same Day,In Transit,Home Office
+ORD00578,CUST0264,Customer_216,2024-09-30,North,Rajasthan,Jaipur,Beauty,Face Wash,6,300,15,1530.0,720,810.0,52.94,Cash on Delivery,Express,Delivered,Consumer
+ORD00579,CUST0251,Customer_52,2025-12-08,South,Tamil Nadu,Chennai,Beauty,Shampoo,3,450,20,1080.0,600,480.0,44.44,Debit Card,Express,Returned,Consumer
+ORD00580,CUST0255,Customer_39,2025-07-02,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer,5,3500,20,14000.0,12000,2000.0,14.29,Net Banking,Standard,Delivered,Consumer
+ORD00581,CUST0297,Customer_49,2025-08-29,West,Gujarat,Ahmedabad,Electronics,Headphones,7,3000,5,19950.0,12600,7350.0,36.84,Debit Card,Standard,Delivered,Corporate
+ORD00582,CUST0259,Customer_154,2025-03-19,West,Maharashtra,Mumbai,Beauty,Moisturizer,5,600,20,2400.0,1250,1150.0,47.92,Cash on Delivery,Express,Delivered,Home Office
+ORD00583,CUST0093,Customer_10,2025-10-04,South,Telangana,Hyderabad,Beauty,Perfume,8,1800,10,12960.0,7200,5760.0,44.44,Cash on Delivery,Same Day,In Transit,Corporate
+ORD00584,CUST0290,Customer_31,2025-06-18,South,Tamil Nadu,Chennai,Beauty,Perfume,4,1800,5,6840.0,3600,3240.0,47.37,Debit Card,Express,Delivered,Consumer
+ORD00585,CUST0105,Customer_212,2024-09-30,West,Maharashtra,Pune,Fashion,Jacket,4,3500,15,11900.0,8800,3100.0,26.05,Credit Card,Standard,Delivered,Consumer
+ORD00586,CUST0126,Customer_159,2025-04-20,East,Bihar,Patna,Beauty,Moisturizer,1,600,5,570.0,250,320.0,56.14,Credit Card,Express,Delivered,Corporate
+ORD00587,CUST0143,Customer_282,2024-06-29,North,Rajasthan,Jaipur,Beauty,Face Wash,1,300,0,300.0,120,180.0,60.0,Debit Card,Same Day,Delivered,Consumer
+ORD00588,CUST0209,Customer_187,2025-11-18,North,Chandigarh,Chandigarh,Fashion,Jeans,2,1800,20,2880.0,2000,880.0,30.56,Cash on Delivery,Standard,Delivered,Home Office
+ORD00589,CUST0269,Customer_129,2025-05-23,North,Delhi,Delhi,Electronics,Tablet,6,18000,20,86400.0,78000,8400.0,9.72,Net Banking,Same Day,Delivered,Corporate
+ORD00590,CUST0112,Customer_74,2024-04-19,South,Karnataka,Bengaluru,Home & Kitchen,Vacuum Cleaner,7,7000,10,44100.0,35000,9100.0,20.63,Cash on Delivery,Standard,Delivered,Corporate
+ORD00591,CUST0058,Customer_163,2025-07-12,East,Odisha,Bhubaneswar,Fashion,Jacket,3,3500,10,9450.0,6600,2850.0,30.16,Net Banking,Same Day,Delivered,Corporate
+ORD00592,CUST0011,Customer_18,2025-11-09,North,Rajasthan,Jaipur,Fashion,Jacket,7,3500,10,22050.0,15400,6650.0,30.16,Debit Card,Same Day,Delivered,Consumer
+ORD00593,CUST0227,Customer_199,2024-01-09,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer,4,3500,10,12600.0,9600,3000.0,23.81,Credit Card,Standard,Returned,Home Office
+ORD00594,CUST0163,Customer_209,2024-02-04,West,Maharashtra,Mumbai,Beauty,Moisturizer,7,600,10,3780.0,1750,2030.0,53.7,Net Banking,Standard,In Transit,Home Office
+ORD00595,CUST0134,Customer_260,2024-03-08,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,7000,0,7000.0,5000,2000.0,28.57,Credit Card,Same Day,Delivered,Home Office
+ORD00596,CUST0070,Customer_2,2025-02-14,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,2,500,0,1000.0,500,500.0,50.0,Credit Card,Standard,Delivered,Home Office
+ORD00597,CUST0067,Customer_211,2024-11-23,East,Odisha,Bhubaneswar,Fashion,Jacket,3,3500,25,7875.0,6600,1275.0,16.19,Cash on Delivery,Express,Delivered,Consumer
+ORD00598,CUST0044,Customer_213,2025-01-11,South,Tamil Nadu,Chennai,Beauty,Perfume,1,1800,0,1800.0,900,900.0,50.0,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00599,CUST0046,Customer_237,2024-07-22,West,Maharashtra,Pune,Fashion,T-Shirt,7,800,20,4480.0,2800,1680.0,37.5,Net Banking,Same Day,Delivered,Consumer
+ORD00600,CUST0189,Customer_88,2025-08-03,North,Delhi,Delhi,Beauty,Moisturizer,8,600,0,4800.0,2000,2800.0,58.33,Credit Card,Same Day,Delivered,Corporate
+ORD00601,CUST0148,Customer_254,2025-01-26,South,Tamil Nadu,Chennai,Fashion,Jeans,5,1800,25,6750.0,5000,1750.0,25.93,Credit Card,Express,Delivered,Consumer
+ORD00602,CUST0015,Customer_149,2024-09-25,South,Telangana,Hyderabad,Beauty,Perfume,6,1800,20,8640.0,5400,3240.0,37.5,Net Banking,Standard,Delivered,Consumer
+ORD00603,CUST0166,Customer_204,2025-12-04,South,Telangana,Hyderabad,Beauty,Moisturizer,5,600,0,3000.0,1250,1750.0,58.33,UPI,Same Day,Delivered,Corporate
+ORD00604,CUST0121,Customer_242,2024-12-28,North,Delhi,Delhi,Home & Kitchen,Vacuum Cleaner,5,7000,15,29750.0,25000,4750.0,15.97,Debit Card,Standard,Returned,Home Office
+ORD00605,CUST0022,Customer_298,2024-07-02,West,Maharashtra,Mumbai,Beauty,Shampoo,8,450,5,3420.0,1600,1820.0,53.22,UPI,Express,Delivered,Corporate
+ORD00606,CUST0073,Customer_134,2024-04-29,West,Maharashtra,Mumbai,Fashion,Sneakers,5,2800,25,10500.0,9000,1500.0,14.29,Debit Card,Express,Delivered,Corporate
+ORD00607,CUST0136,Customer_265,2024-11-16,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,3,7000,20,16800.0,15000,1800.0,10.71,Net Banking,Standard,Delivered,Consumer
+ORD00608,CUST0118,Customer_94,2024-02-06,East,Odisha,Bhubaneswar,Fashion,Sneakers,7,2800,0,19600.0,12600,7000.0,35.71,Net Banking,Standard,Delivered,Home Office
+ORD00609,CUST0288,Customer_249,2025-04-13,East,West Bengal,Kolkata,Fashion,T-Shirt,6,800,0,4800.0,2400,2400.0,50.0,Credit Card,Express,Delivered,Consumer
+ORD00610,CUST0261,Customer_140,2025-07-30,South,Telangana,Hyderabad,Electronics,Smartphone,7,25000,0,175000.0,126000,49000.0,28.0,Credit Card,Express,Delivered,Corporate
+ORD00611,CUST0014,Customer_146,2025-11-28,North,Chandigarh,Chandigarh,Home & Kitchen,Mixer,6,3500,5,19950.0,14400,5550.0,27.82,UPI,Standard,Delivered,Home Office
+ORD00612,CUST0246,Customer_233,2025-10-05,West,Maharashtra,Pune,Electronics,Tablet,1,18000,25,13500.0,13000,500.0,3.7,Cash on Delivery,Express,Delivered,Home Office
+ORD00613,CUST0292,Customer_67,2024-08-04,North,Rajasthan,Jaipur,Home & Kitchen,Water Bottle,1,500,25,375.0,250,125.0,33.33,UPI,Same Day,Returned,Corporate
+ORD00614,CUST0048,Customer_205,2024-09-18,South,Karnataka,Bengaluru,Beauty,Face Wash,1,300,5,285.0,120,165.0,57.89,Credit Card,Express,Delivered,Corporate
+ORD00615,CUST0079,Customer_62,2024-11-01,East,Odisha,Bhubaneswar,Home & Kitchen,Cookware Set,6,4500,25,20250.0,18000,2250.0,11.11,UPI,Express,Delivered,Corporate
+ORD00616,CUST0229,Customer_199,2025-05-02,West,Maharashtra,Pune,Beauty,Face Wash,7,300,10,1890.0,840,1050.0,55.56,Cash on Delivery,Standard,Delivered,Corporate
+ORD00617,CUST0048,Customer_21,2025-06-09,West,Gujarat,Ahmedabad,Fashion,Jeans,8,1800,20,11520.0,8000,3520.0,30.56,Cash on Delivery,Standard,Delivered,Corporate
+ORD00618,CUST0041,Customer_245,2024-11-03,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,7,4500,10,28350.0,21000,7350.0,25.93,Cash on Delivery,Standard,Delivered,Consumer
+ORD00619,CUST0263,Customer_56,2025-06-06,East,Odisha,Bhubaneswar,Electronics,Headphones,5,3000,10,13500.0,9000,4500.0,33.33,Debit Card,Same Day,Delivered,Home Office
+ORD00620,CUST0009,Customer_59,2025-11-08,East,West Bengal,Kolkata,Fashion,Sneakers,1,2800,0,2800.0,1800,1000.0,35.71,Net Banking,Same Day,Delivered,Home Office
+ORD00621,CUST0233,Customer_231,2025-09-30,West,Gujarat,Ahmedabad,Fashion,Jeans,3,1800,0,5400.0,3000,2400.0,44.44,Cash on Delivery,Express,In Transit,Consumer
+ORD00622,CUST0223,Customer_274,2024-01-19,North,Chandigarh,Chandigarh,Electronics,Laptop,3,60000,25,135000.0,135000,0.0,0.0,Net Banking,Express,Delivered,Home Office
+ORD00623,CUST0250,Customer_156,2025-09-25,West,Maharashtra,Pune,Beauty,Shampoo,2,450,5,855.0,400,455.0,53.22,Credit Card,Standard,Delivered,Consumer
+ORD00624,CUST0097,Customer_14,2024-08-02,East,Bihar,Patna,Fashion,Jeans,7,1800,25,9450.0,7000,2450.0,25.93,Cash on Delivery,Standard,Delivered,Corporate
+ORD00625,CUST0076,Customer_243,2025-03-08,North,Delhi,Delhi,Fashion,Jeans,8,1800,15,12240.0,8000,4240.0,34.64,Net Banking,Standard,In Transit,Home Office
+ORD00626,CUST0125,Customer_104,2024-10-28,East,West Bengal,Kolkata,Home & Kitchen,Mixer,2,3500,25,5250.0,4800,450.0,8.57,Net Banking,Express,In Transit,Home Office
+ORD00627,CUST0297,Customer_284,2024-10-24,North,Chandigarh,Chandigarh,Beauty,Moisturizer,8,600,5,4560.0,2000,2560.0,56.14,UPI,Same Day,Delivered,Home Office
+ORD00628,CUST0162,Customer_284,2024-03-06,West,Maharashtra,Pune,Beauty,Moisturizer,2,600,15,1020.0,500,520.0,50.98,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00629,CUST0224,Customer_11,2024-06-14,West,Maharashtra,Pune,Fashion,Sneakers,6,2800,15,14280.0,10800,3480.0,24.37,Credit Card,Same Day,Delivered,Home Office
+ORD00630,CUST0174,Customer_240,2024-05-14,West,Maharashtra,Pune,Beauty,Moisturizer,6,600,15,3060.0,1500,1560.0,50.98,Credit Card,Same Day,Delivered,Home Office
+ORD00631,CUST0045,Customer_248,2024-05-12,South,Karnataka,Bengaluru,Fashion,Sneakers,2,2800,15,4760.0,3600,1160.0,24.37,Net Banking,Express,Delivered,Home Office
+ORD00632,CUST0025,Customer_10,2025-01-02,West,Gujarat,Ahmedabad,Fashion,Jeans,1,1800,0,1800.0,1000,800.0,44.44,Debit Card,Express,Delivered,Consumer
+ORD00633,CUST0062,Customer_288,2024-08-17,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,1,500,20,400.0,250,150.0,37.5,Debit Card,Standard,In Transit,Home Office
+ORD00634,CUST0054,Customer_26,2025-03-24,East,West Bengal,Kolkata,Electronics,Laptop,1,60000,20,48000.0,45000,3000.0,6.25,UPI,Standard,Delivered,Consumer
+ORD00635,CUST0186,Customer_81,2024-10-26,East,Bihar,Patna,Beauty,Face Wash,3,300,25,675.0,360,315.0,46.67,Debit Card,Express,In Transit,Consumer
+ORD00636,CUST0104,Customer_225,2025-03-01,North,Delhi,Delhi,Beauty,Shampoo,5,450,20,1800.0,1000,800.0,44.44,Credit Card,Standard,Delivered,Home Office
+ORD00637,CUST0213,Customer_185,2025-10-06,South,Karnataka,Bengaluru,Beauty,Perfume,3,1800,15,4590.0,2700,1890.0,41.18,Net Banking,Express,In Transit,Home Office
+ORD00638,CUST0186,Customer_16,2025-03-29,South,Karnataka,Bengaluru,Electronics,Laptop,6,60000,10,324000.0,270000,54000.0,16.67,Net Banking,Standard,Delivered,Corporate
+ORD00639,CUST0019,Customer_78,2025-08-11,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,7,7000,25,36750.0,35000,1750.0,4.76,Cash on Delivery,Express,Delivered,Corporate
+ORD00640,CUST0177,Customer_5,2024-10-13,South,Telangana,Hyderabad,Beauty,Moisturizer,4,600,20,1920.0,1000,920.0,47.92,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00641,CUST0177,Customer_208,2024-07-21,West,Maharashtra,Mumbai,Electronics,Tablet,7,18000,25,94500.0,91000,3500.0,3.7,Credit Card,Same Day,Cancelled,Corporate
+ORD00642,CUST0110,Customer_48,2025-06-07,West,Maharashtra,Pune,Home & Kitchen,Cookware Set,1,4500,0,4500.0,3000,1500.0,33.33,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00643,CUST0217,Customer_259,2024-04-23,North,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,2,500,0,1000.0,500,500.0,50.0,UPI,Express,Delivered,Home Office
+ORD00644,CUST0003,Customer_233,2024-12-13,South,Telangana,Hyderabad,Fashion,Jacket,5,3500,10,15750.0,11000,4750.0,30.16,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00645,CUST0267,Customer_127,2024-04-17,West,Maharashtra,Pune,Fashion,Jacket,8,3500,0,28000.0,17600,10400.0,37.14,Credit Card,Same Day,Delivered,Corporate
+ORD00646,CUST0042,Customer_48,2024-03-04,East,West Bengal,Kolkata,Beauty,Perfume,8,1800,0,14400.0,7200,7200.0,50.0,Debit Card,Same Day,Delivered,Home Office
+ORD00647,CUST0287,Customer_266,2025-02-08,West,Maharashtra,Pune,Beauty,Moisturizer,8,600,25,3600.0,2000,1600.0,44.44,Net Banking,Same Day,Cancelled,Consumer
+ORD00648,CUST0074,Customer_259,2024-05-10,East,Bihar,Patna,Beauty,Perfume,2,1800,25,2700.0,1800,900.0,33.33,Credit Card,Express,Delivered,Home Office
+ORD00649,CUST0081,Customer_287,2025-01-13,North,Rajasthan,Jaipur,Beauty,Face Wash,2,300,10,540.0,240,300.0,55.56,Cash on Delivery,Express,Delivered,Consumer
+ORD00650,CUST0061,Customer_191,2024-11-08,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,1,7000,5,6650.0,5000,1650.0,24.81,Credit Card,Same Day,Delivered,Corporate
+ORD00651,CUST0146,Customer_111,2024-07-06,East,West Bengal,Kolkata,Electronics,Tablet,2,18000,0,36000.0,26000,10000.0,27.78,Net Banking,Express,Delivered,Home Office
+ORD00652,CUST0232,Customer_173,2025-01-21,East,Bihar,Patna,Fashion,Jeans,8,1800,15,12240.0,8000,4240.0,34.64,Net Banking,Standard,In Transit,Corporate
+ORD00653,CUST0046,Customer_210,2025-01-31,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer,8,3500,25,21000.0,19200,1800.0,8.57,Debit Card,Same Day,Delivered,Consumer
+ORD00654,CUST0013,Customer_293,2025-10-07,West,Maharashtra,Pune,Electronics,Laptop,4,60000,20,192000.0,180000,12000.0,6.25,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00655,CUST0268,Customer_97,2025-05-02,North,Delhi,Delhi,Fashion,T-Shirt,5,800,5,3800.0,2000,1800.0,47.37,Credit Card,Same Day,In Transit,Home Office
+ORD00656,CUST0228,Customer_44,2025-06-30,West,Gujarat,Ahmedabad,Electronics,Headphones,1,3000,10,2700.0,1800,900.0,33.33,Net Banking,Standard,Delivered,Home Office
+ORD00657,CUST0163,Customer_196,2024-09-20,North,Delhi,Delhi,Electronics,Smartphone,5,25000,5,118750.0,90000,28750.0,24.21,Credit Card,Express,Delivered,Consumer
+ORD00658,CUST0158,Customer_209,2025-11-25,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,1,4500,25,3375.0,3000,375.0,11.11,UPI,Express,Delivered,Corporate
+ORD00659,CUST0073,Customer_212,2024-11-27,West,Gujarat,Ahmedabad,Electronics,Laptop,4,60000,5,228000.0,180000,48000.0,21.05,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00660,CUST0259,Customer_198,2024-04-27,West,Maharashtra,Mumbai,Home & Kitchen,Vacuum Cleaner,7,7000,0,49000.0,35000,14000.0,28.57,Net Banking,Standard,Delivered,Consumer
+ORD00661,CUST0010,Customer_138,2025-07-21,North,Delhi,Delhi,Fashion,Jacket,7,3500,15,20825.0,15400,5425.0,26.05,UPI,Same Day,Delivered,Consumer
+ORD00662,CUST0192,Customer_277,2024-06-21,South,Telangana,Hyderabad,Beauty,Moisturizer,1,600,0,600.0,250,350.0,58.33,Net Banking,Same Day,Delivered,Consumer
+ORD00663,CUST0001,Customer_31,2025-05-08,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,6,7000,25,31500.0,30000,1500.0,4.76,Credit Card,Same Day,In Transit,Corporate
+ORD00664,CUST0024,Customer_83,2025-06-30,North,Chandigarh,Chandigarh,Electronics,Headphones,2,3000,5,5700.0,3600,2100.0,36.84,Cash on Delivery,Express,In Transit,Consumer
+ORD00665,CUST0259,Customer_163,2025-11-29,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,5,7000,5,33250.0,25000,8250.0,24.81,Debit Card,Express,Delivered,Home Office
+ORD00666,CUST0169,Customer_9,2025-12-09,South,Telangana,Hyderabad,Electronics,Headphones,1,3000,0,3000.0,1800,1200.0,40.0,Credit Card,Express,Delivered,Home Office
+ORD00667,CUST0251,Customer_202,2025-07-05,North,Rajasthan,Jaipur,Electronics,Laptop,8,60000,25,360000.0,360000,0.0,0.0,UPI,Express,Cancelled,Corporate
+ORD00668,CUST0184,Customer_199,2024-06-30,North,Delhi,Delhi,Beauty,Shampoo,4,450,15,1530.0,800,730.0,47.71,UPI,Standard,Delivered,Corporate
+ORD00669,CUST0184,Customer_99,2024-04-02,West,Maharashtra,Pune,Fashion,Jeans,8,1800,10,12960.0,8000,4960.0,38.27,UPI,Express,Delivered,Home Office
+ORD00670,CUST0108,Customer_4,2024-07-19,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,3,7000,20,16800.0,15000,1800.0,10.71,Credit Card,Same Day,Delivered,Home Office
+ORD00671,CUST0290,Customer_90,2024-03-07,South,Telangana,Hyderabad,Electronics,Smartphone,5,25000,20,100000.0,90000,10000.0,10.0,Credit Card,Same Day,Delivered,Corporate
+ORD00672,CUST0099,Customer_12,2025-12-10,West,Maharashtra,Pune,Beauty,Face Wash,7,300,25,1575.0,840,735.0,46.67,UPI,Express,Delivered,Corporate
+ORD00673,CUST0141,Customer_63,2025-11-27,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer,4,3500,0,14000.0,9600,4400.0,31.43,Debit Card,Express,Delivered,Corporate
+ORD00674,CUST0003,Customer_201,2024-07-18,West,Maharashtra,Mumbai,Electronics,Smartphone,7,25000,0,175000.0,126000,49000.0,28.0,Credit Card,Standard,Delivered,Corporate
+ORD00675,CUST0033,Customer_50,2024-01-29,East,Odisha,Bhubaneswar,Electronics,Tablet,5,18000,5,85500.0,65000,20500.0,23.98,UPI,Express,Delivered,Corporate
+ORD00676,CUST0028,Customer_171,2025-06-16,South,Karnataka,Bengaluru,Beauty,Face Wash,8,300,20,1920.0,960,960.0,50.0,UPI,Standard,Cancelled,Consumer
+ORD00677,CUST0194,Customer_161,2025-12-11,North,Delhi,Delhi,Electronics,Headphones,1,3000,10,2700.0,1800,900.0,33.33,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00678,CUST0029,Customer_287,2024-02-23,West,Gujarat,Ahmedabad,Beauty,Face Wash,7,300,5,1995.0,840,1155.0,57.89,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00679,CUST0197,Customer_238,2025-03-14,North,Chandigarh,Chandigarh,Electronics,Headphones,6,3000,20,14400.0,10800,3600.0,25.0,Credit Card,Standard,Delivered,Home Office
+ORD00680,CUST0035,Customer_100,2025-08-09,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,7,500,15,2975.0,1750,1225.0,41.18,Cash on Delivery,Express,Delivered,Consumer
+ORD00681,CUST0023,Customer_31,2024-05-10,West,Maharashtra,Pune,Beauty,Shampoo,5,450,20,1800.0,1000,800.0,44.44,Cash on Delivery,Standard,Delivered,Corporate
+ORD00682,CUST0176,Customer_150,2025-01-12,North,Rajasthan,Jaipur,Fashion,T-Shirt,4,800,20,2560.0,1600,960.0,37.5,Cash on Delivery,Standard,Delivered,Consumer
+ORD00683,CUST0103,Customer_104,2024-03-11,West,Maharashtra,Mumbai,Beauty,Moisturizer,6,600,20,2880.0,1500,1380.0,47.92,Cash on Delivery,Express,Delivered,Corporate
+ORD00684,CUST0169,Customer_84,2024-04-17,East,West Bengal,Kolkata,Beauty,Perfume,1,1800,25,1350.0,900,450.0,33.33,Credit Card,Same Day,Delivered,Home Office
+ORD00685,CUST0110,Customer_123,2025-05-07,West,Maharashtra,Pune,Beauty,Perfume,7,1800,5,11970.0,6300,5670.0,47.37,UPI,Express,Delivered,Corporate
+ORD00686,CUST0016,Customer_285,2024-04-27,South,Tamil Nadu,Chennai,Beauty,Perfume,6,1800,0,10800.0,5400,5400.0,50.0,UPI,Standard,Delivered,Consumer
+ORD00687,CUST0113,Customer_135,2024-06-27,West,Maharashtra,Pune,Fashion,Jeans,4,1800,0,7200.0,4000,3200.0,44.44,Credit Card,Express,Returned,Consumer
+ORD00688,CUST0071,Customer_195,2025-11-01,North,Chandigarh,Chandigarh,Fashion,Jacket,8,3500,5,26600.0,17600,9000.0,33.83,Debit Card,Express,Delivered,Home Office
+ORD00689,CUST0223,Customer_34,2024-05-01,South,Karnataka,Bengaluru,Fashion,Jeans,7,1800,25,9450.0,7000,2450.0,25.93,Debit Card,Express,Delivered,Home Office
+ORD00690,CUST0126,Customer_24,2025-09-22,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,6,4500,5,25650.0,18000,7650.0,29.82,UPI,Same Day,Delivered,Consumer
+ORD00691,CUST0261,Customer_300,2025-05-15,South,Telangana,Hyderabad,Electronics,Headphones,2,3000,5,5700.0,3600,2100.0,36.84,Cash on Delivery,Express,Delivered,Home Office
+ORD00692,CUST0261,Customer_192,2025-05-25,East,West Bengal,Kolkata,Home & Kitchen,Water Bottle,8,500,25,3000.0,2000,1000.0,33.33,Net Banking,Express,Delivered,Corporate
+ORD00693,CUST0299,Customer_19,2024-07-31,South,Karnataka,Bengaluru,Beauty,Perfume,7,1800,5,11970.0,6300,5670.0,47.37,Debit Card,Express,In Transit,Home Office
+ORD00694,CUST0081,Customer_192,2024-09-17,North,Delhi,Delhi,Electronics,Tablet,8,18000,20,115200.0,104000,11200.0,9.72,Debit Card,Standard,Delivered,Corporate
+ORD00695,CUST0263,Customer_173,2025-03-12,East,Odisha,Bhubaneswar,Beauty,Moisturizer,6,600,15,3060.0,1500,1560.0,50.98,Debit Card,Express,Delivered,Consumer
+ORD00696,CUST0227,Customer_120,2024-09-28,North,Chandigarh,Chandigarh,Electronics,Tablet,2,18000,10,32400.0,26000,6400.0,19.75,Credit Card,Standard,Delivered,Corporate
+ORD00697,CUST0020,Customer_280,2024-07-24,West,Maharashtra,Mumbai,Home & Kitchen,Water Bottle,5,500,25,1875.0,1250,625.0,33.33,Debit Card,Standard,Delivered,Consumer
+ORD00698,CUST0279,Customer_134,2024-01-09,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,7,7000,20,39200.0,35000,4200.0,10.71,UPI,Express,Delivered,Consumer
+ORD00699,CUST0204,Customer_117,2024-08-20,South,Tamil Nadu,Chennai,Fashion,Sneakers,8,2800,10,20160.0,14400,5760.0,28.57,UPI,Express,In Transit,Corporate
+ORD00700,CUST0214,Customer_108,2025-03-25,East,Bihar,Patna,Electronics,Tablet,3,18000,20,43200.0,39000,4200.0,9.72,Credit Card,Express,Returned,Consumer
+ORD00701,CUST0256,Customer_182,2024-12-13,South,Tamil Nadu,Chennai,Beauty,Moisturizer,5,600,10,2700.0,1250,1450.0,53.7,Cash on Delivery,Standard,Delivered,Consumer
+ORD00702,CUST0072,Customer_79,2024-12-04,East,Odisha,Bhubaneswar,Fashion,Sneakers,2,2800,20,4480.0,3600,880.0,19.64,Net Banking,Standard,Delivered,Corporate
+ORD00703,CUST0292,Customer_232,2025-10-16,West,Maharashtra,Mumbai,Fashion,T-Shirt,3,800,0,2400.0,1200,1200.0,50.0,Cash on Delivery,Express,Delivered,Consumer
+ORD00704,CUST0036,Customer_198,2024-10-17,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,8,3500,0,28000.0,19200,8800.0,31.43,Debit Card,Same Day,Delivered,Corporate
+ORD00705,CUST0211,Customer_201,2024-06-09,North,Delhi,Delhi,Beauty,Moisturizer,2,600,15,1020.0,500,520.0,50.98,Credit Card,Standard,In Transit,Corporate
+ORD00706,CUST0222,Customer_244,2024-06-11,West,Maharashtra,Pune,Fashion,Sneakers,5,2800,5,13300.0,9000,4300.0,32.33,UPI,Standard,Delivered,Corporate
+ORD00707,CUST0127,Customer_270,2024-12-02,East,Odisha,Bhubaneswar,Beauty,Face Wash,2,300,10,540.0,240,300.0,55.56,Net Banking,Express,Delivered,Home Office
+ORD00708,CUST0153,Customer_201,2025-09-19,South,Tamil Nadu,Chennai,Fashion,Jeans,7,1800,15,10710.0,7000,3710.0,34.64,Net Banking,Same Day,Delivered,Home Office
+ORD00709,CUST0049,Customer_202,2025-12-16,North,Delhi,Delhi,Fashion,Jacket,5,3500,25,13125.0,11000,2125.0,16.19,UPI,Same Day,Delivered,Consumer
+ORD00710,CUST0253,Customer_211,2025-07-20,North,Chandigarh,Chandigarh,Electronics,Laptop,6,60000,15,306000.0,270000,36000.0,11.76,Net Banking,Standard,Delivered,Home Office
+ORD00711,CUST0023,Customer_237,2024-01-28,North,Rajasthan,Jaipur,Beauty,Moisturizer,6,600,25,2700.0,1500,1200.0,44.44,Net Banking,Standard,Delivered,Consumer
+ORD00712,CUST0129,Customer_59,2025-12-27,South,Tamil Nadu,Chennai,Beauty,Moisturizer,8,600,0,4800.0,2000,2800.0,58.33,UPI,Same Day,Delivered,Home Office
+ORD00713,CUST0225,Customer_72,2025-04-27,West,Maharashtra,Mumbai,Fashion,T-Shirt,2,800,5,1520.0,800,720.0,47.37,Debit Card,Standard,Delivered,Corporate
+ORD00714,CUST0087,Customer_40,2025-11-18,North,Rajasthan,Jaipur,Home & Kitchen,Cookware Set,8,4500,10,32400.0,24000,8400.0,25.93,Credit Card,Standard,Delivered,Home Office
+ORD00715,CUST0273,Customer_111,2025-03-28,North,Rajasthan,Jaipur,Electronics,Headphones,5,3000,15,12750.0,9000,3750.0,29.41,UPI,Same Day,Delivered,Corporate
+ORD00716,CUST0104,Customer_128,2025-01-18,South,Karnataka,Bengaluru,Electronics,Laptop,7,60000,0,420000.0,315000,105000.0,25.0,UPI,Express,In Transit,Home Office
+ORD00717,CUST0033,Customer_113,2024-04-08,South,Telangana,Hyderabad,Fashion,T-Shirt,7,800,20,4480.0,2800,1680.0,37.5,UPI,Express,Delivered,Home Office
+ORD00718,CUST0098,Customer_107,2025-07-08,East,Odisha,Bhubaneswar,Electronics,Smartphone,4,25000,0,100000.0,72000,28000.0,28.0,Debit Card,Express,Delivered,Corporate
+ORD00719,CUST0162,Customer_7,2025-02-02,South,Tamil Nadu,Chennai,Fashion,T-Shirt,5,800,25,3000.0,2000,1000.0,33.33,Cash on Delivery,Express,Delivered,Consumer
+ORD00720,CUST0211,Customer_155,2025-09-05,East,West Bengal,Kolkata,Fashion,Jacket,2,3500,20,5600.0,4400,1200.0,21.43,Debit Card,Same Day,Delivered,Home Office
+ORD00721,CUST0069,Customer_171,2024-06-28,West,Maharashtra,Pune,Beauty,Face Wash,6,300,0,1800.0,720,1080.0,60.0,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00722,CUST0120,Customer_258,2025-08-24,North,Delhi,Delhi,Electronics,Laptop,5,60000,5,285000.0,225000,60000.0,21.05,Net Banking,Standard,Delivered,Consumer
+ORD00723,CUST0071,Customer_192,2025-05-25,West,Maharashtra,Mumbai,Fashion,Sneakers,4,2800,25,8400.0,7200,1200.0,14.29,UPI,Standard,Returned,Home Office
+ORD00724,CUST0228,Customer_169,2024-05-17,West,Gujarat,Ahmedabad,Electronics,Headphones,5,3000,0,15000.0,9000,6000.0,40.0,Credit Card,Same Day,Delivered,Consumer
+ORD00725,CUST0106,Customer_277,2024-02-25,South,Telangana,Hyderabad,Fashion,Sneakers,6,2800,5,15960.0,10800,5160.0,32.33,Net Banking,Same Day,Delivered,Corporate
+ORD00726,CUST0036,Customer_99,2024-02-23,South,Karnataka,Bengaluru,Fashion,T-Shirt,3,800,20,1920.0,1200,720.0,37.5,Cash on Delivery,Standard,Delivered,Consumer
+ORD00727,CUST0219,Customer_240,2024-11-14,South,Telangana,Hyderabad,Fashion,Jeans,7,1800,5,11970.0,7000,4970.0,41.52,Cash on Delivery,Standard,Delivered,Home Office
+ORD00728,CUST0230,Customer_104,2024-10-05,East,West Bengal,Kolkata,Home & Kitchen,Vacuum Cleaner,7,7000,5,46550.0,35000,11550.0,24.81,Net Banking,Express,Delivered,Home Office
+ORD00729,CUST0222,Customer_80,2025-05-08,North,Chandigarh,Chandigarh,Beauty,Face Wash,5,300,20,1200.0,600,600.0,50.0,Cash on Delivery,Standard,Delivered,Consumer
+ORD00730,CUST0132,Customer_195,2025-04-19,West,Gujarat,Ahmedabad,Home & Kitchen,Vacuum Cleaner,8,7000,0,56000.0,40000,16000.0,28.57,Debit Card,Standard,Delivered,Consumer
+ORD00731,CUST0080,Customer_98,2024-01-05,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,7,7000,15,41650.0,35000,6650.0,15.97,Net Banking,Same Day,Delivered,Corporate
+ORD00732,CUST0158,Customer_37,2025-02-22,North,Delhi,Delhi,Beauty,Perfume,4,1800,15,6120.0,3600,2520.0,41.18,Debit Card,Same Day,Delivered,Home Office
+ORD00733,CUST0251,Customer_189,2025-12-14,North,Rajasthan,Jaipur,Beauty,Moisturizer,4,600,5,2280.0,1000,1280.0,56.14,Net Banking,Standard,Returned,Corporate
+ORD00734,CUST0015,Customer_76,2024-09-24,East,Bihar,Patna,Fashion,Jacket,4,3500,20,11200.0,8800,2400.0,21.43,Cash on Delivery,Same Day,In Transit,Consumer
+ORD00735,CUST0060,Customer_48,2025-10-21,East,Odisha,Bhubaneswar,Electronics,Smartphone,7,25000,5,166250.0,126000,40250.0,24.21,Net Banking,Express,Delivered,Home Office
+ORD00736,CUST0273,Customer_196,2025-08-23,West,Maharashtra,Pune,Beauty,Face Wash,2,300,25,450.0,240,210.0,46.67,Cash on Delivery,Express,In Transit,Corporate
+ORD00737,CUST0108,Customer_204,2025-12-16,West,Maharashtra,Mumbai,Fashion,Sneakers,1,2800,0,2800.0,1800,1000.0,35.71,UPI,Same Day,Delivered,Corporate
+ORD00738,CUST0148,Customer_221,2024-06-23,South,Tamil Nadu,Chennai,Fashion,Jeans,4,1800,15,6120.0,4000,2120.0,34.64,Credit Card,Same Day,Returned,Corporate
+ORD00739,CUST0291,Customer_109,2024-07-09,South,Karnataka,Bengaluru,Fashion,Jeans,5,1800,15,7650.0,5000,2650.0,34.64,Net Banking,Same Day,Returned,Consumer
+ORD00740,CUST0086,Customer_41,2024-10-27,North,Chandigarh,Chandigarh,Electronics,Tablet,2,18000,10,32400.0,26000,6400.0,19.75,UPI,Same Day,Delivered,Corporate
+ORD00741,CUST0052,Customer_5,2024-03-03,West,Maharashtra,Mumbai,Electronics,Laptop,4,60000,20,192000.0,180000,12000.0,6.25,UPI,Express,Delivered,Corporate
+ORD00742,CUST0249,Customer_243,2024-12-11,East,Odisha,Bhubaneswar,Home & Kitchen,Water Bottle,6,500,5,2850.0,1500,1350.0,47.37,Debit Card,Same Day,Delivered,Home Office
+ORD00743,CUST0030,Customer_183,2024-12-04,North,Delhi,Delhi,Beauty,Moisturizer,3,600,0,1800.0,750,1050.0,58.33,Cash on Delivery,Standard,In Transit,Corporate
+ORD00744,CUST0128,Customer_189,2025-04-07,East,Bihar,Patna,Beauty,Perfume,1,1800,25,1350.0,900,450.0,33.33,Debit Card,Standard,Delivered,Consumer
+ORD00745,CUST0167,Customer_228,2024-08-27,East,Odisha,Bhubaneswar,Electronics,Tablet,7,18000,15,107100.0,91000,16100.0,15.03,UPI,Same Day,Delivered,Home Office
+ORD00746,CUST0100,Customer_74,2025-06-16,North,Delhi,Delhi,Beauty,Face Wash,5,300,25,1125.0,600,525.0,46.67,Cash on Delivery,Express,Delivered,Corporate
+ORD00747,CUST0060,Customer_247,2025-11-09,South,Karnataka,Bengaluru,Fashion,Jeans,2,1800,0,3600.0,2000,1600.0,44.44,Net Banking,Same Day,Delivered,Corporate
+ORD00748,CUST0197,Customer_144,2024-08-13,West,Maharashtra,Pune,Beauty,Face Wash,3,300,20,720.0,360,360.0,50.0,Net Banking,Standard,Delivered,Corporate
+ORD00749,CUST0115,Customer_295,2025-09-07,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,7,7000,25,36750.0,35000,1750.0,4.76,Cash on Delivery,Express,In Transit,Consumer
+ORD00750,CUST0133,Customer_60,2024-10-24,North,Delhi,Delhi,Electronics,Tablet,4,18000,25,54000.0,52000,2000.0,3.7,UPI,Same Day,Delivered,Corporate
+ORD00751,CUST0195,Customer_296,2024-01-02,West,Maharashtra,Mumbai,Fashion,Sneakers,7,2800,10,17640.0,12600,5040.0,28.57,Debit Card,Same Day,Returned,Consumer
+ORD00752,CUST0267,Customer_114,2024-04-19,East,West Bengal,Kolkata,Beauty,Shampoo,3,450,10,1215.0,600,615.0,50.62,Credit Card,Express,Delivered,Consumer
+ORD00753,CUST0146,Customer_75,2025-11-12,North,Rajasthan,Jaipur,Home & Kitchen,Water Bottle,2,500,10,900.0,500,400.0,44.44,Cash on Delivery,Express,Delivered,Consumer
+ORD00754,CUST0254,Customer_150,2025-12-22,East,West Bengal,Kolkata,Home & Kitchen,Cookware Set,4,4500,25,13500.0,12000,1500.0,11.11,Credit Card,Same Day,Delivered,Consumer
+ORD00755,CUST0250,Customer_201,2024-11-02,South,Karnataka,Bengaluru,Beauty,Shampoo,7,450,25,2362.5,1400,962.5,40.74,Net Banking,Express,Delivered,Corporate
+ORD00756,CUST0037,Customer_271,2024-10-16,West,Maharashtra,Pune,Fashion,Sneakers,2,2800,5,5320.0,3600,1720.0,32.33,Debit Card,Same Day,In Transit,Consumer
+ORD00757,CUST0156,Customer_235,2025-11-01,South,Telangana,Hyderabad,Fashion,Sneakers,8,2800,10,20160.0,14400,5760.0,28.57,Credit Card,Standard,Delivered,Home Office
+ORD00758,CUST0101,Customer_5,2025-01-05,North,Rajasthan,Jaipur,Fashion,Sneakers,7,2800,25,14700.0,12600,2100.0,14.29,Credit Card,Standard,Delivered,Corporate
+ORD00759,CUST0092,Customer_27,2024-04-30,West,Maharashtra,Pune,Beauty,Perfume,7,1800,5,11970.0,6300,5670.0,47.37,UPI,Standard,Delivered,Corporate
+ORD00760,CUST0155,Customer_89,2025-10-30,East,Bihar,Patna,Electronics,Headphones,7,3000,10,18900.0,12600,6300.0,33.33,Net Banking,Express,Delivered,Consumer
+ORD00761,CUST0043,Customer_63,2025-05-15,South,Karnataka,Bengaluru,Beauty,Shampoo,2,450,20,720.0,400,320.0,44.44,Credit Card,Express,Delivered,Home Office
+ORD00762,CUST0223,Customer_153,2025-08-08,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,3,3500,15,8925.0,7200,1725.0,19.33,UPI,Express,Delivered,Home Office
+ORD00763,CUST0272,Customer_251,2024-03-06,North,Delhi,Delhi,Electronics,Smartphone,3,25000,0,75000.0,54000,21000.0,28.0,Cash on Delivery,Express,In Transit,Consumer
+ORD00764,CUST0021,Customer_66,2025-08-11,South,Telangana,Hyderabad,Fashion,T-Shirt,5,800,0,4000.0,2000,2000.0,50.0,UPI,Standard,Delivered,Corporate
+ORD00765,CUST0279,Customer_88,2025-03-09,North,Delhi,Delhi,Home & Kitchen,Mixer,5,3500,25,13125.0,12000,1125.0,8.57,Cash on Delivery,Express,Delivered,Corporate
+ORD00766,CUST0161,Customer_268,2024-12-26,South,Telangana,Hyderabad,Electronics,Laptop,4,60000,0,240000.0,180000,60000.0,25.0,Credit Card,Standard,Delivered,Consumer
+ORD00767,CUST0069,Customer_283,2024-08-09,West,Gujarat,Ahmedabad,Fashion,Sneakers,2,2800,20,4480.0,3600,880.0,19.64,Debit Card,Express,Delivered,Consumer
+ORD00768,CUST0205,Customer_234,2024-03-26,West,Maharashtra,Pune,Beauty,Perfume,4,1800,0,7200.0,3600,3600.0,50.0,Debit Card,Same Day,Delivered,Consumer
+ORD00769,CUST0191,Customer_289,2025-11-04,South,Tamil Nadu,Chennai,Fashion,Jacket,7,3500,15,20825.0,15400,5425.0,26.05,UPI,Same Day,Delivered,Corporate
+ORD00770,CUST0064,Customer_273,2024-04-22,East,West Bengal,Kolkata,Home & Kitchen,Mixer,6,3500,10,18900.0,14400,4500.0,23.81,Debit Card,Standard,In Transit,Consumer
+ORD00771,CUST0141,Customer_6,2024-04-10,East,West Bengal,Kolkata,Beauty,Face Wash,2,300,5,570.0,240,330.0,57.89,Cash on Delivery,Same Day,In Transit,Home Office
+ORD00772,CUST0251,Customer_49,2025-06-25,West,Maharashtra,Pune,Home & Kitchen,Water Bottle,2,500,0,1000.0,500,500.0,50.0,Credit Card,Express,Returned,Corporate
+ORD00773,CUST0093,Customer_177,2025-11-25,East,Odisha,Bhubaneswar,Fashion,Jacket,1,3500,25,2625.0,2200,425.0,16.19,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00774,CUST0074,Customer_194,2025-08-04,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,7,4500,25,23625.0,21000,2625.0,11.11,Net Banking,Standard,Delivered,Corporate
+ORD00775,CUST0240,Customer_258,2024-10-20,West,Gujarat,Ahmedabad,Fashion,Jacket,2,3500,10,6300.0,4400,1900.0,30.16,Net Banking,Express,In Transit,Home Office
+ORD00776,CUST0041,Customer_40,2024-09-02,North,Delhi,Delhi,Electronics,Laptop,5,60000,20,240000.0,225000,15000.0,6.25,Net Banking,Standard,Returned,Corporate
+ORD00777,CUST0261,Customer_70,2025-05-06,East,Bihar,Patna,Electronics,Headphones,1,3000,20,2400.0,1800,600.0,25.0,Credit Card,Same Day,Delivered,Corporate
+ORD00778,CUST0274,Customer_177,2024-09-07,North,Rajasthan,Jaipur,Beauty,Perfume,4,1800,5,6840.0,3600,3240.0,47.37,UPI,Express,In Transit,Home Office
+ORD00779,CUST0181,Customer_27,2025-03-08,East,Odisha,Bhubaneswar,Fashion,Jacket,2,3500,10,6300.0,4400,1900.0,30.16,Credit Card,Same Day,In Transit,Consumer
+ORD00780,CUST0149,Customer_154,2025-05-09,West,Gujarat,Ahmedabad,Fashion,T-Shirt,7,800,5,5320.0,2800,2520.0,47.37,Debit Card,Same Day,Delivered,Consumer
+ORD00781,CUST0238,Customer_250,2024-02-28,West,Maharashtra,Mumbai,Beauty,Shampoo,5,450,10,2025.0,1000,1025.0,50.62,UPI,Standard,Delivered,Home Office
+ORD00782,CUST0096,Customer_206,2024-12-29,North,Delhi,Delhi,Beauty,Moisturizer,4,600,0,2400.0,1000,1400.0,58.33,Cash on Delivery,Same Day,In Transit,Corporate
+ORD00783,CUST0064,Customer_250,2024-01-08,South,Telangana,Hyderabad,Home & Kitchen,Cookware Set,8,4500,15,30600.0,24000,6600.0,21.57,Debit Card,Express,Delivered,Consumer
+ORD00784,CUST0275,Customer_138,2024-04-21,East,Bihar,Patna,Beauty,Perfume,3,1800,10,4860.0,2700,2160.0,44.44,Net Banking,Standard,Delivered,Home Office
+ORD00785,CUST0102,Customer_57,2024-07-13,West,Maharashtra,Mumbai,Fashion,Sneakers,7,2800,25,14700.0,12600,2100.0,14.29,Debit Card,Standard,Delivered,Consumer
+ORD00786,CUST0246,Customer_137,2024-05-01,East,Odisha,Bhubaneswar,Beauty,Perfume,6,1800,15,9180.0,5400,3780.0,41.18,Cash on Delivery,Same Day,Returned,Corporate
+ORD00787,CUST0068,Customer_57,2024-04-20,North,Delhi,Delhi,Fashion,Jacket,1,3500,25,2625.0,2200,425.0,16.19,Credit Card,Standard,Delivered,Corporate
+ORD00788,CUST0220,Customer_5,2025-03-20,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,2,7000,15,11900.0,10000,1900.0,15.97,Credit Card,Same Day,Delivered,Home Office
+ORD00789,CUST0096,Customer_128,2024-10-14,North,Chandigarh,Chandigarh,Fashion,Sneakers,4,2800,15,9520.0,7200,2320.0,24.37,UPI,Same Day,Delivered,Home Office
+ORD00790,CUST0093,Customer_97,2025-08-28,South,Karnataka,Bengaluru,Electronics,Smartphone,7,25000,0,175000.0,126000,49000.0,28.0,Debit Card,Standard,Returned,Corporate
+ORD00791,CUST0010,Customer_103,2024-04-03,North,Chandigarh,Chandigarh,Beauty,Shampoo,4,450,5,1710.0,800,910.0,53.22,Debit Card,Express,Delivered,Home Office
+ORD00792,CUST0219,Customer_27,2024-11-07,North,Chandigarh,Chandigarh,Home & Kitchen,Water Bottle,6,500,25,2250.0,1500,750.0,33.33,Net Banking,Standard,Delivered,Consumer
+ORD00793,CUST0094,Customer_21,2024-01-01,North,Rajasthan,Jaipur,Home & Kitchen,Cookware Set,5,4500,15,19125.0,15000,4125.0,21.57,Debit Card,Same Day,Delivered,Consumer
+ORD00794,CUST0130,Customer_252,2025-01-07,West,Gujarat,Ahmedabad,Electronics,Laptop,1,60000,25,45000.0,45000,0.0,0.0,Cash on Delivery,Standard,Delivered,Home Office
+ORD00795,CUST0186,Customer_271,2025-09-11,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,7,4500,0,31500.0,21000,10500.0,33.33,UPI,Standard,Delivered,Home Office
+ORD00796,CUST0062,Customer_22,2025-08-23,South,Karnataka,Bengaluru,Beauty,Face Wash,2,300,20,480.0,240,240.0,50.0,Cash on Delivery,Express,Delivered,Corporate
+ORD00797,CUST0104,Customer_274,2024-06-06,North,Delhi,Delhi,Fashion,Sneakers,5,2800,20,11200.0,9000,2200.0,19.64,Debit Card,Express,Delivered,Home Office
+ORD00798,CUST0061,Customer_224,2024-03-10,East,Odisha,Bhubaneswar,Electronics,Smartphone,5,25000,25,93750.0,90000,3750.0,4.0,Credit Card,Express,Delivered,Home Office
+ORD00799,CUST0032,Customer_98,2025-02-11,East,Bihar,Patna,Electronics,Smartphone,8,25000,20,160000.0,144000,16000.0,10.0,Net Banking,Same Day,Delivered,Corporate
+ORD00800,CUST0140,Customer_106,2024-07-07,North,Delhi,Delhi,Fashion,T-Shirt,8,800,20,5120.0,3200,1920.0,37.5,Cash on Delivery,Express,Delivered,Consumer
+ORD00801,CUST0152,Customer_138,2025-07-19,North,Delhi,Delhi,Fashion,T-Shirt,4,800,10,2880.0,1600,1280.0,44.44,UPI,Same Day,Delivered,Corporate
+ORD00802,CUST0069,Customer_139,2024-02-22,South,Karnataka,Bengaluru,Electronics,Laptop,6,60000,25,270000.0,270000,0.0,0.0,Cash on Delivery,Express,Delivered,Home Office
+ORD00803,CUST0282,Customer_136,2024-05-16,East,Bihar,Patna,Home & Kitchen,Water Bottle,1,500,25,375.0,250,125.0,33.33,UPI,Express,Delivered,Corporate
+ORD00804,CUST0091,Customer_132,2024-01-17,North,Rajasthan,Jaipur,Beauty,Shampoo,4,450,15,1530.0,800,730.0,47.71,Credit Card,Express,Delivered,Home Office
+ORD00805,CUST0203,Customer_80,2025-04-01,South,Telangana,Hyderabad,Beauty,Shampoo,3,450,15,1147.5,600,547.5,47.71,UPI,Express,Delivered,Consumer
+ORD00806,CUST0091,Customer_97,2025-08-06,East,Bihar,Patna,Fashion,Jacket,1,3500,10,3150.0,2200,950.0,30.16,Credit Card,Standard,In Transit,Home Office
+ORD00807,CUST0097,Customer_36,2024-05-26,North,Chandigarh,Chandigarh,Fashion,Sneakers,7,2800,0,19600.0,12600,7000.0,35.71,Cash on Delivery,Standard,Delivered,Consumer
+ORD00808,CUST0052,Customer_194,2025-01-28,North,Delhi,Delhi,Electronics,Laptop,3,60000,5,171000.0,135000,36000.0,21.05,UPI,Express,Delivered,Home Office
+ORD00809,CUST0007,Customer_5,2024-04-18,West,Maharashtra,Pune,Electronics,Smartphone,3,25000,15,63750.0,54000,9750.0,15.29,Cash on Delivery,Express,In Transit,Corporate
+ORD00810,CUST0170,Customer_246,2024-06-07,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,1,3500,0,3500.0,2400,1100.0,31.43,UPI,Same Day,Delivered,Home Office
+ORD00811,CUST0213,Customer_73,2024-01-02,South,Karnataka,Bengaluru,Fashion,Sneakers,7,2800,5,18620.0,12600,6020.0,32.33,Debit Card,Same Day,Delivered,Home Office
+ORD00812,CUST0197,Customer_58,2025-05-18,South,Karnataka,Bengaluru,Fashion,T-Shirt,5,800,10,3600.0,2000,1600.0,44.44,UPI,Same Day,Delivered,Corporate
+ORD00813,CUST0044,Customer_23,2025-09-11,South,Karnataka,Bengaluru,Beauty,Shampoo,3,450,25,1012.5,600,412.5,40.74,Net Banking,Standard,In Transit,Home Office
+ORD00814,CUST0155,Customer_147,2024-12-22,North,Chandigarh,Chandigarh,Beauty,Shampoo,5,450,25,1687.5,1000,687.5,40.74,UPI,Standard,In Transit,Consumer
+ORD00815,CUST0076,Customer_164,2024-05-31,East,Odisha,Bhubaneswar,Beauty,Face Wash,2,300,20,480.0,240,240.0,50.0,Net Banking,Same Day,Delivered,Consumer
+ORD00816,CUST0166,Customer_66,2024-07-05,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,7,7000,15,41650.0,35000,6650.0,15.97,Net Banking,Same Day,Delivered,Corporate
+ORD00817,CUST0071,Customer_126,2025-01-27,East,Bihar,Patna,Beauty,Moisturizer,4,600,15,2040.0,1000,1040.0,50.98,UPI,Same Day,Delivered,Home Office
+ORD00818,CUST0296,Customer_113,2025-12-20,North,Delhi,Delhi,Home & Kitchen,Mixer,4,3500,0,14000.0,9600,4400.0,31.43,Debit Card,Same Day,Delivered,Consumer
+ORD00819,CUST0057,Customer_31,2024-12-23,West,Maharashtra,Mumbai,Home & Kitchen,Vacuum Cleaner,3,7000,20,16800.0,15000,1800.0,10.71,Net Banking,Standard,Delivered,Consumer
+ORD00820,CUST0029,Customer_71,2024-04-30,South,Tamil Nadu,Chennai,Electronics,Headphones,6,3000,0,18000.0,10800,7200.0,40.0,UPI,Same Day,Delivered,Corporate
+ORD00821,CUST0081,Customer_16,2024-05-30,West,Maharashtra,Mumbai,Electronics,Smartphone,2,25000,0,50000.0,36000,14000.0,28.0,Cash on Delivery,Express,Delivered,Consumer
+ORD00822,CUST0241,Customer_72,2025-06-24,West,Gujarat,Ahmedabad,Beauty,Shampoo,8,450,25,2700.0,1600,1100.0,40.74,UPI,Express,Delivered,Consumer
+ORD00823,CUST0017,Customer_89,2025-05-30,South,Karnataka,Bengaluru,Beauty,Moisturizer,8,600,20,3840.0,2000,1840.0,47.92,Debit Card,Same Day,Delivered,Home Office
+ORD00824,CUST0117,Customer_217,2024-06-09,West,Maharashtra,Mumbai,Beauty,Perfume,4,1800,15,6120.0,3600,2520.0,41.18,Cash on Delivery,Standard,Delivered,Consumer
+ORD00825,CUST0287,Customer_40,2025-12-10,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,7,7000,5,46550.0,35000,11550.0,24.81,UPI,Express,Delivered,Consumer
+ORD00826,CUST0139,Customer_56,2024-04-16,North,Chandigarh,Chandigarh,Home & Kitchen,Mixer,4,3500,10,12600.0,9600,3000.0,23.81,Credit Card,Same Day,Delivered,Consumer
+ORD00827,CUST0006,Customer_159,2024-07-11,South,Telangana,Hyderabad,Electronics,Smartphone,5,25000,0,125000.0,90000,35000.0,28.0,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00828,CUST0024,Customer_25,2024-11-18,North,Chandigarh,Chandigarh,Electronics,Tablet,5,18000,15,76500.0,65000,11500.0,15.03,Cash on Delivery,Standard,Delivered,Corporate
+ORD00829,CUST0183,Customer_67,2025-12-20,North,Chandigarh,Chandigarh,Beauty,Face Wash,3,300,0,900.0,360,540.0,60.0,Cash on Delivery,Express,Delivered,Consumer
+ORD00830,CUST0149,Customer_83,2024-06-04,East,West Bengal,Kolkata,Electronics,Smartphone,4,25000,25,75000.0,72000,3000.0,4.0,Credit Card,Same Day,Delivered,Home Office
+ORD00831,CUST0265,Customer_268,2024-12-15,East,West Bengal,Kolkata,Home & Kitchen,Water Bottle,6,500,20,2400.0,1500,900.0,37.5,Net Banking,Standard,In Transit,Home Office
+ORD00832,CUST0199,Customer_123,2024-08-01,North,Delhi,Delhi,Beauty,Face Wash,1,300,5,285.0,120,165.0,57.89,Debit Card,Same Day,In Transit,Consumer
+ORD00833,CUST0256,Customer_49,2025-04-10,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,2,4500,10,8100.0,6000,2100.0,25.93,Cash on Delivery,Express,Delivered,Consumer
+ORD00834,CUST0092,Customer_236,2024-09-21,East,Odisha,Bhubaneswar,Beauty,Perfume,2,1800,20,2880.0,1800,1080.0,37.5,Net Banking,Standard,Delivered,Corporate
+ORD00835,CUST0206,Customer_210,2025-09-26,South,Tamil Nadu,Chennai,Home & Kitchen,Water Bottle,6,500,0,3000.0,1500,1500.0,50.0,Net Banking,Same Day,Delivered,Home Office
+ORD00836,CUST0022,Customer_30,2024-09-07,North,Delhi,Delhi,Electronics,Tablet,7,18000,5,119700.0,91000,28700.0,23.98,Cash on Delivery,Express,In Transit,Consumer
+ORD00837,CUST0199,Customer_237,2025-11-16,North,Chandigarh,Chandigarh,Beauty,Moisturizer,8,600,0,4800.0,2000,2800.0,58.33,UPI,Standard,Delivered,Corporate
+ORD00838,CUST0222,Customer_103,2025-02-15,West,Maharashtra,Mumbai,Home & Kitchen,Water Bottle,8,500,5,3800.0,2000,1800.0,47.37,Net Banking,Standard,Delivered,Consumer
+ORD00839,CUST0280,Customer_80,2025-04-26,South,Telangana,Hyderabad,Fashion,Jacket,1,3500,20,2800.0,2200,600.0,21.43,Net Banking,Standard,Returned,Corporate
+ORD00840,CUST0221,Customer_243,2024-08-06,North,Delhi,Delhi,Electronics,Headphones,5,3000,10,13500.0,9000,4500.0,33.33,Credit Card,Standard,Delivered,Corporate
+ORD00841,CUST0208,Customer_42,2024-11-01,East,Odisha,Bhubaneswar,Fashion,Jacket,3,3500,0,10500.0,6600,3900.0,37.14,UPI,Express,Delivered,Corporate
+ORD00842,CUST0085,Customer_102,2024-12-23,East,Odisha,Bhubaneswar,Beauty,Perfume,7,1800,10,11340.0,6300,5040.0,44.44,Cash on Delivery,Express,In Transit,Home Office
+ORD00843,CUST0102,Customer_40,2025-11-14,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer,3,3500,15,8925.0,7200,1725.0,19.33,Credit Card,Express,In Transit,Consumer
+ORD00844,CUST0209,Customer_135,2025-06-17,North,Chandigarh,Chandigarh,Fashion,Sneakers,2,2800,0,5600.0,3600,2000.0,35.71,Credit Card,Same Day,Cancelled,Corporate
+ORD00845,CUST0280,Customer_86,2025-09-07,East,West Bengal,Kolkata,Home & Kitchen,Cookware Set,4,4500,25,13500.0,12000,1500.0,11.11,Cash on Delivery,Standard,Delivered,Corporate
+ORD00846,CUST0009,Customer_155,2024-11-10,North,Rajasthan,Jaipur,Beauty,Moisturizer,7,600,15,3570.0,1750,1820.0,50.98,Debit Card,Express,In Transit,Corporate
+ORD00847,CUST0268,Customer_172,2024-04-26,South,Tamil Nadu,Chennai,Beauty,Shampoo,3,450,20,1080.0,600,480.0,44.44,Cash on Delivery,Standard,Delivered,Corporate
+ORD00848,CUST0146,Customer_224,2025-10-11,West,Maharashtra,Pune,Electronics,Laptop,2,60000,0,120000.0,90000,30000.0,25.0,UPI,Same Day,Returned,Consumer
+ORD00849,CUST0255,Customer_279,2024-04-12,East,Bihar,Patna,Electronics,Tablet,7,18000,5,119700.0,91000,28700.0,23.98,Credit Card,Express,Delivered,Consumer
+ORD00850,CUST0101,Customer_241,2024-05-07,West,Gujarat,Ahmedabad,Beauty,Moisturizer,1,600,10,540.0,250,290.0,53.7,Credit Card,Same Day,Delivered,Home Office
+ORD00851,CUST0136,Customer_158,2025-02-28,South,Karnataka,Bengaluru,Beauty,Face Wash,1,300,0,300.0,120,180.0,60.0,Credit Card,Express,In Transit,Home Office
+ORD00852,CUST0163,Customer_172,2024-06-23,East,West Bengal,Kolkata,Beauty,Perfume,7,1800,0,12600.0,6300,6300.0,50.0,Cash on Delivery,Express,Delivered,Home Office
+ORD00853,CUST0200,Customer_89,2025-02-16,West,Maharashtra,Pune,Fashion,Sneakers,4,2800,0,11200.0,7200,4000.0,35.71,Credit Card,Same Day,Delivered,Home Office
+ORD00854,CUST0201,Customer_134,2025-07-20,South,Tamil Nadu,Chennai,Fashion,T-Shirt,2,800,0,1600.0,800,800.0,50.0,Net Banking,Standard,Delivered,Home Office
+ORD00855,CUST0079,Customer_15,2025-09-24,North,Rajasthan,Jaipur,Beauty,Face Wash,3,300,15,765.0,360,405.0,52.94,Debit Card,Standard,Delivered,Consumer
+ORD00856,CUST0153,Customer_100,2025-07-02,South,Telangana,Hyderabad,Beauty,Shampoo,1,450,10,405.0,200,205.0,50.62,UPI,Standard,Delivered,Home Office
+ORD00857,CUST0297,Customer_53,2024-04-23,East,Bihar,Patna,Electronics,Laptop,3,60000,10,162000.0,135000,27000.0,16.67,Debit Card,Standard,Delivered,Corporate
+ORD00858,CUST0186,Customer_107,2025-02-04,North,Chandigarh,Chandigarh,Electronics,Headphones,2,3000,15,5100.0,3600,1500.0,29.41,UPI,Standard,Delivered,Corporate
+ORD00859,CUST0161,Customer_231,2024-06-13,South,Tamil Nadu,Chennai,Electronics,Smartphone,1,25000,0,25000.0,18000,7000.0,28.0,Debit Card,Express,Delivered,Home Office
+ORD00860,CUST0280,Customer_3,2024-06-11,West,Maharashtra,Mumbai,Fashion,T-Shirt,1,800,20,640.0,400,240.0,37.5,Cash on Delivery,Standard,Delivered,Corporate
+ORD00861,CUST0059,Customer_112,2024-01-31,West,Maharashtra,Mumbai,Fashion,T-Shirt,3,800,10,2160.0,1200,960.0,44.44,Debit Card,Express,Delivered,Consumer
+ORD00862,CUST0179,Customer_283,2025-10-29,West,Gujarat,Ahmedabad,Beauty,Moisturizer,7,600,5,3990.0,1750,2240.0,56.14,Debit Card,Standard,Delivered,Home Office
+ORD00863,CUST0144,Customer_202,2024-04-15,West,Maharashtra,Mumbai,Fashion,Sneakers,7,2800,15,16660.0,12600,4060.0,24.37,Net Banking,Same Day,Delivered,Corporate
+ORD00864,CUST0056,Customer_197,2025-03-15,South,Telangana,Hyderabad,Home & Kitchen,Water Bottle,2,500,15,850.0,500,350.0,41.18,Credit Card,Standard,Returned,Corporate
+ORD00865,CUST0210,Customer_151,2025-09-10,West,Gujarat,Ahmedabad,Electronics,Laptop,3,60000,10,162000.0,135000,27000.0,16.67,Net Banking,Standard,Delivered,Consumer
+ORD00866,CUST0111,Customer_191,2025-01-15,South,Tamil Nadu,Chennai,Electronics,Laptop,6,60000,25,270000.0,270000,0.0,0.0,UPI,Same Day,Delivered,Corporate
+ORD00867,CUST0291,Customer_165,2024-08-26,North,Chandigarh,Chandigarh,Home & Kitchen,Cookware Set,4,4500,0,18000.0,12000,6000.0,33.33,Cash on Delivery,Express,Delivered,Home Office
+ORD00868,CUST0039,Customer_294,2025-10-23,East,Bihar,Patna,Beauty,Shampoo,6,450,5,2565.0,1200,1365.0,53.22,Credit Card,Standard,In Transit,Corporate
+ORD00869,CUST0024,Customer_141,2025-03-07,North,Delhi,Delhi,Beauty,Perfume,6,1800,20,8640.0,5400,3240.0,37.5,Net Banking,Standard,Delivered,Corporate
+ORD00870,CUST0010,Customer_295,2024-01-05,East,Odisha,Bhubaneswar,Fashion,Sneakers,1,2800,20,2240.0,1800,440.0,19.64,Cash on Delivery,Standard,Delivered,Consumer
+ORD00871,CUST0036,Customer_241,2024-04-07,East,Bihar,Patna,Home & Kitchen,Water Bottle,6,500,10,2700.0,1500,1200.0,44.44,Net Banking,Standard,Delivered,Corporate
+ORD00872,CUST0253,Customer_25,2025-02-06,West,Maharashtra,Pune,Beauty,Moisturizer,2,600,10,1080.0,500,580.0,53.7,Cash on Delivery,Standard,Delivered,Consumer
+ORD00873,CUST0006,Customer_72,2024-04-17,West,Maharashtra,Pune,Beauty,Perfume,3,1800,0,5400.0,2700,2700.0,50.0,Credit Card,Same Day,Returned,Corporate
+ORD00874,CUST0276,Customer_3,2025-12-05,North,Chandigarh,Chandigarh,Electronics,Laptop,1,60000,10,54000.0,45000,9000.0,16.67,UPI,Express,Delivered,Home Office
+ORD00875,CUST0195,Customer_139,2025-12-16,South,Karnataka,Bengaluru,Beauty,Face Wash,3,300,10,810.0,360,450.0,55.56,Credit Card,Same Day,In Transit,Corporate
+ORD00876,CUST0229,Customer_63,2025-06-18,South,Telangana,Hyderabad,Beauty,Moisturizer,5,600,10,2700.0,1250,1450.0,53.7,Net Banking,Standard,Delivered,Corporate
+ORD00877,CUST0043,Customer_181,2025-07-25,South,Telangana,Hyderabad,Fashion,T-Shirt,2,800,15,1360.0,800,560.0,41.18,UPI,Standard,Delivered,Consumer
+ORD00878,CUST0240,Customer_198,2024-07-11,East,West Bengal,Kolkata,Home & Kitchen,Cookware Set,6,4500,10,24300.0,18000,6300.0,25.93,Net Banking,Same Day,Delivered,Home Office
+ORD00879,CUST0055,Customer_67,2024-08-12,West,Gujarat,Ahmedabad,Beauty,Perfume,7,1800,5,11970.0,6300,5670.0,47.37,UPI,Express,Delivered,Home Office
+ORD00880,CUST0158,Customer_296,2025-10-25,North,Delhi,Delhi,Beauty,Face Wash,2,300,5,570.0,240,330.0,57.89,UPI,Express,Delivered,Consumer
+ORD00881,CUST0244,Customer_272,2025-04-08,West,Gujarat,Ahmedabad,Electronics,Laptop,6,60000,15,306000.0,270000,36000.0,11.76,Credit Card,Standard,Delivered,Corporate
+ORD00882,CUST0261,Customer_171,2024-02-24,East,Odisha,Bhubaneswar,Home & Kitchen,Mixer,1,3500,25,2625.0,2400,225.0,8.57,Net Banking,Same Day,Returned,Consumer
+ORD00883,CUST0151,Customer_97,2025-02-16,South,Telangana,Hyderabad,Home & Kitchen,Vacuum Cleaner,7,7000,0,49000.0,35000,14000.0,28.57,UPI,Same Day,Delivered,Consumer
+ORD00884,CUST0113,Customer_59,2024-02-24,North,Rajasthan,Jaipur,Home & Kitchen,Cookware Set,2,4500,20,7200.0,6000,1200.0,16.67,UPI,Express,Delivered,Home Office
+ORD00885,CUST0208,Customer_201,2025-02-06,North,Delhi,Delhi,Home & Kitchen,Vacuum Cleaner,4,7000,5,26600.0,20000,6600.0,24.81,Credit Card,Express,Delivered,Home Office
+ORD00886,CUST0148,Customer_2,2024-04-06,South,Telangana,Hyderabad,Beauty,Shampoo,4,450,5,1710.0,800,910.0,53.22,Debit Card,Same Day,Delivered,Consumer
+ORD00887,CUST0171,Customer_234,2024-05-25,North,Rajasthan,Jaipur,Beauty,Moisturizer,6,600,0,3600.0,1500,2100.0,58.33,Credit Card,Express,In Transit,Consumer
+ORD00888,CUST0005,Customer_181,2025-04-30,North,Chandigarh,Chandigarh,Fashion,Sneakers,2,2800,0,5600.0,3600,2000.0,35.71,UPI,Same Day,Delivered,Corporate
+ORD00889,CUST0117,Customer_269,2025-05-30,South,Karnataka,Bengaluru,Electronics,Laptop,5,60000,25,225000.0,225000,0.0,0.0,Debit Card,Express,Delivered,Corporate
+ORD00890,CUST0280,Customer_132,2025-11-10,East,Odisha,Bhubaneswar,Home & Kitchen,Vacuum Cleaner,1,7000,10,6300.0,5000,1300.0,20.63,Debit Card,Same Day,Delivered,Home Office
+ORD00891,CUST0248,Customer_58,2024-10-03,North,Delhi,Delhi,Beauty,Perfume,3,1800,10,4860.0,2700,2160.0,44.44,Net Banking,Standard,Delivered,Home Office
+ORD00892,CUST0221,Customer_185,2024-07-30,North,Delhi,Delhi,Beauty,Face Wash,5,300,25,1125.0,600,525.0,46.67,Cash on Delivery,Express,Cancelled,Home Office
+ORD00893,CUST0090,Customer_136,2025-11-26,West,Gujarat,Ahmedabad,Beauty,Moisturizer,5,600,10,2700.0,1250,1450.0,53.7,Credit Card,Standard,Delivered,Home Office
+ORD00894,CUST0176,Customer_63,2025-03-19,East,Bihar,Patna,Home & Kitchen,Water Bottle,2,500,0,1000.0,500,500.0,50.0,Net Banking,Same Day,Delivered,Home Office
+ORD00895,CUST0077,Customer_268,2024-10-23,South,Tamil Nadu,Chennai,Beauty,Shampoo,2,450,10,810.0,400,410.0,50.62,UPI,Express,Delivered,Corporate
+ORD00896,CUST0064,Customer_28,2025-05-15,West,Maharashtra,Mumbai,Beauty,Shampoo,1,450,0,450.0,200,250.0,55.56,Debit Card,Standard,Delivered,Corporate
+ORD00897,CUST0258,Customer_288,2024-06-07,North,Rajasthan,Jaipur,Home & Kitchen,Cookware Set,4,4500,15,15300.0,12000,3300.0,21.57,Cash on Delivery,Standard,Delivered,Consumer
+ORD00898,CUST0243,Customer_182,2024-09-11,East,Odisha,Bhubaneswar,Beauty,Face Wash,5,300,10,1350.0,600,750.0,55.56,Cash on Delivery,Express,Delivered,Corporate
+ORD00899,CUST0166,Customer_297,2024-05-22,South,Tamil Nadu,Chennai,Fashion,Sneakers,4,2800,10,10080.0,7200,2880.0,28.57,Debit Card,Standard,Delivered,Home Office
+ORD00900,CUST0237,Customer_280,2024-07-06,East,Odisha,Bhubaneswar,Electronics,Smartphone,8,25000,25,150000.0,144000,6000.0,4.0,Debit Card,Same Day,Returned,Home Office
+ORD00901,CUST0184,Customer_240,2024-12-28,East,Odisha,Bhubaneswar,Beauty,Moisturizer,8,600,0,4800.0,2000,2800.0,58.33,Cash on Delivery,Standard,Returned,Corporate
+ORD00902,CUST0046,Customer_72,2025-09-21,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,5,4500,0,22500.0,15000,7500.0,33.33,Net Banking,Standard,Delivered,Consumer
+ORD00903,CUST0237,Customer_266,2025-04-16,North,Delhi,Delhi,Electronics,Tablet,2,18000,10,32400.0,26000,6400.0,19.75,Cash on Delivery,Standard,In Transit,Home Office
+ORD00904,CUST0247,Customer_170,2024-03-03,North,Rajasthan,Jaipur,Electronics,Smartphone,3,25000,20,60000.0,54000,6000.0,10.0,Net Banking,Standard,Delivered,Home Office
+ORD00905,CUST0080,Customer_155,2025-10-05,West,Maharashtra,Pune,Electronics,Headphones,4,3000,0,12000.0,7200,4800.0,40.0,UPI,Standard,Delivered,Consumer
+ORD00906,CUST0267,Customer_50,2024-09-10,South,Karnataka,Bengaluru,Beauty,Face Wash,8,300,15,2040.0,960,1080.0,52.94,UPI,Standard,Delivered,Corporate
+ORD00907,CUST0095,Customer_121,2025-07-13,West,Maharashtra,Pune,Beauty,Face Wash,7,300,5,1995.0,840,1155.0,57.89,UPI,Standard,Delivered,Home Office
+ORD00908,CUST0124,Customer_88,2025-06-07,South,Tamil Nadu,Chennai,Beauty,Shampoo,5,450,25,1687.5,1000,687.5,40.74,UPI,Same Day,Delivered,Home Office
+ORD00909,CUST0141,Customer_201,2025-01-30,North,Chandigarh,Chandigarh,Beauty,Moisturizer,3,600,0,1800.0,750,1050.0,58.33,Debit Card,Express,Delivered,Corporate
+ORD00910,CUST0006,Customer_298,2024-11-06,North,Rajasthan,Jaipur,Beauty,Face Wash,6,300,5,1710.0,720,990.0,57.89,Net Banking,Same Day,Delivered,Consumer
+ORD00911,CUST0082,Customer_184,2025-05-27,South,Tamil Nadu,Chennai,Beauty,Face Wash,3,300,25,675.0,360,315.0,46.67,Credit Card,Express,Delivered,Home Office
+ORD00912,CUST0174,Customer_236,2024-05-23,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,2,7000,25,10500.0,10000,500.0,4.76,Net Banking,Express,Returned,Home Office
+ORD00913,CUST0093,Customer_295,2025-12-26,West,Maharashtra,Mumbai,Home & Kitchen,Water Bottle,7,500,0,3500.0,1750,1750.0,50.0,UPI,Standard,In Transit,Consumer
+ORD00914,CUST0119,Customer_50,2025-11-12,North,Chandigarh,Chandigarh,Beauty,Shampoo,4,450,25,1350.0,800,550.0,40.74,Credit Card,Standard,In Transit,Consumer
+ORD00915,CUST0197,Customer_216,2024-03-06,North,Rajasthan,Jaipur,Home & Kitchen,Mixer,1,3500,25,2625.0,2400,225.0,8.57,UPI,Express,Delivered,Home Office
+ORD00916,CUST0016,Customer_90,2024-11-24,North,Rajasthan,Jaipur,Beauty,Moisturizer,3,600,25,1350.0,750,600.0,44.44,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00917,CUST0252,Customer_225,2025-11-26,West,Maharashtra,Mumbai,Fashion,Jeans,7,1800,20,10080.0,7000,3080.0,30.56,Credit Card,Standard,Delivered,Home Office
+ORD00918,CUST0050,Customer_105,2024-02-04,South,Karnataka,Bengaluru,Home & Kitchen,Vacuum Cleaner,2,7000,10,12600.0,10000,2600.0,20.63,Credit Card,Same Day,Delivered,Home Office
+ORD00919,CUST0271,Customer_255,2024-07-13,South,Telangana,Hyderabad,Beauty,Shampoo,6,450,20,2160.0,1200,960.0,44.44,Cash on Delivery,Standard,In Transit,Corporate
+ORD00920,CUST0219,Customer_193,2024-03-13,North,Delhi,Delhi,Home & Kitchen,Mixer,2,3500,15,5950.0,4800,1150.0,19.33,Credit Card,Standard,Delivered,Corporate
+ORD00921,CUST0012,Customer_115,2024-10-23,West,Gujarat,Ahmedabad,Home & Kitchen,Mixer,3,3500,10,9450.0,7200,2250.0,23.81,UPI,Same Day,Delivered,Home Office
+ORD00922,CUST0257,Customer_160,2025-02-12,North,Rajasthan,Jaipur,Electronics,Headphones,5,3000,25,11250.0,9000,2250.0,20.0,UPI,Standard,Delivered,Corporate
+ORD00923,CUST0103,Customer_172,2024-03-01,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,4,3500,15,11900.0,9600,2300.0,19.33,UPI,Same Day,Returned,Home Office
+ORD00924,CUST0019,Customer_178,2024-03-13,East,Bihar,Patna,Electronics,Headphones,3,3000,10,8100.0,5400,2700.0,33.33,UPI,Standard,Delivered,Home Office
+ORD00925,CUST0116,Customer_180,2025-03-17,East,Odisha,Bhubaneswar,Fashion,T-Shirt,1,800,0,800.0,400,400.0,50.0,Credit Card,Same Day,Delivered,Corporate
+ORD00926,CUST0010,Customer_283,2025-05-08,North,Chandigarh,Chandigarh,Beauty,Perfume,7,1800,25,9450.0,6300,3150.0,33.33,Net Banking,Same Day,Delivered,Corporate
+ORD00927,CUST0061,Customer_189,2024-12-26,South,Tamil Nadu,Chennai,Beauty,Face Wash,4,300,5,1140.0,480,660.0,57.89,UPI,Same Day,Delivered,Corporate
+ORD00928,CUST0275,Customer_291,2024-02-16,North,Rajasthan,Jaipur,Fashion,T-Shirt,2,800,0,1600.0,800,800.0,50.0,Credit Card,Express,Delivered,Consumer
+ORD00929,CUST0161,Customer_180,2025-09-08,South,Tamil Nadu,Chennai,Fashion,Sneakers,8,2800,25,16800.0,14400,2400.0,14.29,UPI,Same Day,Delivered,Corporate
+ORD00930,CUST0279,Customer_106,2025-05-21,West,Maharashtra,Mumbai,Beauty,Shampoo,6,450,20,2160.0,1200,960.0,44.44,Debit Card,Same Day,Delivered,Corporate
+ORD00931,CUST0164,Customer_278,2025-05-30,North,Delhi,Delhi,Home & Kitchen,Vacuum Cleaner,8,7000,10,50400.0,40000,10400.0,20.63,UPI,Standard,Returned,Home Office
+ORD00932,CUST0119,Customer_157,2025-07-20,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,1,4500,5,4275.0,3000,1275.0,29.82,Net Banking,Same Day,Delivered,Consumer
+ORD00933,CUST0011,Customer_256,2024-02-04,West,Gujarat,Ahmedabad,Beauty,Shampoo,2,450,0,900.0,400,500.0,55.56,Debit Card,Same Day,Delivered,Consumer
+ORD00934,CUST0196,Customer_197,2025-03-30,North,Delhi,Delhi,Fashion,Sneakers,3,2800,25,6300.0,5400,900.0,14.29,Net Banking,Same Day,Delivered,Corporate
+ORD00935,CUST0017,Customer_278,2024-12-22,North,Rajasthan,Jaipur,Home & Kitchen,Water Bottle,4,500,0,2000.0,1000,1000.0,50.0,Debit Card,Same Day,In Transit,Corporate
+ORD00936,CUST0219,Customer_30,2024-04-21,East,Bihar,Patna,Home & Kitchen,Vacuum Cleaner,7,7000,20,39200.0,35000,4200.0,10.71,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00937,CUST0240,Customer_122,2024-05-15,North,Chandigarh,Chandigarh,Home & Kitchen,Mixer,4,3500,20,11200.0,9600,1600.0,14.29,Debit Card,Express,Delivered,Consumer
+ORD00938,CUST0141,Customer_186,2024-10-02,West,Maharashtra,Pune,Electronics,Laptop,5,60000,20,240000.0,225000,15000.0,6.25,Debit Card,Express,In Transit,Corporate
+ORD00939,CUST0237,Customer_9,2025-03-26,North,Chandigarh,Chandigarh,Electronics,Tablet,8,18000,25,108000.0,104000,4000.0,3.7,Cash on Delivery,Standard,Delivered,Home Office
+ORD00940,CUST0041,Customer_142,2025-09-16,West,Maharashtra,Mumbai,Beauty,Perfume,5,1800,10,8100.0,4500,3600.0,44.44,Debit Card,Express,Delivered,Home Office
+ORD00941,CUST0090,Customer_76,2025-09-24,North,Delhi,Delhi,Electronics,Laptop,3,60000,25,135000.0,135000,0.0,0.0,Cash on Delivery,Express,Delivered,Consumer
+ORD00942,CUST0284,Customer_117,2024-03-03,West,Gujarat,Ahmedabad,Electronics,Tablet,1,18000,20,14400.0,13000,1400.0,9.72,Credit Card,Express,Delivered,Home Office
+ORD00943,CUST0228,Customer_58,2025-06-07,North,Delhi,Delhi,Fashion,Jacket,6,3500,25,15750.0,13200,2550.0,16.19,Net Banking,Standard,Delivered,Corporate
+ORD00944,CUST0074,Customer_13,2024-11-30,West,Gujarat,Ahmedabad,Beauty,Shampoo,8,450,10,3240.0,1600,1640.0,50.62,Cash on Delivery,Standard,Delivered,Consumer
+ORD00945,CUST0149,Customer_77,2025-08-28,North,Delhi,Delhi,Fashion,Jacket,6,3500,5,19950.0,13200,6750.0,33.83,Net Banking,Same Day,Delivered,Home Office
+ORD00946,CUST0077,Customer_196,2025-10-26,North,Delhi,Delhi,Fashion,Sneakers,2,2800,20,4480.0,3600,880.0,19.64,UPI,Same Day,Delivered,Home Office
+ORD00947,CUST0267,Customer_226,2024-11-20,West,Maharashtra,Mumbai,Home & Kitchen,Cookware Set,6,4500,5,25650.0,18000,7650.0,29.82,Debit Card,Standard,Delivered,Home Office
+ORD00948,CUST0060,Customer_124,2025-03-31,East,Odisha,Bhubaneswar,Electronics,Tablet,2,18000,10,32400.0,26000,6400.0,19.75,Net Banking,Same Day,Delivered,Corporate
+ORD00949,CUST0118,Customer_292,2024-05-08,South,Tamil Nadu,Chennai,Fashion,Jacket,5,3500,10,15750.0,11000,4750.0,30.16,Debit Card,Standard,Delivered,Corporate
+ORD00950,CUST0259,Customer_76,2025-08-12,East,Bihar,Patna,Fashion,Jeans,8,1800,0,14400.0,8000,6400.0,44.44,Credit Card,Standard,Delivered,Home Office
+ORD00951,CUST0241,Customer_52,2024-05-09,North,Chandigarh,Chandigarh,Electronics,Smartphone,2,25000,5,47500.0,36000,11500.0,24.21,Cash on Delivery,Same Day,Returned,Corporate
+ORD00952,CUST0182,Customer_66,2025-02-15,South,Telangana,Hyderabad,Home & Kitchen,Mixer,6,3500,10,18900.0,14400,4500.0,23.81,Cash on Delivery,Same Day,Delivered,Home Office
+ORD00953,CUST0024,Customer_38,2024-12-29,East,Odisha,Bhubaneswar,Beauty,Moisturizer,5,600,15,2550.0,1250,1300.0,50.98,Credit Card,Same Day,Delivered,Home Office
+ORD00954,CUST0261,Customer_43,2024-06-04,North,Rajasthan,Jaipur,Home & Kitchen,Vacuum Cleaner,7,7000,10,44100.0,35000,9100.0,20.63,Net Banking,Standard,Delivered,Home Office
+ORD00955,CUST0144,Customer_50,2024-08-25,West,Gujarat,Ahmedabad,Home & Kitchen,Mixer,7,3500,10,22050.0,16800,5250.0,23.81,Debit Card,Express,Delivered,Consumer
+ORD00956,CUST0074,Customer_22,2024-08-03,East,Bihar,Patna,Home & Kitchen,Water Bottle,2,500,10,900.0,500,400.0,44.44,Debit Card,Standard,Delivered,Corporate
+ORD00957,CUST0250,Customer_225,2024-08-17,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer,4,3500,25,10500.0,9600,900.0,8.57,Debit Card,Standard,Delivered,Home Office
+ORD00958,CUST0261,Customer_87,2024-01-29,North,Rajasthan,Jaipur,Fashion,T-Shirt,8,800,0,6400.0,3200,3200.0,50.0,Debit Card,Standard,Delivered,Home Office
+ORD00959,CUST0219,Customer_228,2025-06-17,South,Tamil Nadu,Chennai,Home & Kitchen,Mixer,2,3500,15,5950.0,4800,1150.0,19.33,Net Banking,Express,Delivered,Consumer
+ORD00960,CUST0143,Customer_60,2024-12-28,North,Rajasthan,Jaipur,Fashion,T-Shirt,6,800,5,4560.0,2400,2160.0,47.37,Cash on Delivery,Express,Delivered,Home Office
+ORD00961,CUST0263,Customer_38,2025-12-24,West,Maharashtra,Mumbai,Beauty,Face Wash,6,300,5,1710.0,720,990.0,57.89,Cash on Delivery,Same Day,In Transit,Home Office
+ORD00962,CUST0019,Customer_5,2024-09-08,South,Telangana,Hyderabad,Beauty,Perfume,4,1800,10,6480.0,3600,2880.0,44.44,Net Banking,Standard,Delivered,Consumer
+ORD00963,CUST0255,Customer_145,2024-05-14,South,Telangana,Hyderabad,Electronics,Smartphone,1,25000,15,21250.0,18000,3250.0,15.29,UPI,Express,Delivered,Consumer
+ORD00964,CUST0092,Customer_20,2025-03-04,West,Maharashtra,Pune,Beauty,Perfume,6,1800,15,9180.0,5400,3780.0,41.18,Cash on Delivery,Same Day,Returned,Corporate
+ORD00965,CUST0119,Customer_150,2025-11-15,East,Odisha,Bhubaneswar,Beauty,Shampoo,8,450,10,3240.0,1600,1640.0,50.62,UPI,Standard,Delivered,Corporate
+ORD00966,CUST0215,Customer_229,2024-11-29,South,Telangana,Hyderabad,Beauty,Face Wash,3,300,15,765.0,360,405.0,52.94,Debit Card,Same Day,Delivered,Home Office
+ORD00967,CUST0204,Customer_66,2025-05-10,East,Bihar,Patna,Beauty,Perfume,1,1800,10,1620.0,900,720.0,44.44,Debit Card,Same Day,Delivered,Corporate
+ORD00968,CUST0032,Customer_288,2024-11-26,West,Maharashtra,Pune,Home & Kitchen,Vacuum Cleaner,7,7000,15,41650.0,35000,6650.0,15.97,Net Banking,Express,Delivered,Consumer
+ORD00969,CUST0138,Customer_249,2024-08-12,West,Maharashtra,Pune,Electronics,Tablet,8,18000,15,122400.0,104000,18400.0,15.03,Credit Card,Same Day,In Transit,Home Office
+ORD00970,CUST0106,Customer_57,2025-09-20,West,Maharashtra,Mumbai,Electronics,Laptop,7,60000,0,420000.0,315000,105000.0,25.0,Debit Card,Express,Delivered,Home Office
+ORD00971,CUST0033,Customer_26,2025-06-15,South,Tamil Nadu,Chennai,Fashion,Jeans,7,1800,25,9450.0,7000,2450.0,25.93,Credit Card,Express,In Transit,Corporate
+ORD00972,CUST0170,Customer_212,2024-08-08,South,Karnataka,Bengaluru,Electronics,Laptop,2,60000,20,96000.0,90000,6000.0,6.25,Net Banking,Express,Delivered,Corporate
+ORD00973,CUST0155,Customer_13,2024-08-23,South,Karnataka,Bengaluru,Home & Kitchen,Mixer,7,3500,25,18375.0,16800,1575.0,8.57,Net Banking,Standard,In Transit,Corporate
+ORD00974,CUST0044,Customer_40,2024-03-16,East,West Bengal,Kolkata,Electronics,Smartphone,2,25000,25,37500.0,36000,1500.0,4.0,Cash on Delivery,Express,Delivered,Home Office
+ORD00975,CUST0160,Customer_166,2025-03-11,North,Chandigarh,Chandigarh,Home & Kitchen,Vacuum Cleaner,4,7000,0,28000.0,20000,8000.0,28.57,Debit Card,Same Day,Delivered,Corporate
+ORD00976,CUST0150,Customer_220,2024-04-05,South,Tamil Nadu,Chennai,Home & Kitchen,Vacuum Cleaner,5,7000,25,26250.0,25000,1250.0,4.76,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00977,CUST0255,Customer_202,2025-01-16,North,Chandigarh,Chandigarh,Fashion,T-Shirt,7,800,5,5320.0,2800,2520.0,47.37,Net Banking,Express,Delivered,Consumer
+ORD00978,CUST0160,Customer_171,2024-05-27,North,Delhi,Delhi,Fashion,Jeans,8,1800,20,11520.0,8000,3520.0,30.56,Credit Card,Standard,Delivered,Home Office
+ORD00979,CUST0243,Customer_268,2025-08-03,South,Karnataka,Bengaluru,Beauty,Shampoo,7,450,10,2835.0,1400,1435.0,50.62,Debit Card,Standard,Delivered,Home Office
+ORD00980,CUST0290,Customer_209,2024-01-06,West,Maharashtra,Pune,Fashion,Sneakers,8,2800,10,20160.0,14400,5760.0,28.57,Credit Card,Express,Delivered,Corporate
+ORD00981,CUST0264,Customer_285,2024-03-24,North,Chandigarh,Chandigarh,Electronics,Headphones,3,3000,0,9000.0,5400,3600.0,40.0,Credit Card,Same Day,Delivered,Consumer
+ORD00982,CUST0102,Customer_225,2024-04-26,North,Chandigarh,Chandigarh,Beauty,Perfume,8,1800,5,13680.0,7200,6480.0,47.37,Cash on Delivery,Express,Delivered,Corporate
+ORD00983,CUST0061,Customer_223,2024-10-28,West,Maharashtra,Pune,Home & Kitchen,Water Bottle,3,500,5,1425.0,750,675.0,47.37,Debit Card,Same Day,Delivered,Home Office
+ORD00984,CUST0191,Customer_266,2025-09-11,West,Gujarat,Ahmedabad,Beauty,Perfume,6,1800,25,8100.0,5400,2700.0,33.33,Credit Card,Standard,Delivered,Corporate
+ORD00985,CUST0006,Customer_163,2025-03-02,South,Karnataka,Bengaluru,Beauty,Face Wash,1,300,10,270.0,120,150.0,55.56,Credit Card,Standard,Delivered,Home Office
+ORD00986,CUST0235,Customer_170,2024-04-06,North,Rajasthan,Jaipur,Beauty,Perfume,2,1800,10,3240.0,1800,1440.0,44.44,Cash on Delivery,Standard,Delivered,Consumer
+ORD00987,CUST0099,Customer_141,2024-10-18,East,Bihar,Patna,Home & Kitchen,Water Bottle,7,500,10,3150.0,1750,1400.0,44.44,Cash on Delivery,Same Day,Delivered,Consumer
+ORD00988,CUST0040,Customer_79,2024-04-15,South,Tamil Nadu,Chennai,Fashion,Jacket,2,3500,5,6650.0,4400,2250.0,33.83,Cash on Delivery,Same Day,Delivered,Corporate
+ORD00989,CUST0170,Customer_295,2025-08-29,West,Maharashtra,Pune,Beauty,Perfume,3,1800,0,5400.0,2700,2700.0,50.0,Credit Card,Standard,Delivered,Home Office
+ORD00990,CUST0076,Customer_74,2024-06-17,East,West Bengal,Kolkata,Home & Kitchen,Mixer,1,3500,5,3325.0,2400,925.0,27.82,Cash on Delivery,Express,Delivered,Corporate
+ORD00991,CUST0168,Customer_155,2025-05-27,North,Delhi,Delhi,Beauty,Moisturizer,7,600,25,3150.0,1750,1400.0,44.44,Net Banking,Express,Delivered,Home Office
+ORD00992,CUST0163,Customer_272,2024-03-21,South,Karnataka,Bengaluru,Home & Kitchen,Cookware Set,7,4500,20,25200.0,21000,4200.0,16.67,Net Banking,Express,Delivered,Corporate
+ORD00993,CUST0062,Customer_286,2025-03-21,West,Maharashtra,Mumbai,Electronics,Tablet,8,18000,25,108000.0,104000,4000.0,3.7,Debit Card,Same Day,Delivered,Home Office
+ORD00994,CUST0287,Customer_98,2025-01-26,West,Maharashtra,Mumbai,Electronics,Smartphone,8,25000,10,180000.0,144000,36000.0,20.0,Cash on Delivery,Standard,Delivered,Corporate
+ORD00995,CUST0169,Customer_49,2025-01-12,West,Maharashtra,Pune,Electronics,Tablet,1,18000,25,13500.0,13000,500.0,3.7,Debit Card,Same Day,Delivered,Consumer
+ORD00996,CUST0130,Customer_141,2025-10-02,North,Rajasthan,Jaipur,Electronics,Headphones,8,3000,15,20400.0,14400,6000.0,29.41,Credit Card,Express,Delivered,Home Office
+ORD00997,CUST0280,Customer_54,2024-02-09,West,Maharashtra,Mumbai,Fashion,Jeans,3,1800,0,5400.0,3000,2400.0,44.44,Net Banking,Standard,Delivered,Home Office
+ORD00998,CUST0032,Customer_161,2024-04-09,West,Maharashtra,Mumbai,Electronics,Tablet,6,18000,25,81000.0,78000,3000.0,3.7,Credit Card,Same Day,Delivered,Corporate
+ORD00999,CUST0265,Customer_8,2025-11-11,East,Odisha,Bhubaneswar,Electronics,Laptop,4,60000,20,192000.0,180000,12000.0,6.25,Credit Card,Same Day,Delivered,Consumer
+ORD01000,CUST0228,Customer_23,2024-10-09,South,Telangana,Hyderabad,Beauty,Perfume,1,1800,10,1620.0,900,720.0,44.44,Debit Card,Same Day,Delivered,Corporate
