@@ -142,7 +142,7 @@ DIVIDE(
 
 ### Dashboard Preview
 
-![Executive Overview](Images/dashboard_page1.png)
+![Executive Overview](images/dashboard_page1.png)
 
 ---
 
@@ -158,7 +158,7 @@ DIVIDE(
 
 ### Dashboard Preview
 
-![Customer & Product Insights](Images/dashboard_page2.png)
+![Customer & Product Insights](images/dashboard_page2.png)
 
 ---
 
